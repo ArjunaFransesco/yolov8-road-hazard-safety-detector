@@ -1,0 +1,3201 @@
+hazard_label,surface_type,weather_condition,bounding_box_area_px,aspect_ratio,intensity_contrast,edge_density,depth_est_cm,repair_urgency_score
+Surface Crack,Asphalt,Night / Low Light,2513.5,4.53,44.77,0.786,1.1,0.456
+Normal Clear,Asphalt,Overcast,202.9,1.07,11.07,0.093,0.0,0.02
+Normal Clear,Asphalt,Clear,190.4,1.02,12.91,0.073,0.0,0.02
+Road Debris,Concrete,Overcast,1296.9,1.43,48.23,0.26,5.3,0.643
+Pothole,Concrete,Clear,5693.2,1.28,66.45,0.379,6.2,0.454
+Pothole,Concrete,Overcast,4880.9,0.83,79.5,0.416,4.3,0.359
+Pothole,Concrete,Clear,4782.5,0.2,58.31,0.389,9.3,0.62
+Normal Clear,Concrete,Clear,183.5,1.49,15.34,0.061,0.0,0.02
+Road Debris,Asphalt,Rainy,1684.8,1.3,48.33,0.307,7.6,0.346
+Normal Clear,Asphalt,Overcast,205.1,1.1,5.57,0.092,0.0,0.02
+Pothole,Asphalt,Clear,5787.5,0.94,79.58,0.476,10.4,0.608
+Normal Clear,Concrete,Clear,227.2,0.93,7.52,0.098,0.0,0.02
+Normal Clear,Asphalt,Overcast,155.4,1.0,8.93,0.083,0.0,0.02
+Pothole,Concrete,Clear,2018.8,1.27,83.57,0.279,8.2,0.384
+Pothole,Asphalt,Clear,5824.5,1.08,67.24,0.459,9.5,0.607
+Pothole,Asphalt,Clear,5879.0,0.74,71.53,0.438,15.3,0.932
+Surface Crack,Asphalt,Clear,1396.3,4.53,52.15,0.714,1.5,0.351
+Road Debris,Asphalt,Overcast,1885.9,0.97,57.34,0.275,4.3,0.563
+Surface Crack,Concrete,Night / Low Light,1671.3,0.2,39.39,0.562,1.0,0.448
+Surface Crack,Concrete,Rainy,2255.4,5.78,42.47,0.586,3.4,0.661
+Road Debris,Asphalt,Overcast,2050.1,1.72,52.66,0.288,3.4,0.48
+Pothole,Asphalt,Rainy,6483.3,1.41,77.71,0.549,4.3,0.489
+Surface Crack,Asphalt,Clear,2419.0,2.25,48.56,0.735,1.3,0.48
+Surface Crack,Asphalt,Clear,2191.1,3.59,49.37,0.648,2.8,0.532
+Surface Crack,Asphalt,Clear,1363.9,2.83,47.66,0.517,3.3,0.656
+Normal Clear,Concrete,Clear,88.5,1.11,9.36,0.049,0.0,0.02
+Pothole,Asphalt,Overcast,3893.6,1.61,63.63,0.596,17.9,0.761
+Road Debris,Asphalt,Night / Low Light,3973.5,0.93,42.14,0.203,9.0,0.507
+Road Debris,Asphalt,Clear,3141.0,1.41,56.5,0.301,2.2,0.352
+Pothole,Asphalt,Rainy,4641.2,0.7,100.52,0.462,17.0,0.806
+Road Debris,Asphalt,Night / Low Light,4119.2,1.36,52.18,0.339,9.9,0.688
+Pothole,Asphalt,Overcast,5375.8,1.62,68.26,0.445,5.6,0.421
+Pothole,Asphalt,Overcast,5345.0,1.44,87.6,0.247,8.9,0.545
+Normal Clear,Asphalt,Rainy,215.7,1.14,7.9,0.098,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,223.4,0.99,22.4,0.028,0.0,0.02
+Normal Clear,Asphalt,Rainy,184.7,1.23,15.57,0.074,0.0,0.02
+Surface Crack,Asphalt,Rainy,1625.7,4.29,51.53,0.71,3.1,0.576
+Pothole,Gravel,Clear,4917.7,1.53,64.45,0.517,11.1,0.553
+Normal Clear,Asphalt,Clear,159.7,1.01,12.42,0.061,0.0,0.02
+Surface Crack,Asphalt,Rainy,1765.3,5.04,45.91,0.571,1.5,0.459
+Pothole,Asphalt,Clear,4270.1,1.43,68.45,0.469,4.1,0.389
+Surface Crack,Asphalt,Clear,995.7,3.45,46.15,0.467,1.3,0.452
+Pothole,Asphalt,Night / Low Light,2911.7,1.63,58.13,0.252,11.9,0.663
+Normal Clear,Concrete,Clear,178.9,0.96,12.62,0.068,0.0,0.02
+Pothole,Concrete,Rainy,4641.1,1.25,61.05,0.348,14.0,0.794
+Normal Clear,Asphalt,Rainy,196.5,1.06,9.85,0.108,0.0,0.02
+Surface Crack,Asphalt,Overcast,2105.0,2.68,42.06,0.732,1.7,0.473
+Road Debris,Asphalt,Rainy,3077.8,1.39,57.18,0.251,6.5,0.332
+Road Debris,Concrete,Clear,2050.1,1.61,64.86,0.339,2.9,0.731
+Pothole,Asphalt,Rainy,3719.2,1.1,92.03,0.395,16.2,0.728
+Normal Clear,Asphalt,Overcast,198.4,0.84,7.27,0.083,0.0,0.02
+Normal Clear,Asphalt,Overcast,62.1,1.12,1.0,0.049,0.0,0.02
+Normal Clear,Asphalt,Clear,228.8,0.86,9.95,0.118,0.0,0.02
+Normal Clear,Asphalt,Clear,110.4,1.15,16.7,0.094,0.0,0.02
+Road Debris,Asphalt,Overcast,1199.6,1.26,82.14,0.271,7.7,0.799
+Normal Clear,Asphalt,Clear,120.4,1.07,9.67,0.092,0.0,0.02
+Pothole,Concrete,Rainy,2915.9,1.13,83.43,0.415,17.3,0.727
+Pothole,Asphalt,Clear,6061.2,0.72,78.63,0.268,8.1,0.607
+Pothole,Asphalt,Clear,2177.5,1.04,83.97,0.41,5.7,0.31
+Surface Crack,Concrete,Clear,2145.1,3.18,34.89,0.55,2.3,0.506
+Surface Crack,Asphalt,Clear,2467.6,3.72,45.68,0.622,2.8,0.601
+Pothole,Asphalt,Night / Low Light,4859.7,1.29,69.96,0.423,4.2,0.267
+Normal Clear,Asphalt,Overcast,136.3,0.91,9.24,0.094,0.0,0.02
+Surface Crack,Asphalt,Clear,2586.4,5.09,34.95,0.779,3.2,0.644
+Surface Crack,Concrete,Overcast,752.2,3.38,40.99,0.803,2.4,0.553
+Road Debris,Asphalt,Clear,2342.8,2.04,53.1,0.351,7.2,0.23
+Pothole,Asphalt,Rainy,3085.6,1.24,86.39,0.33,4.5,0.266
+Normal Clear,Asphalt,Clear,77.8,1.09,13.65,0.052,0.0,0.02
+Pothole,Asphalt,Overcast,5845.2,1.44,79.71,0.421,17.1,0.941
+Normal Clear,Concrete,Night / Low Light,207.7,0.83,9.39,0.06,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,145.7,1.01,13.3,0.139,0.0,0.02
+Pothole,Asphalt,Overcast,5365.5,1.05,67.96,0.54,9.8,0.651
+Pothole,Concrete,Rainy,3563.8,1.42,61.29,0.383,9.2,0.526
+Normal Clear,Asphalt,Overcast,165.6,1.27,4.96,0.052,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,190.3,1.04,12.18,0.118,0.0,0.02
+Normal Clear,Concrete,Overcast,99.5,0.85,8.61,0.02,0.0,0.02
+Normal Clear,Concrete,Rainy,156.6,0.9,9.07,0.053,0.0,0.02
+Pothole,Asphalt,Clear,4478.7,0.96,70.66,0.457,14.1,0.724
+Surface Crack,Asphalt,Rainy,2525.5,3.77,58.11,0.741,3.5,0.679
+Pothole,Concrete,Clear,2917.9,1.03,67.42,0.489,11.7,0.678
+Normal Clear,Asphalt,Rainy,148.3,0.9,11.31,0.101,0.0,0.02
+Road Debris,Asphalt,Rainy,3650.1,1.73,56.02,0.39,10.6,0.589
+Surface Crack,Concrete,Rainy,1650.5,2.92,37.42,0.506,1.2,0.397
+Pothole,Concrete,Clear,7045.2,1.49,39.38,0.375,16.8,0.945
+Surface Crack,Asphalt,Clear,1195.1,3.77,27.71,0.776,0.9,0.251
+Surface Crack,Asphalt,Rainy,824.9,3.89,41.68,0.8,2.4,0.584
+Normal Clear,Asphalt,Overcast,208.0,0.53,9.54,0.125,0.0,0.02
+Road Debris,Concrete,Clear,1316.7,1.98,54.82,0.296,3.4,0.507
+Normal Clear,Gravel,Clear,77.9,1.19,15.81,0.104,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1422.5,3.02,34.66,0.658,1.4,0.396
+Pothole,Asphalt,Rainy,3928.2,1.38,60.48,0.438,8.6,0.507
+Normal Clear,Concrete,Clear,159.2,0.8,12.42,0.085,0.0,0.02
+Normal Clear,Asphalt,Clear,74.8,1.2,8.47,0.083,0.0,0.02
+Road Debris,Asphalt,Clear,3548.0,1.87,55.34,0.278,9.1,0.44
+Normal Clear,Gravel,Overcast,178.3,1.02,5.13,0.106,0.0,0.02
+Surface Crack,Asphalt,Clear,1556.7,5.36,44.0,0.794,1.5,0.471
+Road Debris,Asphalt,Clear,2024.0,1.81,40.41,0.314,6.8,0.386
+Surface Crack,Asphalt,Clear,1265.5,4.53,43.82,0.653,2.0,0.492
+Pothole,Asphalt,Clear,5884.2,1.55,73.23,0.433,15.5,0.854
+Pothole,Concrete,Night / Low Light,3798.8,0.72,57.58,0.247,10.1,0.508
+Pothole,Asphalt,Clear,4454.0,1.45,81.28,0.453,9.0,0.446
+Road Debris,Gravel,Clear,1166.4,1.77,53.05,0.29,3.0,0.406
+Surface Crack,Asphalt,Rainy,1191.5,4.17,43.14,0.651,1.4,0.436
+Road Debris,Asphalt,Clear,4322.4,1.33,53.68,0.288,12.0,0.517
+Normal Clear,Asphalt,Clear,194.0,0.81,11.27,0.088,0.0,0.02
+Pothole,Asphalt,Overcast,4172.4,1.38,71.37,0.567,10.7,0.631
+Surface Crack,Asphalt,Night / Low Light,1212.4,4.05,34.23,0.601,1.2,0.346
+Normal Clear,Asphalt,Overcast,204.2,0.99,14.51,0.13,0.0,0.02
+Pothole,Asphalt,Overcast,4816.5,1.03,73.61,0.376,7.5,0.408
+Pothole,Asphalt,Night / Low Light,3294.0,0.87,70.44,0.464,10.1,0.547
+Surface Crack,Concrete,Clear,2274.5,3.78,30.85,0.949,2.2,0.49
+Pothole,Concrete,Night / Low Light,4884.3,1.12,83.3,0.355,12.9,0.697
+Normal Clear,Concrete,Overcast,126.5,1.22,18.4,0.126,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,187.9,0.95,1.0,0.089,0.0,0.02
+Road Debris,Asphalt,Rainy,2498.4,1.56,55.54,0.22,10.1,0.568
+Normal Clear,Concrete,Clear,182.7,0.8,15.43,0.071,0.0,0.02
+Normal Clear,Asphalt,Overcast,137.0,1.42,14.39,0.061,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4577.4,1.21,88.23,0.423,10.9,0.73
+Normal Clear,Concrete,Overcast,123.0,0.84,10.41,0.067,0.0,0.02
+Road Debris,Concrete,Clear,3051.0,0.88,44.22,0.321,9.9,0.432
+Normal Clear,Asphalt,Clear,187.1,1.06,11.42,0.096,0.0,0.02
+Normal Clear,Asphalt,Clear,194.6,0.97,8.85,0.04,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1950.4,6.18,36.11,0.76,3.0,0.568
+Pothole,Asphalt,Clear,5605.2,1.06,62.81,0.595,16.7,0.821
+Pothole,Concrete,Clear,3429.0,0.27,68.62,0.524,14.6,0.664
+Surface Crack,Concrete,Overcast,2348.4,2.71,57.93,0.554,1.9,0.411
+Normal Clear,Concrete,Clear,136.5,0.97,11.84,0.101,0.0,0.02
+Normal Clear,Asphalt,Overcast,319.9,1.09,12.1,0.047,0.0,0.02
+Pothole,Asphalt,Clear,2231.9,1.55,61.44,0.628,15.9,0.759
+Road Debris,Concrete,Overcast,2209.1,1.61,49.81,0.403,4.9,0.498
+Surface Crack,Asphalt,Rainy,1411.3,2.39,39.01,0.754,1.2,0.461
+Pothole,Concrete,Overcast,2728.0,1.52,61.61,0.389,12.6,0.611
+Pothole,Asphalt,Overcast,2985.0,0.71,76.83,0.502,10.0,0.487
+Surface Crack,Asphalt,Clear,2284.0,0.56,36.97,0.744,0.9,0.291
+Normal Clear,Concrete,Clear,181.0,1.4,8.87,0.152,0.0,0.02
+Surface Crack,Concrete,Clear,1730.2,5.63,47.46,0.681,2.5,0.646
+Road Debris,Gravel,Night / Low Light,2331.5,1.91,69.54,0.271,7.8,0.513
+Normal Clear,Concrete,Overcast,120.4,0.63,8.87,0.084,0.0,0.02
+Surface Crack,Asphalt,Rainy,1286.1,2.74,44.59,0.795,2.8,0.614
+Normal Clear,Concrete,Rainy,140.6,1.17,8.7,0.065,0.0,0.02
+Normal Clear,Concrete,Clear,49.5,0.74,19.23,0.129,0.0,0.02
+Pothole,Asphalt,Overcast,4578.9,1.7,66.08,0.401,4.7,0.417
+Surface Crack,Asphalt,Overcast,2076.8,4.62,44.08,0.826,3.0,0.665
+Surface Crack,Asphalt,Clear,1217.8,2.31,46.19,0.633,1.7,0.472
+Surface Crack,Asphalt,Rainy,1956.1,5.34,65.27,0.597,3.2,0.608
+Pothole,Concrete,Clear,4048.3,1.29,75.01,0.523,9.7,0.582
+Road Debris,Asphalt,Rainy,2123.3,1.67,73.33,0.253,6.7,0.521
+Road Debris,Asphalt,Rainy,1992.1,1.26,61.55,0.315,6.0,0.559
+Pothole,Asphalt,Clear,3110.8,1.31,74.7,0.429,14.5,0.753
+Pothole,Asphalt,Clear,4036.8,0.93,71.0,0.225,17.0,0.811
+Normal Clear,Asphalt,Clear,96.7,1.17,5.97,0.11,0.0,0.02
+Pothole,Asphalt,Rainy,5041.2,0.76,69.51,0.632,14.4,0.835
+Pothole,Gravel,Rainy,3792.9,0.82,72.75,0.411,10.2,0.6
+Surface Crack,Asphalt,Clear,2295.1,4.34,32.09,0.644,3.3,0.682
+Normal Clear,Asphalt,Night / Low Light,161.7,1.23,14.5,0.075,0.0,0.02
+Pothole,Asphalt,Night / Low Light,6122.8,0.49,92.62,0.284,10.6,0.78
+Normal Clear,Concrete,Clear,83.8,1.16,7.93,0.061,0.0,0.02
+Normal Clear,Asphalt,Clear,119.2,1.09,13.3,0.044,0.0,0.02
+Pothole,Concrete,Night / Low Light,5027.9,1.14,46.15,0.385,8.2,0.616
+Normal Clear,Concrete,Overcast,111.7,0.98,9.45,0.102,0.0,0.02
+Surface Crack,Concrete,Clear,1627.1,3.97,46.26,0.669,3.4,0.728
+Road Debris,Asphalt,Clear,2345.8,1.04,50.31,0.226,11.8,0.479
+Road Debris,Concrete,Clear,2669.3,1.16,61.65,0.433,8.6,0.514
+Road Debris,Asphalt,Rainy,1601.5,1.61,53.7,0.347,4.3,0.388
+Pothole,Gravel,Clear,5708.8,1.21,57.63,0.547,9.2,0.538
+Normal Clear,Asphalt,Clear,141.1,0.72,17.51,0.093,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2159.4,2.05,55.35,0.715,2.0,0.462
+Pothole,Asphalt,Rainy,3709.9,1.02,73.74,0.374,7.2,0.309
+Pothole,Asphalt,Clear,6215.9,1.5,70.53,0.408,4.2,0.484
+Road Debris,Concrete,Clear,4221.4,0.97,74.84,0.345,3.5,0.391
+Normal Clear,Asphalt,Rainy,175.1,0.84,16.85,0.077,0.0,0.02
+Pothole,Asphalt,Clear,4555.8,1.69,59.2,0.475,12.8,0.663
+Road Debris,Asphalt,Clear,898.1,1.93,80.05,0.273,6.7,0.441
+Pothole,Concrete,Overcast,6625.2,1.02,60.43,0.482,6.8,0.583
+Road Debris,Concrete,Clear,2502.8,1.73,57.38,0.329,9.2,0.615
+Pothole,Concrete,Night / Low Light,3751.7,1.51,61.74,0.407,8.8,0.493
+Normal Clear,Concrete,Overcast,62.8,0.79,10.7,0.086,0.0,0.02
+Surface Crack,Asphalt,Clear,2406.2,3.31,37.94,0.506,2.8,0.669
+Normal Clear,Asphalt,Clear,207.0,0.91,13.28,0.096,0.0,0.02
+Pothole,Concrete,Rainy,5509.9,1.48,70.24,0.344,10.0,0.658
+Surface Crack,Asphalt,Overcast,1389.7,3.79,45.49,0.843,0.6,0.28
+Pothole,Asphalt,Overcast,4666.8,1.1,57.47,0.424,17.5,0.797
+Normal Clear,Asphalt,Night / Low Light,197.1,1.04,10.59,0.144,0.0,0.02
+Normal Clear,Asphalt,Clear,145.3,1.23,10.4,0.101,0.0,0.02
+Pothole,Asphalt,Night / Low Light,5613.6,1.26,39.75,0.421,12.8,0.704
+Normal Clear,Concrete,Clear,194.6,1.35,13.92,0.087,0.0,0.02
+Normal Clear,Asphalt,Rainy,135.5,1.11,12.52,0.057,0.0,0.02
+Road Debris,Asphalt,Clear,2221.9,1.15,55.14,0.31,5.7,0.663
+Road Debris,Asphalt,Clear,2656.6,1.25,38.81,0.338,11.1,0.453
+Pothole,Concrete,Night / Low Light,2288.3,0.92,69.22,0.406,5.1,0.329
+Pothole,Asphalt,Rainy,6245.8,0.71,91.23,0.431,4.8,0.496
+Normal Clear,Concrete,Clear,121.4,1.25,5.68,0.068,0.0,0.02
+Normal Clear,Concrete,Clear,134.4,1.03,4.11,0.121,0.0,0.02
+Road Debris,Asphalt,Overcast,2872.8,1.95,71.13,0.256,6.1,0.251
+Surface Crack,Gravel,Night / Low Light,1524.6,4.44,46.75,0.633,3.1,0.731
+Surface Crack,Gravel,Clear,1734.7,4.85,37.1,0.481,0.6,0.403
+Normal Clear,Concrete,Clear,110.5,1.14,10.87,0.116,0.0,0.02
+Normal Clear,Concrete,Clear,201.1,1.04,10.64,0.109,0.0,0.02
+Normal Clear,Asphalt,Overcast,182.3,0.86,6.69,0.071,0.0,0.02
+Normal Clear,Asphalt,Rainy,225.8,1.23,7.55,0.045,0.0,0.02
+Road Debris,Asphalt,Rainy,3647.2,1.05,60.09,0.263,4.2,0.472
+Pothole,Asphalt,Rainy,5763.3,1.35,89.5,0.385,11.3,0.73
+Pothole,Gravel,Clear,1856.5,1.13,70.96,0.33,13.2,0.571
+Normal Clear,Asphalt,Overcast,88.1,1.24,15.35,0.101,0.0,0.02
+Road Debris,Concrete,Rainy,2424.6,1.38,71.85,0.407,7.9,0.564
+Pothole,Concrete,Clear,4110.2,1.46,56.22,0.365,4.5,0.41
+Pothole,Concrete,Clear,6028.4,1.52,72.15,0.507,9.0,0.607
+Normal Clear,Gravel,Rainy,160.4,1.09,13.69,0.032,0.0,0.02
+Pothole,Asphalt,Overcast,3151.1,1.23,47.75,0.486,4.7,0.327
+Pothole,Asphalt,Clear,5065.1,1.31,77.32,0.436,13.5,0.629
+Road Debris,Asphalt,Overcast,2959.5,1.58,60.3,0.293,9.0,0.208
+Normal Clear,Asphalt,Night / Low Light,92.8,0.77,12.87,0.118,0.0,0.02
+Normal Clear,Asphalt,Clear,144.1,1.17,14.59,0.084,0.0,0.02
+Pothole,Asphalt,Clear,5188.8,1.27,66.29,0.451,13.7,0.829
+Normal Clear,Concrete,Clear,160.2,1.08,17.66,0.054,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4365.8,1.06,53.99,0.394,4.3,0.374
+Surface Crack,Asphalt,Clear,1271.5,5.0,31.53,0.746,0.8,0.418
+Normal Clear,Concrete,Clear,163.9,1.06,11.45,0.069,0.0,0.02
+Road Debris,Asphalt,Rainy,5342.0,1.86,59.13,0.286,5.7,0.493
+Normal Clear,Asphalt,Night / Low Light,142.2,0.51,15.29,0.061,0.0,0.02
+Normal Clear,Concrete,Clear,130.1,0.79,5.84,0.124,0.0,0.02
+Road Debris,Asphalt,Clear,3215.9,1.82,52.83,0.196,8.5,0.71
+Pothole,Concrete,Rainy,4380.8,1.12,44.54,0.395,13.8,0.752
+Surface Crack,Asphalt,Rainy,2262.5,4.17,48.76,0.785,0.8,0.342
+Pothole,Concrete,Overcast,4696.0,1.64,79.66,0.316,13.0,0.799
+Pothole,Asphalt,Clear,2371.5,1.69,70.22,0.548,6.9,0.349
+Normal Clear,Asphalt,Overcast,221.7,0.72,10.63,0.114,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2494.3,3.61,39.12,0.746,1.5,0.48
+Normal Clear,Concrete,Rainy,242.8,0.9,8.48,0.089,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,3071.7,1.35,75.25,0.354,10.5,0.462
+Normal Clear,Asphalt,Clear,153.2,0.94,7.37,0.026,0.0,0.02
+Road Debris,Gravel,Clear,2037.3,1.86,67.56,0.371,4.5,0.594
+Road Debris,Concrete,Night / Low Light,2058.3,1.2,66.48,0.257,4.1,0.506
+Surface Crack,Asphalt,Rainy,1279.9,3.77,48.9,0.727,3.3,0.651
+Pothole,Concrete,Rainy,4689.9,1.84,81.94,0.423,4.4,0.38
+Normal Clear,Asphalt,Clear,174.2,1.05,13.52,0.12,0.0,0.02
+Surface Crack,Asphalt,Overcast,1959.1,3.09,52.07,0.513,2.3,0.512
+Pothole,Asphalt,Rainy,3930.7,0.92,71.7,0.479,8.6,0.476
+Road Debris,Gravel,Clear,3135.9,1.49,49.54,0.219,8.1,0.537
+Pothole,Gravel,Clear,4785.9,1.21,68.83,0.339,13.9,0.731
+Normal Clear,Asphalt,Night / Low Light,132.8,1.02,10.0,0.1,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,243.5,0.85,5.34,0.02,0.0,0.02
+Normal Clear,Asphalt,Rainy,142.5,0.87,12.83,0.084,0.0,0.02
+Surface Crack,Gravel,Overcast,838.1,1.8,47.37,0.664,1.3,0.5
+Pothole,Gravel,Clear,4162.2,0.93,70.99,0.327,11.1,0.635
+Normal Clear,Asphalt,Clear,202.9,1.02,4.93,0.071,0.0,0.02
+Surface Crack,Concrete,Overcast,2078.0,3.43,42.79,0.528,1.1,0.399
+Normal Clear,Concrete,Overcast,227.1,0.74,6.46,0.085,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,207.5,1.11,13.21,0.071,0.0,0.02
+Normal Clear,Asphalt,Overcast,183.8,1.17,10.97,0.052,0.0,0.02
+Surface Crack,Asphalt,Clear,1234.7,4.77,32.65,0.818,3.2,0.596
+Surface Crack,Concrete,Overcast,1165.5,4.49,44.07,0.671,0.9,0.402
+Normal Clear,Concrete,Clear,107.3,0.79,8.09,0.116,0.0,0.02
+Surface Crack,Asphalt,Clear,2038.8,2.93,51.98,0.576,2.6,0.465
+Pothole,Gravel,Clear,2441.8,1.45,88.2,0.451,4.6,0.282
+Road Debris,Asphalt,Clear,2252.9,1.65,46.53,0.28,4.0,0.358
+Normal Clear,Asphalt,Clear,99.8,1.03,10.53,0.085,0.0,0.02
+Normal Clear,Concrete,Clear,151.1,0.8,14.51,0.079,0.0,0.02
+Road Debris,Concrete,Clear,1610.3,2.4,59.76,0.291,8.0,0.354
+Pothole,Asphalt,Clear,5017.8,1.03,45.74,0.36,11.9,0.704
+Road Debris,Asphalt,Rainy,1655.4,1.28,52.18,0.363,6.0,0.46
+Normal Clear,Asphalt,Clear,93.8,0.93,15.62,0.072,0.0,0.02
+Pothole,Asphalt,Clear,4139.5,1.11,80.16,0.523,5.9,0.427
+Road Debris,Asphalt,Night / Low Light,2980.3,2.1,51.09,0.389,9.6,0.366
+Normal Clear,Asphalt,Overcast,116.5,0.89,18.42,0.102,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,118.1,1.16,11.48,0.129,0.0,0.02
+Normal Clear,Asphalt,Clear,133.3,0.69,11.25,0.07,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,82.8,1.12,17.7,0.046,0.0,0.02
+Surface Crack,Concrete,Clear,2383.6,3.13,44.8,0.637,1.0,0.4
+Surface Crack,Asphalt,Clear,2500.3,5.55,39.52,0.73,2.8,0.523
+Normal Clear,Asphalt,Clear,209.1,0.77,12.6,0.111,0.0,0.02
+Normal Clear,Concrete,Overcast,143.7,1.23,10.91,0.042,0.0,0.02
+Normal Clear,Asphalt,Clear,168.7,1.04,22.75,0.052,0.0,0.02
+Normal Clear,Concrete,Clear,137.4,0.85,11.43,0.075,0.0,0.02
+Road Debris,Concrete,Clear,1714.9,1.69,52.86,0.381,7.3,0.435
+Road Debris,Concrete,Overcast,1568.0,1.85,55.47,0.342,10.3,0.422
+Normal Clear,Gravel,Rainy,136.8,0.72,11.55,0.085,0.0,0.02
+Road Debris,Asphalt,Clear,2541.2,2.03,53.51,0.186,11.3,0.854
+Normal Clear,Asphalt,Rainy,160.8,1.06,13.61,0.025,0.0,0.02
+Normal Clear,Asphalt,Rainy,134.9,0.7,17.11,0.078,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,140.3,1.18,13.69,0.046,0.0,0.02
+Surface Crack,Asphalt,Clear,1757.5,3.43,31.04,0.581,3.2,0.603
+Surface Crack,Asphalt,Overcast,2107.4,4.03,39.41,0.775,0.6,0.3
+Pothole,Gravel,Clear,4980.8,0.96,73.48,0.391,4.8,0.488
+Road Debris,Asphalt,Night / Low Light,1980.3,1.67,43.08,0.244,10.3,0.613
+Pothole,Asphalt,Clear,2582.9,1.65,92.65,0.543,6.3,0.272
+Surface Crack,Asphalt,Clear,1167.4,5.37,40.67,0.721,1.4,0.437
+Road Debris,Asphalt,Clear,3738.0,1.34,75.36,0.42,2.5,0.348
+Surface Crack,Asphalt,Rainy,1396.7,4.17,50.95,0.706,3.0,0.501
+Road Debris,Asphalt,Clear,1363.4,1.01,56.07,0.27,10.5,0.642
+Pothole,Asphalt,Night / Low Light,3660.6,0.77,85.46,0.455,16.0,0.741
+Pothole,Asphalt,Clear,6338.9,1.33,90.18,0.463,17.6,0.942
+Normal Clear,Concrete,Night / Low Light,101.8,1.52,12.7,0.105,0.0,0.02
+Surface Crack,Concrete,Overcast,2113.1,4.01,43.18,0.37,1.8,0.424
+Pothole,Concrete,Rainy,5318.0,1.2,75.27,0.425,6.5,0.523
+Road Debris,Asphalt,Night / Low Light,3038.3,1.88,71.06,0.366,10.2,0.52
+Normal Clear,Concrete,Night / Low Light,73.8,0.89,11.23,0.112,0.0,0.02
+Pothole,Concrete,Clear,3766.8,1.44,67.98,0.406,5.4,0.33
+Road Debris,Asphalt,Overcast,3342.6,1.16,53.85,0.356,3.5,0.429
+Pothole,Concrete,Clear,5290.4,1.27,79.94,0.466,5.5,0.464
+Pothole,Asphalt,Rainy,4163.4,1.47,84.45,0.346,4.6,0.447
+Road Debris,Concrete,Night / Low Light,3103.9,1.93,64.39,0.296,5.4,0.57
+Road Debris,Gravel,Clear,2151.4,1.53,69.4,0.281,8.6,0.458
+Road Debris,Asphalt,Clear,3494.5,1.35,67.58,0.268,5.5,0.581
+Normal Clear,Concrete,Rainy,138.6,0.85,9.39,0.06,0.0,0.02
+Normal Clear,Asphalt,Overcast,203.3,1.03,7.54,0.072,0.0,0.02
+Road Debris,Gravel,Overcast,2382.1,0.64,53.03,0.343,11.1,0.486
+Surface Crack,Asphalt,Rainy,2170.8,4.18,36.93,0.497,2.3,0.517
+Normal Clear,Concrete,Night / Low Light,266.5,1.03,11.86,0.072,0.0,0.02
+Pothole,Asphalt,Overcast,6029.3,0.92,79.11,0.398,9.6,0.596
+Surface Crack,Asphalt,Clear,2431.5,1.77,46.98,0.739,3.4,0.674
+Pothole,Asphalt,Clear,3979.7,1.39,75.83,0.497,15.7,0.685
+Pothole,Gravel,Night / Low Light,3419.8,1.08,71.44,0.405,4.5,0.287
+Normal Clear,Concrete,Overcast,98.4,1.13,21.13,0.063,0.0,0.02
+Normal Clear,Concrete,Overcast,126.7,1.0,5.59,0.059,0.0,0.02
+Normal Clear,Gravel,Clear,147.2,0.82,16.79,0.041,0.0,0.02
+Surface Crack,Asphalt,Clear,2340.6,5.42,48.05,0.636,1.5,0.463
+Pothole,Asphalt,Clear,5438.3,1.18,67.84,0.331,5.5,0.4
+Pothole,Asphalt,Clear,4004.3,1.34,69.74,0.505,5.6,0.406
+Pothole,Asphalt,Clear,3532.2,1.7,62.78,0.315,5.1,0.295
+Road Debris,Asphalt,Night / Low Light,3258.2,1.21,51.36,0.299,7.7,0.612
+Normal Clear,Asphalt,Clear,53.7,1.3,14.44,0.057,0.0,0.02
+Normal Clear,Asphalt,Overcast,103.3,1.13,11.01,0.022,0.0,0.02
+Pothole,Asphalt,Clear,6644.7,1.07,85.95,0.522,14.0,0.778
+Normal Clear,Asphalt,Rainy,90.9,0.64,9.67,0.083,0.0,0.02
+Normal Clear,Asphalt,Clear,99.6,1.09,14.61,0.066,0.0,0.02
+Road Debris,Gravel,Clear,1294.0,2.05,55.35,0.416,3.1,0.509
+Road Debris,Concrete,Clear,1089.7,1.66,74.53,0.24,4.6,0.472
+Surface Crack,Gravel,Overcast,1546.4,2.99,41.92,0.763,2.5,0.561
+Pothole,Asphalt,Overcast,5141.2,0.67,79.94,0.495,13.3,0.656
+Surface Crack,Asphalt,Rainy,2918.6,5.01,48.91,0.637,3.1,0.545
+Normal Clear,Concrete,Clear,143.5,0.69,10.86,0.05,0.0,0.02
+Pothole,Asphalt,Overcast,3943.4,0.87,62.61,0.388,7.4,0.592
+Pothole,Asphalt,Clear,5228.8,1.41,58.7,0.46,13.2,0.726
+Pothole,Asphalt,Clear,6192.8,1.11,61.11,0.49,8.8,0.603
+Pothole,Asphalt,Rainy,3811.8,1.38,76.15,0.425,5.4,0.415
+Normal Clear,Asphalt,Overcast,219.8,1.09,12.12,0.075,0.0,0.02
+Normal Clear,Asphalt,Clear,166.5,1.15,14.44,0.07,0.0,0.02
+Surface Crack,Concrete,Clear,1994.9,4.33,36.94,0.667,2.1,0.568
+Pothole,Asphalt,Overcast,3807.9,1.29,70.23,0.424,12.8,0.653
+Surface Crack,Asphalt,Clear,1782.5,3.95,53.89,0.5,3.0,0.693
+Surface Crack,Concrete,Clear,1177.4,3.77,54.31,0.593,0.5,0.326
+Pothole,Asphalt,Rainy,3792.1,1.3,58.29,0.338,11.8,0.705
+Surface Crack,Asphalt,Overcast,1224.2,1.47,44.92,0.612,3.2,0.61
+Surface Crack,Concrete,Rainy,1366.1,4.2,38.63,0.825,2.6,0.599
+Road Debris,Asphalt,Overcast,3138.0,0.44,46.67,0.223,11.2,0.545
+Road Debris,Asphalt,Night / Low Light,3073.2,1.31,49.67,0.338,3.0,0.497
+Pothole,Asphalt,Clear,4018.7,1.43,55.16,0.357,6.3,0.422
+Surface Crack,Asphalt,Overcast,1081.2,3.33,41.88,0.786,0.8,0.333
+Road Debris,Asphalt,Clear,2469.2,1.36,49.87,0.27,4.7,0.6
+Road Debris,Concrete,Clear,4060.6,1.65,56.08,0.285,10.3,0.546
+Normal Clear,Asphalt,Rainy,194.4,1.0,14.48,0.066,0.0,0.02
+Normal Clear,Asphalt,Clear,192.4,1.04,6.49,0.111,0.0,0.02
+Pothole,Asphalt,Clear,4345.3,1.12,62.69,0.39,8.5,0.528
+Pothole,Asphalt,Clear,6351.1,0.77,69.37,0.411,10.3,0.668
+Road Debris,Asphalt,Clear,3258.3,1.22,50.65,0.301,3.1,0.485
+Pothole,Asphalt,Overcast,6221.0,0.68,58.4,0.376,14.8,0.863
+Road Debris,Asphalt,Rainy,2350.2,1.94,41.88,0.292,9.7,0.479
+Normal Clear,Asphalt,Overcast,189.1,1.01,16.18,0.074,0.0,0.02
+Road Debris,Asphalt,Clear,2843.1,1.48,54.04,0.316,10.9,0.459
+Surface Crack,Asphalt,Clear,2092.2,3.08,46.53,0.614,0.7,0.39
+Road Debris,Concrete,Clear,3790.3,0.76,48.15,0.294,9.5,0.333
+Surface Crack,Asphalt,Clear,3054.1,3.83,29.29,0.77,2.1,0.476
+Road Debris,Asphalt,Clear,2608.6,1.92,60.84,0.274,7.6,0.552
+Normal Clear,Asphalt,Night / Low Light,88.0,1.2,10.34,0.132,0.0,0.02
+Surface Crack,Concrete,Overcast,1587.1,3.57,38.42,0.6,1.5,0.411
+Normal Clear,Asphalt,Overcast,212.1,1.15,12.26,0.13,0.0,0.02
+Normal Clear,Concrete,Clear,136.6,1.26,12.7,0.049,0.0,0.02
+Pothole,Concrete,Overcast,6717.6,1.5,66.55,0.478,8.6,0.604
+Pothole,Concrete,Clear,2127.5,0.87,64.78,0.412,16.3,0.749
+Pothole,Asphalt,Clear,4749.1,0.8,90.17,0.515,4.7,0.431
+Pothole,Asphalt,Overcast,2772.5,1.8,82.15,0.283,7.4,0.426
+Pothole,Concrete,Rainy,3073.3,1.33,70.11,0.408,14.4,0.641
+Normal Clear,Gravel,Clear,236.2,0.87,15.86,0.094,0.0,0.02
+Pothole,Concrete,Clear,5227.6,1.01,47.31,0.418,14.1,0.772
+Surface Crack,Asphalt,Clear,2269.9,3.17,56.27,0.637,2.9,0.551
+Normal Clear,Asphalt,Night / Low Light,211.7,1.45,7.64,0.074,0.0,0.02
+Pothole,Asphalt,Rainy,4904.4,1.88,59.19,0.345,5.6,0.38
+Normal Clear,Concrete,Overcast,134.1,0.84,14.28,0.122,0.0,0.02
+Surface Crack,Asphalt,Clear,2082.0,3.91,37.11,0.702,1.9,0.482
+Pothole,Asphalt,Clear,4575.4,1.07,49.23,0.329,13.4,0.716
+Normal Clear,Concrete,Rainy,69.5,1.15,7.67,0.07,0.0,0.02
+Road Debris,Asphalt,Rainy,3819.8,0.94,39.67,0.316,5.4,0.601
+Normal Clear,Concrete,Clear,165.9,1.07,18.35,0.039,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,80.3,0.97,12.25,0.069,0.0,0.02
+Normal Clear,Asphalt,Overcast,273.0,0.94,9.8,0.084,0.0,0.02
+Surface Crack,Asphalt,Overcast,2382.5,3.0,43.82,0.75,2.3,0.587
+Pothole,Concrete,Overcast,1137.7,1.33,50.88,0.46,17.2,0.632
+Normal Clear,Asphalt,Overcast,189.8,1.27,11.1,0.065,0.0,0.02
+Normal Clear,Asphalt,Rainy,109.0,0.77,16.55,0.069,0.0,0.02
+Normal Clear,Gravel,Overcast,165.1,0.63,16.01,0.098,0.0,0.02
+Surface Crack,Asphalt,Clear,993.2,4.08,45.04,0.605,2.5,0.41
+Surface Crack,Asphalt,Clear,1621.1,3.04,44.45,0.509,2.9,0.481
+Normal Clear,Asphalt,Clear,140.8,1.02,8.7,0.102,0.0,0.02
+Surface Crack,Asphalt,Rainy,922.7,3.65,33.21,0.62,3.5,0.683
+Normal Clear,Asphalt,Clear,206.2,1.14,12.77,0.126,0.0,0.02
+Normal Clear,Asphalt,Overcast,171.0,1.26,14.43,0.025,0.0,0.02
+Surface Crack,Asphalt,Clear,2582.9,3.95,44.58,0.678,2.8,0.588
+Normal Clear,Asphalt,Clear,136.5,0.92,11.55,0.119,0.0,0.02
+Normal Clear,Concrete,Rainy,70.5,0.8,16.88,0.124,0.0,0.02
+Pothole,Asphalt,Clear,3708.6,1.7,79.71,0.399,17.9,0.732
+Normal Clear,Asphalt,Clear,130.1,0.72,15.95,0.057,0.0,0.02
+Road Debris,Asphalt,Clear,1798.2,1.9,36.17,0.209,11.9,0.333
+Normal Clear,Asphalt,Rainy,139.6,1.0,15.96,0.055,0.0,0.02
+Surface Crack,Asphalt,Clear,1922.3,4.42,43.81,0.475,2.4,0.588
+Normal Clear,Asphalt,Night / Low Light,137.7,1.09,14.35,0.08,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,2125.5,2.91,57.46,0.749,1.6,0.512
+Pothole,Asphalt,Clear,3128.2,1.08,51.25,0.415,17.6,0.84
+Normal Clear,Gravel,Clear,162.9,0.79,14.38,0.062,0.0,0.02
+Pothole,Gravel,Clear,4110.5,1.27,69.24,0.422,16.4,0.806
+Surface Crack,Asphalt,Night / Low Light,2011.4,5.41,45.02,0.693,1.5,0.4
+Normal Clear,Asphalt,Clear,213.5,0.75,17.43,0.076,0.0,0.02
+Normal Clear,Asphalt,Clear,170.9,0.9,15.69,0.092,0.0,0.02
+Road Debris,Concrete,Night / Low Light,1767.3,1.03,40.4,0.311,10.1,0.448
+Road Debris,Asphalt,Rainy,2864.4,2.11,53.0,0.371,2.5,0.356
+Surface Crack,Asphalt,Clear,1154.6,4.17,41.34,0.755,1.3,0.352
+Surface Crack,Asphalt,Clear,1015.9,4.33,42.99,0.673,3.2,0.711
+Surface Crack,Concrete,Overcast,2222.0,1.85,13.62,0.678,1.9,0.52
+Normal Clear,Concrete,Overcast,112.4,1.11,11.76,0.106,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,93.4,1.03,13.86,0.084,0.0,0.02
+Normal Clear,Concrete,Rainy,157.5,1.24,5.28,0.084,0.0,0.02
+Normal Clear,Asphalt,Rainy,89.5,1.15,8.65,0.01,0.0,0.02
+Pothole,Asphalt,Overcast,5437.8,1.12,72.28,0.534,9.1,0.607
+Surface Crack,Concrete,Overcast,1769.1,4.21,44.08,0.532,2.5,0.546
+Pothole,Asphalt,Clear,6008.5,0.74,75.44,0.293,17.4,0.953
+Road Debris,Asphalt,Overcast,635.1,1.42,49.37,0.258,10.3,0.576
+Surface Crack,Asphalt,Clear,1925.5,3.31,42.48,0.65,3.5,0.638
+Normal Clear,Concrete,Clear,95.5,1.22,13.18,0.092,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1316.1,3.29,43.59,0.497,1.8,0.436
+Pothole,Asphalt,Clear,3851.8,0.98,79.8,0.358,5.9,0.36
+Pothole,Concrete,Overcast,7098.6,1.52,80.3,0.513,8.1,0.68
+Normal Clear,Asphalt,Clear,92.9,0.77,9.56,0.038,0.0,0.02
+Road Debris,Asphalt,Rainy,1797.7,1.34,60.04,0.305,4.1,0.485
+Pothole,Asphalt,Overcast,3733.0,1.15,76.24,0.369,15.3,0.723
+Pothole,Asphalt,Overcast,3178.6,1.67,70.96,0.452,4.2,0.323
+Normal Clear,Asphalt,Clear,176.5,0.79,12.46,0.079,0.0,0.02
+Pothole,Gravel,Clear,4885.9,1.23,72.56,0.395,8.5,0.613
+Normal Clear,Asphalt,Rainy,154.1,0.76,2.03,0.079,0.0,0.02
+Normal Clear,Asphalt,Clear,162.5,0.88,12.54,0.093,0.0,0.02
+Pothole,Asphalt,Overcast,5692.7,1.13,67.46,0.406,4.0,0.402
+Pothole,Asphalt,Overcast,3061.0,1.33,74.53,0.332,4.8,0.274
+Normal Clear,Gravel,Clear,127.5,1.36,15.59,0.051,0.0,0.02
+Surface Crack,Asphalt,Clear,2318.8,4.49,44.17,0.579,0.8,0.339
+Surface Crack,Asphalt,Clear,2767.7,4.84,52.48,0.687,2.0,0.475
+Normal Clear,Concrete,Overcast,114.3,1.22,18.32,0.139,0.0,0.02
+Normal Clear,Asphalt,Clear,166.6,1.17,13.24,0.122,0.0,0.02
+Normal Clear,Asphalt,Clear,171.7,1.16,7.46,0.073,0.0,0.02
+Normal Clear,Asphalt,Clear,190.7,1.14,15.6,0.084,0.0,0.02
+Surface Crack,Asphalt,Rainy,1408.8,3.74,45.38,0.674,1.5,0.405
+Pothole,Gravel,Clear,4556.0,1.04,57.99,0.401,15.2,0.796
+Normal Clear,Concrete,Clear,163.3,0.9,14.35,0.055,0.0,0.02
+Road Debris,Asphalt,Overcast,1892.7,1.75,58.57,0.223,6.3,0.658
+Surface Crack,Concrete,Overcast,1459.5,5.78,61.18,0.833,1.3,0.309
+Normal Clear,Asphalt,Night / Low Light,47.8,1.24,10.36,0.146,0.0,0.02
+Pothole,Asphalt,Clear,3258.3,1.1,74.49,0.458,13.1,0.636
+Surface Crack,Asphalt,Clear,2035.1,2.66,50.21,0.693,3.3,0.601
+Pothole,Asphalt,Rainy,3309.9,0.99,52.72,0.432,14.3,0.74
+Surface Crack,Asphalt,Clear,1508.0,3.79,45.51,0.577,2.7,0.601
+Pothole,Asphalt,Overcast,3419.5,1.09,83.27,0.374,13.5,0.746
+Pothole,Gravel,Rainy,3284.8,0.67,62.65,0.38,13.7,0.664
+Pothole,Asphalt,Clear,5402.6,1.03,57.84,0.276,7.3,0.495
+Road Debris,Asphalt,Overcast,3790.3,1.58,61.62,0.21,8.7,0.43
+Normal Clear,Asphalt,Overcast,249.6,1.2,10.17,0.057,0.0,0.02
+Road Debris,Asphalt,Clear,3508.9,1.57,46.49,0.291,9.5,0.459
+Normal Clear,Asphalt,Rainy,200.0,0.84,8.61,0.105,0.0,0.02
+Surface Crack,Asphalt,Clear,2353.2,4.74,34.47,0.603,2.1,0.517
+Surface Crack,Concrete,Clear,2192.9,4.38,37.5,0.839,2.7,0.495
+Normal Clear,Asphalt,Clear,218.1,1.01,15.06,0.124,0.0,0.02
+Pothole,Asphalt,Rainy,4794.6,1.12,47.54,0.413,14.6,0.737
+Normal Clear,Asphalt,Overcast,171.6,0.97,12.68,0.074,0.0,0.02
+Pothole,Asphalt,Rainy,6195.7,0.92,62.42,0.458,11.7,0.671
+Normal Clear,Asphalt,Clear,156.2,0.96,10.96,0.084,0.0,0.02
+Pothole,Concrete,Rainy,3506.0,1.24,73.41,0.437,15.4,0.761
+Normal Clear,Asphalt,Clear,211.7,0.8,9.21,0.113,0.0,0.02
+Road Debris,Asphalt,Overcast,1174.3,1.28,47.68,0.206,7.9,0.481
+Normal Clear,Asphalt,Clear,157.0,1.05,15.54,0.133,0.0,0.02
+Pothole,Asphalt,Clear,2862.4,1.18,64.68,0.455,5.3,0.293
+Road Debris,Asphalt,Clear,2990.9,1.38,54.21,0.288,2.5,0.477
+Normal Clear,Concrete,Night / Low Light,199.4,1.09,15.67,0.071,0.0,0.02
+Road Debris,Asphalt,Clear,1908.8,1.07,58.59,0.238,6.2,0.638
+Road Debris,Concrete,Night / Low Light,3035.9,2.36,62.7,0.29,5.6,0.537
+Normal Clear,Asphalt,Clear,188.5,1.3,10.24,0.046,0.0,0.02
+Surface Crack,Concrete,Clear,325.1,2.72,44.09,0.81,2.5,0.568
+Road Debris,Asphalt,Rainy,1036.7,1.49,58.34,0.217,3.7,0.407
+Road Debris,Concrete,Overcast,3006.6,1.46,54.23,0.379,8.7,0.677
+Normal Clear,Asphalt,Overcast,52.1,1.03,10.66,0.064,0.0,0.02
+Pothole,Gravel,Clear,5289.7,1.14,43.7,0.293,12.3,0.741
+Surface Crack,Asphalt,Clear,1632.2,3.66,48.78,0.378,0.9,0.337
+Normal Clear,Asphalt,Clear,158.2,1.13,12.66,0.098,0.0,0.02
+Normal Clear,Asphalt,Rainy,115.0,0.99,11.05,0.071,0.0,0.02
+Surface Crack,Concrete,Rainy,1319.6,3.32,36.1,0.481,2.5,0.512
+Road Debris,Asphalt,Overcast,2339.2,1.8,48.85,0.25,10.5,0.358
+Pothole,Concrete,Overcast,7209.2,1.15,54.04,0.434,16.4,0.942
+Pothole,Asphalt,Clear,4541.0,0.94,62.52,0.307,16.3,0.725
+Surface Crack,Asphalt,Rainy,2005.2,4.46,40.31,0.592,1.2,0.528
+Surface Crack,Asphalt,Overcast,1969.9,3.69,25.19,0.7,2.1,0.473
+Road Debris,Gravel,Overcast,3537.6,1.63,42.64,0.375,10.8,0.596
+Pothole,Concrete,Clear,3706.6,1.14,67.06,0.464,12.7,0.682
+Normal Clear,Gravel,Clear,249.3,1.13,8.98,0.087,0.0,0.02
+Normal Clear,Asphalt,Clear,218.5,0.8,11.88,0.073,0.0,0.02
+Normal Clear,Asphalt,Clear,118.4,1.05,11.6,0.099,0.0,0.02
+Road Debris,Concrete,Clear,3526.9,0.99,55.68,0.297,3.1,0.52
+Surface Crack,Asphalt,Clear,2446.4,3.78,42.32,0.707,0.6,0.434
+Normal Clear,Concrete,Rainy,244.0,1.11,14.39,0.084,0.0,0.02
+Normal Clear,Gravel,Clear,198.5,0.51,11.98,0.063,0.0,0.02
+Pothole,Concrete,Clear,4675.0,1.53,68.23,0.391,17.2,0.797
+Normal Clear,Concrete,Clear,54.3,0.81,15.59,0.01,0.0,0.02
+Normal Clear,Asphalt,Overcast,209.4,1.1,17.26,0.074,0.0,0.02
+Normal Clear,Asphalt,Overcast,46.9,1.09,17.1,0.108,0.0,0.02
+Normal Clear,Gravel,Rainy,116.9,1.02,9.87,0.055,0.0,0.02
+Road Debris,Asphalt,Clear,3359.8,1.02,46.06,0.234,7.3,0.534
+Surface Crack,Concrete,Overcast,1648.9,3.68,38.3,0.685,1.4,0.49
+Normal Clear,Concrete,Clear,234.3,0.87,10.09,0.095,0.0,0.02
+Normal Clear,Asphalt,Clear,231.1,0.9,6.67,0.099,0.0,0.02
+Pothole,Gravel,Clear,5458.9,1.2,61.3,0.5,17.8,0.908
+Pothole,Asphalt,Clear,4681.8,0.96,75.0,0.347,16.9,0.859
+Surface Crack,Asphalt,Clear,2211.5,3.51,41.51,0.647,3.2,0.582
+Normal Clear,Asphalt,Overcast,151.7,0.95,8.52,0.085,0.0,0.02
+Normal Clear,Asphalt,Rainy,168.2,0.93,15.73,0.088,0.0,0.02
+Pothole,Asphalt,Clear,2959.4,1.6,77.2,0.5,11.6,0.596
+Road Debris,Asphalt,Overcast,2811.1,1.48,65.42,0.314,11.5,0.554
+Surface Crack,Concrete,Clear,2961.8,3.2,40.84,0.565,1.6,0.405
+Normal Clear,Gravel,Clear,106.0,0.97,12.41,0.072,0.0,0.02
+Normal Clear,Asphalt,Rainy,32.2,1.31,16.35,0.093,0.0,0.02
+Normal Clear,Asphalt,Rainy,245.4,0.8,19.55,0.051,0.0,0.02
+Surface Crack,Gravel,Clear,1943.2,2.4,45.12,0.689,3.3,0.602
+Surface Crack,Asphalt,Clear,1855.5,2.05,49.9,0.737,1.4,0.404
+Pothole,Asphalt,Rainy,5967.3,0.7,81.6,0.585,16.8,0.863
+Pothole,Asphalt,Night / Low Light,6515.6,1.13,71.38,0.47,12.8,0.778
+Normal Clear,Asphalt,Rainy,175.8,1.21,8.9,0.064,0.0,0.02
+Normal Clear,Asphalt,Clear,244.8,0.97,12.8,0.078,0.0,0.02
+Normal Clear,Gravel,Clear,108.9,1.32,9.89,0.046,0.0,0.02
+Normal Clear,Asphalt,Clear,127.5,0.6,9.39,0.051,0.0,0.02
+Road Debris,Asphalt,Clear,3055.7,1.23,63.88,0.384,5.9,0.449
+Normal Clear,Asphalt,Overcast,119.9,0.82,12.22,0.139,0.0,0.02
+Normal Clear,Asphalt,Rainy,73.0,0.59,13.07,0.097,0.0,0.02
+Normal Clear,Concrete,Clear,152.6,1.12,7.47,0.052,0.0,0.02
+Pothole,Concrete,Night / Low Light,4648.7,1.73,74.73,0.469,6.6,0.4
+Surface Crack,Concrete,Rainy,978.3,5.74,38.81,0.628,0.8,0.388
+Pothole,Asphalt,Clear,4552.5,1.65,77.32,0.357,4.6,0.419
+Normal Clear,Gravel,Overcast,141.4,0.97,21.4,0.108,0.0,0.02
+Road Debris,Concrete,Overcast,1670.4,1.54,51.65,0.292,6.0,0.526
+Pothole,Concrete,Night / Low Light,2913.1,1.3,90.94,0.26,15.8,0.68
+Normal Clear,Asphalt,Clear,185.9,0.83,10.12,0.125,0.0,0.02
+Road Debris,Asphalt,Rainy,2255.4,0.75,54.37,0.295,7.0,0.456
+Surface Crack,Asphalt,Night / Low Light,2148.3,3.11,43.4,0.82,3.0,0.704
+Pothole,Concrete,Clear,4503.5,1.25,55.15,0.378,4.1,0.497
+Normal Clear,Asphalt,Clear,173.9,1.0,17.25,0.087,0.0,0.02
+Road Debris,Asphalt,Overcast,3138.2,1.42,57.04,0.326,3.7,0.587
+Normal Clear,Concrete,Clear,148.0,0.9,16.43,0.042,0.0,0.02
+Road Debris,Concrete,Night / Low Light,2119.8,1.91,58.16,0.297,9.8,0.486
+Normal Clear,Gravel,Rainy,196.2,0.9,6.22,0.062,0.0,0.02
+Road Debris,Asphalt,Clear,2793.5,2.0,52.43,0.363,8.7,0.594
+Road Debris,Concrete,Clear,1610.0,1.3,49.68,0.458,9.3,0.306
+Normal Clear,Asphalt,Overcast,114.7,0.81,9.27,0.067,0.0,0.02
+Surface Crack,Asphalt,Clear,1645.6,3.48,44.22,0.709,1.5,0.41
+Pothole,Asphalt,Rainy,5968.6,1.48,74.29,0.427,4.3,0.414
+Pothole,Asphalt,Night / Low Light,4732.2,0.91,61.86,0.545,8.4,0.568
+Normal Clear,Asphalt,Night / Low Light,245.0,1.08,16.43,0.073,0.0,0.02
+Road Debris,Concrete,Overcast,1296.1,1.74,60.69,0.304,10.8,0.339
+Normal Clear,Asphalt,Rainy,113.2,1.04,5.72,0.084,0.0,0.02
+Pothole,Concrete,Clear,3306.5,0.94,83.6,0.423,7.0,0.368
+Pothole,Asphalt,Overcast,5996.8,1.24,86.5,0.527,11.6,0.61
+Pothole,Asphalt,Rainy,4652.4,0.8,65.92,0.42,5.4,0.525
+Surface Crack,Asphalt,Clear,1742.9,2.25,46.32,0.747,2.5,0.596
+Road Debris,Asphalt,Clear,819.2,2.29,48.44,0.299,5.0,0.435
+Surface Crack,Asphalt,Overcast,1937.1,3.71,40.5,0.555,2.0,0.491
+Surface Crack,Asphalt,Clear,2434.7,4.5,48.46,0.56,1.6,0.378
+Normal Clear,Asphalt,Night / Low Light,204.9,0.77,4.72,0.136,0.0,0.02
+Surface Crack,Asphalt,Rainy,963.7,4.0,45.55,0.369,3.2,0.651
+Road Debris,Asphalt,Clear,2145.3,1.08,46.32,0.208,5.7,0.374
+Normal Clear,Gravel,Rainy,200.5,0.7,13.1,0.072,0.0,0.02
+Surface Crack,Asphalt,Clear,1738.4,5.3,41.49,0.711,0.6,0.316
+Road Debris,Concrete,Clear,4490.3,1.86,56.52,0.305,9.6,0.529
+Normal Clear,Concrete,Rainy,126.0,1.33,4.61,0.064,0.0,0.02
+Normal Clear,Gravel,Clear,89.6,1.08,7.55,0.093,0.0,0.02
+Pothole,Concrete,Night / Low Light,4276.3,1.06,72.66,0.399,4.8,0.378
+Normal Clear,Asphalt,Overcast,85.6,0.88,11.9,0.044,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,2656.9,1.91,43.25,0.777,3.1,0.549
+Pothole,Concrete,Clear,4978.5,1.09,64.65,0.39,4.5,0.349
+Surface Crack,Asphalt,Clear,1753.5,4.42,41.26,0.726,2.9,0.609
+Normal Clear,Asphalt,Rainy,209.4,0.87,8.58,0.044,0.0,0.02
+Surface Crack,Asphalt,Overcast,1909.7,1.76,48.7,0.639,1.5,0.476
+Surface Crack,Concrete,Overcast,2036.3,1.59,36.51,0.683,2.8,0.586
+Road Debris,Concrete,Overcast,2836.3,1.39,67.81,0.187,10.3,0.556
+Pothole,Asphalt,Clear,3769.8,1.47,70.62,0.396,15.7,0.71
+Pothole,Asphalt,Clear,6059.8,0.99,79.17,0.565,11.4,0.681
+Pothole,Asphalt,Rainy,5215.9,0.85,65.63,0.302,8.7,0.589
+Pothole,Asphalt,Clear,3947.5,1.19,71.28,0.372,10.0,0.579
+Pothole,Gravel,Clear,5422.9,1.24,65.82,0.421,13.6,0.772
+Pothole,Asphalt,Overcast,4064.6,0.74,65.37,0.439,7.7,0.562
+Road Debris,Asphalt,Clear,2093.0,1.76,53.1,0.285,9.1,0.424
+Pothole,Asphalt,Clear,5307.3,0.85,84.85,0.44,8.7,0.557
+Surface Crack,Concrete,Clear,3355.0,2.02,64.43,0.637,1.3,0.442
+Normal Clear,Asphalt,Overcast,76.1,0.9,16.41,0.085,0.0,0.02
+Surface Crack,Concrete,Rainy,1482.1,4.69,38.34,0.66,3.2,0.541
+Normal Clear,Asphalt,Night / Low Light,75.2,0.93,4.51,0.059,0.0,0.02
+Pothole,Asphalt,Overcast,2858.1,1.35,73.25,0.396,16.2,0.659
+Pothole,Asphalt,Clear,5321.7,0.88,84.54,0.592,16.0,0.837
+Pothole,Asphalt,Rainy,3608.5,1.61,70.0,0.47,9.6,0.498
+Pothole,Asphalt,Clear,5205.8,0.99,68.39,0.348,4.9,0.472
+Pothole,Gravel,Clear,2492.4,0.56,82.95,0.303,10.4,0.492
+Pothole,Concrete,Overcast,4555.5,1.42,85.93,0.436,8.4,0.547
+Pothole,Gravel,Night / Low Light,4476.6,0.93,73.42,0.396,14.7,0.746
+Pothole,Asphalt,Clear,3977.9,0.76,40.5,0.331,11.8,0.622
+Surface Crack,Gravel,Clear,953.8,3.37,44.95,0.615,2.6,0.504
+Pothole,Asphalt,Rainy,4005.1,0.76,79.66,0.431,8.6,0.503
+Surface Crack,Asphalt,Clear,1131.8,3.27,47.42,0.619,0.6,0.358
+Road Debris,Asphalt,Clear,794.9,1.44,58.25,0.366,6.5,0.492
+Normal Clear,Asphalt,Clear,20.0,1.25,17.01,0.094,0.0,0.02
+Pothole,Concrete,Clear,5258.0,1.85,56.45,0.431,10.7,0.738
+Normal Clear,Asphalt,Overcast,189.7,1.4,16.95,0.127,0.0,0.02
+Road Debris,Asphalt,Clear,3290.8,2.04,74.94,0.313,6.5,0.706
+Pothole,Asphalt,Clear,6135.7,1.18,70.93,0.318,5.0,0.434
+Normal Clear,Asphalt,Rainy,112.9,1.16,18.32,0.107,0.0,0.02
+Normal Clear,Asphalt,Overcast,202.9,0.98,5.03,0.066,0.0,0.02
+Pothole,Asphalt,Clear,4189.5,1.05,68.66,0.455,9.2,0.532
+Pothole,Concrete,Clear,5678.3,1.32,66.05,0.436,11.2,0.688
+Normal Clear,Concrete,Clear,121.6,1.1,13.16,0.081,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,196.5,0.87,9.7,0.08,0.0,0.02
+Pothole,Asphalt,Rainy,3731.8,1.35,59.44,0.438,17.3,0.782
+Pothole,Asphalt,Overcast,3610.2,1.5,78.52,0.144,5.5,0.366
+Surface Crack,Concrete,Overcast,855.8,4.21,36.08,0.622,2.9,0.576
+Surface Crack,Asphalt,Night / Low Light,1663.3,4.11,33.56,0.583,0.8,0.427
+Road Debris,Asphalt,Rainy,3980.8,1.41,48.11,0.259,11.5,0.448
+Surface Crack,Asphalt,Rainy,2106.5,3.11,35.96,0.674,2.9,0.582
+Surface Crack,Asphalt,Clear,1302.4,4.45,41.95,0.629,2.5,0.512
+Normal Clear,Asphalt,Overcast,163.4,1.23,15.61,0.052,0.0,0.02
+Pothole,Concrete,Clear,3494.6,0.99,60.84,0.275,15.5,0.791
+Pothole,Asphalt,Clear,4320.4,0.8,67.85,0.394,4.8,0.328
+Normal Clear,Asphalt,Night / Low Light,149.0,1.29,14.08,0.089,0.0,0.02
+Normal Clear,Concrete,Clear,84.0,1.11,14.66,0.088,0.0,0.02
+Road Debris,Concrete,Rainy,2692.9,1.44,61.49,0.384,9.0,0.533
+Road Debris,Asphalt,Rainy,1295.1,1.15,46.49,0.256,9.1,0.52
+Pothole,Asphalt,Clear,4085.3,0.88,77.99,0.477,14.7,0.678
+Surface Crack,Asphalt,Overcast,1849.7,4.32,44.76,0.702,2.9,0.576
+Road Debris,Gravel,Clear,1622.7,1.13,44.76,0.313,2.1,0.473
+Pothole,Asphalt,Clear,3388.2,1.04,49.83,0.464,7.6,0.55
+Pothole,Gravel,Rainy,4301.2,1.18,67.07,0.544,7.4,0.391
+Surface Crack,Concrete,Night / Low Light,1319.8,3.78,44.72,0.597,1.7,0.49
+Pothole,Asphalt,Night / Low Light,3542.7,1.32,69.28,0.409,14.3,0.772
+Surface Crack,Asphalt,Clear,1821.2,2.6,38.83,0.6,1.8,0.498
+Pothole,Asphalt,Rainy,3613.3,1.72,38.79,0.44,5.3,0.365
+Surface Crack,Asphalt,Clear,2212.1,3.36,25.06,0.716,1.4,0.39
+Pothole,Asphalt,Overcast,3183.2,1.3,75.07,0.505,7.6,0.462
+Normal Clear,Concrete,Clear,112.2,1.45,9.23,0.111,0.0,0.02
+Road Debris,Gravel,Night / Low Light,3259.4,1.63,48.29,0.291,7.2,0.631
+Normal Clear,Asphalt,Clear,91.4,1.0,14.56,0.143,0.0,0.02
+Normal Clear,Concrete,Clear,127.1,0.94,10.22,0.087,0.0,0.02
+Surface Crack,Asphalt,Rainy,2152.8,5.0,51.05,0.6,3.3,0.67
+Pothole,Asphalt,Overcast,6696.9,1.35,56.38,0.44,17.5,0.949
+Road Debris,Asphalt,Rainy,2009.0,1.68,66.83,0.303,5.8,0.625
+Road Debris,Asphalt,Overcast,2134.6,1.71,64.44,0.312,6.7,0.577
+Normal Clear,Gravel,Rainy,181.0,1.06,12.64,0.042,0.0,0.02
+Surface Crack,Concrete,Rainy,1676.3,4.0,36.0,0.475,3.2,0.675
+Pothole,Asphalt,Clear,3086.2,1.33,81.33,0.48,10.0,0.497
+Surface Crack,Asphalt,Overcast,1640.5,3.06,39.07,0.761,3.2,0.496
+Surface Crack,Asphalt,Clear,1695.3,2.98,34.34,0.781,1.3,0.467
+Road Debris,Asphalt,Overcast,2612.8,0.92,56.0,0.393,11.0,0.526
+Road Debris,Concrete,Overcast,1957.0,1.73,38.32,0.359,2.1,0.477
+Surface Crack,Concrete,Overcast,1692.1,3.27,50.49,0.587,0.8,0.363
+Normal Clear,Asphalt,Rainy,158.2,0.85,9.98,0.046,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,2297.8,1.93,54.96,0.352,6.0,0.482
+Pothole,Asphalt,Night / Low Light,4623.6,1.28,59.79,0.538,16.8,0.849
+Pothole,Asphalt,Clear,6233.2,0.7,72.65,0.42,15.6,0.865
+Pothole,Asphalt,Rainy,4922.2,0.98,78.45,0.445,7.9,0.5
+Pothole,Asphalt,Clear,3082.6,1.01,46.53,0.501,13.2,0.637
+Pothole,Concrete,Rainy,3442.2,1.21,68.32,0.456,14.8,0.645
+Pothole,Concrete,Clear,3662.9,0.71,54.62,0.426,4.4,0.346
+Surface Crack,Asphalt,Clear,1180.5,3.15,43.18,0.806,2.3,0.474
+Pothole,Asphalt,Clear,5147.9,1.07,83.88,0.417,9.7,0.598
+Normal Clear,Asphalt,Clear,176.5,1.32,11.33,0.111,0.0,0.02
+Pothole,Asphalt,Rainy,3763.7,1.27,50.66,0.38,17.0,0.771
+Road Debris,Concrete,Clear,2833.8,1.1,45.34,0.314,5.3,0.369
+Surface Crack,Asphalt,Rainy,1958.7,3.14,40.61,0.813,1.3,0.42
+Normal Clear,Asphalt,Clear,151.6,0.92,11.53,0.095,0.0,0.02
+Pothole,Asphalt,Rainy,5028.6,1.18,81.12,0.498,11.9,0.693
+Surface Crack,Concrete,Rainy,2174.5,2.8,53.12,0.75,1.4,0.404
+Normal Clear,Asphalt,Rainy,71.2,1.08,13.45,0.115,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,159.0,0.73,8.16,0.045,0.0,0.02
+Normal Clear,Asphalt,Clear,123.1,0.96,7.34,0.124,0.0,0.02
+Pothole,Concrete,Night / Low Light,2909.7,1.6,82.22,0.492,13.7,0.672
+Pothole,Gravel,Clear,3550.9,0.74,44.58,0.568,8.3,0.461
+Normal Clear,Asphalt,Rainy,129.9,0.97,14.62,0.134,0.0,0.02
+Normal Clear,Concrete,Rainy,216.3,0.81,4.23,0.151,0.0,0.02
+Road Debris,Gravel,Clear,4542.1,1.58,42.3,0.358,3.4,0.541
+Road Debris,Gravel,Night / Low Light,1587.2,1.4,65.0,0.331,10.3,0.433
+Pothole,Asphalt,Rainy,4814.4,1.48,63.66,0.434,10.9,0.535
+Normal Clear,Asphalt,Clear,136.0,0.98,12.55,0.116,0.0,0.02
+Pothole,Asphalt,Clear,3717.3,1.09,77.19,0.36,7.6,0.463
+Surface Crack,Concrete,Clear,1631.7,3.12,42.23,0.735,2.2,0.447
+Surface Crack,Asphalt,Overcast,409.1,2.52,59.85,0.648,2.9,0.558
+Road Debris,Concrete,Night / Low Light,2905.0,1.26,59.87,0.401,6.7,0.528
+Pothole,Asphalt,Clear,4982.8,1.35,73.94,0.37,16.1,0.946
+Pothole,Concrete,Clear,5270.3,1.09,56.92,0.398,5.1,0.401
+Road Debris,Concrete,Rainy,1913.0,2.26,53.92,0.298,7.2,0.528
+Surface Crack,Asphalt,Overcast,3428.9,5.45,42.91,0.651,0.5,0.303
+Road Debris,Concrete,Clear,3090.3,1.53,37.31,0.328,10.9,0.451
+Pothole,Asphalt,Clear,4241.0,1.54,63.76,0.438,4.6,0.337
+Surface Crack,Concrete,Overcast,2719.8,3.73,54.3,0.692,3.2,0.647
+Road Debris,Asphalt,Clear,2693.0,1.46,67.37,0.285,6.7,0.554
+Pothole,Asphalt,Clear,5422.1,1.2,44.75,0.322,9.0,0.568
+Surface Crack,Gravel,Overcast,1468.1,3.17,44.62,0.513,2.9,0.636
+Pothole,Asphalt,Rainy,4696.7,1.62,80.25,0.373,13.7,0.83
+Pothole,Concrete,Clear,3637.8,1.44,76.5,0.482,15.4,0.754
+Normal Clear,Asphalt,Clear,140.5,0.84,13.92,0.06,0.0,0.02
+Surface Crack,Asphalt,Clear,1942.7,3.69,34.33,0.557,1.1,0.426
+Normal Clear,Asphalt,Clear,117.8,0.85,9.91,0.039,0.0,0.02
+Pothole,Asphalt,Overcast,3557.6,1.78,76.83,0.494,5.8,0.38
+Normal Clear,Asphalt,Clear,140.1,1.04,12.15,0.074,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,196.8,0.71,8.34,0.056,0.0,0.02
+Road Debris,Asphalt,Overcast,1547.9,1.53,60.05,0.182,3.8,0.453
+Surface Crack,Asphalt,Clear,1651.8,2.56,41.07,0.537,0.9,0.303
+Surface Crack,Gravel,Clear,1603.5,3.01,42.9,0.68,1.5,0.446
+Surface Crack,Gravel,Rainy,2344.1,4.25,44.44,0.57,3.5,0.667
+Normal Clear,Asphalt,Overcast,165.5,1.2,15.18,0.104,0.0,0.02
+Normal Clear,Concrete,Overcast,152.2,1.07,13.29,0.044,0.0,0.02
+Normal Clear,Asphalt,Clear,203.4,0.67,14.85,0.088,0.0,0.02
+Pothole,Concrete,Night / Low Light,4158.9,1.32,73.02,0.315,8.3,0.57
+Normal Clear,Concrete,Rainy,161.5,0.86,25.51,0.095,0.0,0.02
+Normal Clear,Gravel,Overcast,146.1,0.9,10.08,0.081,0.0,0.02
+Pothole,Asphalt,Clear,4634.4,1.06,64.72,0.528,11.8,0.679
+Pothole,Concrete,Rainy,6006.8,1.36,52.01,0.531,12.7,0.789
+Normal Clear,Asphalt,Overcast,152.7,1.13,9.28,0.089,0.0,0.02
+Road Debris,Gravel,Clear,3696.6,1.26,46.39,0.306,12.0,0.633
+Normal Clear,Asphalt,Rainy,105.6,1.39,9.06,0.042,0.0,0.02
+Pothole,Asphalt,Clear,3119.6,0.87,65.16,0.383,9.6,0.558
+Normal Clear,Concrete,Clear,149.6,1.2,14.34,0.082,0.0,0.02
+Pothole,Concrete,Clear,5074.6,1.19,50.84,0.306,6.7,0.496
+Pothole,Asphalt,Overcast,3870.2,0.98,77.39,0.317,16.7,0.76
+Pothole,Gravel,Clear,2843.2,1.32,74.3,0.229,16.8,0.762
+Normal Clear,Asphalt,Rainy,151.8,0.85,11.4,0.065,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,145.0,0.91,14.1,0.105,0.0,0.02
+Road Debris,Asphalt,Clear,2158.3,1.18,62.12,0.311,5.9,0.463
+Surface Crack,Asphalt,Rainy,1611.2,5.48,39.86,0.447,2.7,0.549
+Normal Clear,Asphalt,Night / Low Light,151.3,1.2,11.67,0.098,0.0,0.02
+Surface Crack,Asphalt,Overcast,1686.4,4.46,46.44,0.61,1.2,0.432
+Normal Clear,Asphalt,Rainy,92.3,0.93,1.0,0.062,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1750.9,4.42,42.85,0.685,2.0,0.444
+Surface Crack,Asphalt,Clear,792.8,4.99,41.32,0.783,3.4,0.511
+Surface Crack,Concrete,Overcast,1788.3,3.02,40.65,0.693,2.3,0.56
+Surface Crack,Concrete,Clear,1575.7,2.49,35.34,0.527,1.4,0.454
+Normal Clear,Asphalt,Night / Low Light,59.4,0.79,21.77,0.098,0.0,0.02
+Road Debris,Asphalt,Clear,4225.6,1.83,47.58,0.277,9.6,0.455
+Pothole,Asphalt,Overcast,5285.4,1.19,36.87,0.586,4.6,0.426
+Normal Clear,Asphalt,Night / Low Light,137.9,1.02,17.15,0.076,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1102.4,3.62,41.28,0.792,1.1,0.408
+Road Debris,Asphalt,Clear,3126.9,1.33,64.28,0.231,4.2,0.507
+Normal Clear,Asphalt,Clear,120.4,1.0,2.47,0.047,0.0,0.02
+Road Debris,Asphalt,Rainy,1935.7,1.98,46.86,0.311,9.3,0.422
+Pothole,Asphalt,Night / Low Light,7900.7,1.09,65.46,0.492,15.9,0.92
+Normal Clear,Concrete,Clear,179.6,1.25,19.45,0.084,0.0,0.02
+Road Debris,Gravel,Overcast,3489.5,1.36,66.85,0.364,7.4,0.468
+Surface Crack,Asphalt,Overcast,2098.3,5.24,40.53,0.75,1.5,0.453
+Pothole,Asphalt,Clear,5512.7,1.11,83.8,0.187,8.7,0.618
+Normal Clear,Concrete,Overcast,86.1,0.87,14.29,0.105,0.0,0.02
+Road Debris,Gravel,Rainy,3943.7,1.27,46.84,0.399,8.4,0.425
+Road Debris,Asphalt,Rainy,3901.4,1.57,61.26,0.382,9.9,0.579
+Normal Clear,Asphalt,Clear,132.9,1.23,13.65,0.036,0.0,0.02
+Normal Clear,Asphalt,Rainy,162.1,0.57,14.86,0.073,0.0,0.02
+Pothole,Asphalt,Night / Low Light,6786.7,1.35,79.09,0.336,17.8,1.0
+Surface Crack,Asphalt,Clear,2058.1,4.36,48.38,0.449,0.9,0.333
+Pothole,Asphalt,Rainy,4651.0,1.81,76.66,0.417,16.3,0.709
+Normal Clear,Asphalt,Night / Low Light,159.2,0.95,14.28,0.06,0.0,0.02
+Pothole,Asphalt,Night / Low Light,5692.5,1.12,62.96,0.422,14.0,0.8
+Road Debris,Concrete,Clear,2251.6,1.31,44.88,0.366,3.9,0.457
+Normal Clear,Asphalt,Overcast,177.8,1.22,9.58,0.052,0.0,0.02
+Normal Clear,Asphalt,Rainy,134.6,0.81,14.26,0.045,0.0,0.02
+Surface Crack,Asphalt,Clear,3199.8,5.23,45.1,0.737,2.1,0.426
+Normal Clear,Asphalt,Clear,139.4,0.97,9.55,0.082,0.0,0.02
+Pothole,Gravel,Rainy,3727.9,1.3,45.1,0.512,5.3,0.289
+Normal Clear,Asphalt,Overcast,85.9,0.85,14.65,0.158,0.0,0.02
+Pothole,Asphalt,Clear,5073.1,0.92,63.59,0.423,4.9,0.447
+Surface Crack,Concrete,Night / Low Light,1623.9,5.21,48.13,0.554,1.8,0.471
+Normal Clear,Asphalt,Clear,258.9,0.64,9.05,0.061,0.0,0.02
+Pothole,Gravel,Rainy,7510.0,1.74,85.93,0.394,11.2,0.834
+Pothole,Asphalt,Overcast,5381.7,1.22,63.23,0.477,8.9,0.57
+Normal Clear,Asphalt,Night / Low Light,168.4,0.99,18.04,0.01,0.0,0.02
+Normal Clear,Asphalt,Clear,175.5,1.14,16.59,0.078,0.0,0.02
+Road Debris,Asphalt,Rainy,2687.1,1.89,69.91,0.282,9.4,0.414
+Normal Clear,Concrete,Clear,154.0,0.98,15.13,0.121,0.0,0.02
+Road Debris,Concrete,Clear,1209.2,1.07,61.46,0.27,3.9,0.581
+Pothole,Asphalt,Night / Low Light,6357.6,1.01,69.22,0.36,8.1,0.612
+Surface Crack,Asphalt,Night / Low Light,2382.1,4.16,14.94,0.7,1.8,0.41
+Pothole,Concrete,Clear,2026.2,0.96,68.2,0.391,8.7,0.388
+Normal Clear,Gravel,Overcast,74.0,1.0,7.58,0.109,0.0,0.02
+Road Debris,Asphalt,Rainy,3805.2,1.41,68.77,0.383,6.3,0.508
+Surface Crack,Asphalt,Clear,1457.0,5.74,56.87,0.603,1.0,0.345
+Surface Crack,Asphalt,Rainy,1394.5,2.43,39.78,0.784,2.9,0.604
+Normal Clear,Concrete,Rainy,66.9,1.31,14.05,0.102,0.0,0.02
+Pothole,Asphalt,Rainy,3589.6,1.39,81.52,0.412,11.1,0.625
+Road Debris,Asphalt,Rainy,4039.2,1.3,62.79,0.24,8.9,0.52
+Road Debris,Concrete,Rainy,1738.2,2.2,52.86,0.24,3.9,0.319
+Road Debris,Asphalt,Clear,1313.2,1.84,62.41,0.283,11.3,0.506
+Pothole,Asphalt,Overcast,3899.8,1.36,55.64,0.616,9.9,0.544
+Normal Clear,Asphalt,Rainy,198.0,1.05,14.14,0.053,0.0,0.02
+Normal Clear,Asphalt,Clear,146.5,1.01,8.98,0.048,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,2296.0,1.76,45.95,0.288,7.1,0.635
+Normal Clear,Asphalt,Overcast,165.0,0.67,14.59,0.124,0.0,0.02
+Normal Clear,Asphalt,Overcast,103.7,0.95,9.6,0.117,0.0,0.02
+Normal Clear,Asphalt,Clear,154.8,1.35,13.66,0.087,0.0,0.02
+Pothole,Concrete,Clear,4581.8,1.45,47.15,0.427,17.1,0.808
+Road Debris,Concrete,Rainy,2391.5,1.09,53.13,0.474,5.4,0.512
+Road Debris,Asphalt,Clear,3021.2,1.69,68.03,0.26,6.9,0.468
+Surface Crack,Asphalt,Overcast,1649.1,2.81,41.93,0.477,1.4,0.334
+Normal Clear,Asphalt,Clear,93.2,1.05,9.38,0.113,0.0,0.02
+Normal Clear,Asphalt,Clear,230.2,1.14,5.8,0.125,0.0,0.02
+Normal Clear,Asphalt,Clear,228.8,1.0,17.29,0.063,0.0,0.02
+Surface Crack,Concrete,Clear,680.3,2.96,58.83,0.501,3.5,0.577
+Pothole,Asphalt,Night / Low Light,4457.6,1.7,94.46,0.472,14.4,0.701
+Normal Clear,Asphalt,Rainy,109.5,0.75,10.86,0.127,0.0,0.02
+Normal Clear,Asphalt,Clear,182.3,1.14,15.56,0.093,0.0,0.02
+Pothole,Concrete,Clear,4644.7,1.4,61.45,0.307,14.6,0.715
+Normal Clear,Asphalt,Rainy,174.7,1.03,10.69,0.08,0.0,0.02
+Normal Clear,Asphalt,Clear,66.5,1.08,18.37,0.059,0.0,0.02
+Road Debris,Asphalt,Rainy,1754.4,1.57,83.46,0.366,10.5,0.491
+Road Debris,Concrete,Rainy,4187.7,1.54,60.98,0.241,4.7,0.471
+Surface Crack,Concrete,Night / Low Light,1920.4,3.41,50.59,0.633,1.6,0.568
+Pothole,Asphalt,Overcast,5062.2,1.25,82.79,0.455,9.4,0.636
+Surface Crack,Asphalt,Overcast,1749.9,4.88,25.71,0.786,2.2,0.569
+Normal Clear,Asphalt,Overcast,141.4,0.77,11.73,0.013,0.0,0.02
+Pothole,Asphalt,Clear,4904.3,1.34,88.11,0.404,6.0,0.385
+Surface Crack,Concrete,Clear,2244.7,3.45,44.67,0.614,2.6,0.546
+Surface Crack,Concrete,Clear,1850.0,3.43,42.35,0.658,3.3,0.6
+Road Debris,Concrete,Overcast,2527.0,1.26,52.77,0.397,6.7,0.398
+Normal Clear,Concrete,Overcast,104.4,0.94,10.45,0.073,0.0,0.02
+Surface Crack,Asphalt,Overcast,1601.3,4.11,31.32,0.754,1.2,0.385
+Surface Crack,Asphalt,Clear,3072.5,5.51,31.64,0.457,2.2,0.513
+Normal Clear,Concrete,Overcast,115.5,0.99,13.01,0.041,0.0,0.02
+Surface Crack,Asphalt,Clear,1719.0,3.01,36.17,0.676,2.8,0.6
+Pothole,Concrete,Clear,4801.0,1.35,79.73,0.531,4.5,0.478
+Surface Crack,Asphalt,Clear,3263.9,4.13,40.11,0.567,2.4,0.599
+Pothole,Asphalt,Clear,4378.4,0.82,57.82,0.345,15.5,0.743
+Pothole,Gravel,Rainy,3730.7,1.7,79.82,0.483,17.1,0.843
+Surface Crack,Asphalt,Clear,1411.8,3.82,33.16,0.538,2.3,0.57
+Surface Crack,Gravel,Rainy,1305.0,2.48,55.19,0.395,1.8,0.39
+Normal Clear,Gravel,Rainy,146.8,1.07,6.75,0.063,0.0,0.02
+Surface Crack,Concrete,Overcast,2087.3,4.12,41.32,0.674,2.6,0.559
+Road Debris,Concrete,Night / Low Light,1417.6,1.1,46.75,0.303,3.2,0.552
+Road Debris,Asphalt,Clear,1946.0,1.38,55.08,0.252,7.1,0.68
+Pothole,Concrete,Overcast,4815.2,0.76,56.41,0.355,7.5,0.555
+Normal Clear,Asphalt,Overcast,127.9,1.43,14.68,0.01,0.0,0.02
+Pothole,Asphalt,Clear,5559.9,1.18,51.32,0.524,14.7,0.788
+Normal Clear,Asphalt,Rainy,153.9,1.18,22.18,0.131,0.0,0.02
+Pothole,Asphalt,Clear,3873.0,0.76,63.13,0.344,15.6,0.809
+Surface Crack,Asphalt,Clear,1924.3,2.75,44.3,0.431,2.2,0.486
+Pothole,Asphalt,Night / Low Light,4106.6,1.19,68.19,0.434,10.6,0.615
+Normal Clear,Asphalt,Overcast,124.1,1.16,9.42,0.038,0.0,0.02
+Road Debris,Concrete,Clear,2571.2,1.78,67.78,0.33,8.4,0.447
+Road Debris,Asphalt,Overcast,3369.5,1.7,43.72,0.447,8.4,0.41
+Pothole,Gravel,Overcast,3812.8,0.8,75.09,0.291,14.5,0.792
+Normal Clear,Concrete,Overcast,136.9,0.53,18.94,0.048,0.0,0.02
+Pothole,Concrete,Clear,4892.3,1.17,66.82,0.485,11.5,0.701
+Normal Clear,Asphalt,Overcast,203.4,1.07,14.35,0.095,0.0,0.02
+Pothole,Concrete,Clear,5543.4,0.87,82.41,0.437,7.1,0.52
+Pothole,Asphalt,Rainy,2855.0,1.68,67.85,0.443,7.2,0.479
+Pothole,Concrete,Clear,3077.5,1.25,59.4,0.352,4.2,0.319
+Surface Crack,Asphalt,Clear,2008.0,3.43,48.97,0.798,2.8,0.573
+Road Debris,Concrete,Night / Low Light,2812.8,2.31,62.54,0.258,11.4,0.498
+Pothole,Gravel,Clear,6511.7,1.42,83.11,0.428,4.5,0.441
+Normal Clear,Asphalt,Clear,63.5,1.04,10.24,0.035,0.0,0.02
+Surface Crack,Asphalt,Clear,1377.9,3.41,54.12,0.502,2.4,0.554
+Road Debris,Concrete,Night / Low Light,2493.5,1.38,61.62,0.314,5.8,0.552
+Surface Crack,Asphalt,Clear,2650.5,3.62,50.62,0.722,0.6,0.348
+Surface Crack,Concrete,Overcast,1710.1,5.02,48.71,0.533,2.5,0.525
+Road Debris,Asphalt,Clear,2485.8,1.89,59.43,0.348,4.0,0.553
+Pothole,Asphalt,Clear,4105.3,1.42,70.04,0.459,7.2,0.446
+Pothole,Gravel,Clear,2522.5,1.04,78.23,0.267,15.2,0.649
+Normal Clear,Concrete,Rainy,248.0,1.06,7.83,0.091,0.0,0.02
+Normal Clear,Concrete,Clear,130.9,1.09,11.83,0.082,0.0,0.02
+Surface Crack,Asphalt,Clear,1253.0,4.89,35.75,0.539,2.7,0.624
+Pothole,Concrete,Overcast,4678.1,1.53,54.74,0.37,9.6,0.597
+Road Debris,Asphalt,Rainy,513.2,1.39,66.78,0.233,4.2,0.534
+Surface Crack,Asphalt,Clear,1897.3,6.01,54.4,0.73,3.4,0.569
+Pothole,Concrete,Clear,6370.0,1.4,59.72,0.413,15.2,0.865
+Pothole,Asphalt,Overcast,3026.0,0.9,95.39,0.386,8.4,0.351
+Normal Clear,Asphalt,Clear,50.6,0.83,5.92,0.092,0.0,0.02
+Normal Clear,Asphalt,Clear,150.0,1.06,11.58,0.038,0.0,0.02
+Pothole,Concrete,Night / Low Light,5116.2,1.78,72.91,0.386,9.2,0.618
+Pothole,Asphalt,Rainy,3855.4,1.43,71.25,0.529,15.7,0.813
+Pothole,Concrete,Rainy,3709.8,1.25,57.82,0.421,14.3,0.745
+Normal Clear,Asphalt,Clear,153.1,1.08,7.18,0.095,0.0,0.02
+Pothole,Asphalt,Clear,2957.7,1.49,79.56,0.448,5.1,0.34
+Pothole,Concrete,Rainy,6058.0,0.87,51.37,0.419,11.7,0.631
+Normal Clear,Asphalt,Clear,78.1,0.92,17.06,0.049,0.0,0.02
+Pothole,Asphalt,Rainy,6206.1,1.25,73.8,0.456,9.3,0.657
+Normal Clear,Asphalt,Rainy,82.1,0.98,15.87,0.058,0.0,0.02
+Pothole,Asphalt,Clear,4871.5,1.36,57.67,0.414,4.8,0.363
+Pothole,Concrete,Overcast,1829.1,1.24,82.27,0.443,13.9,0.603
+Pothole,Asphalt,Overcast,6374.7,2.08,71.01,0.367,16.8,0.912
+Normal Clear,Concrete,Night / Low Light,128.7,0.94,14.13,0.094,0.0,0.02
+Normal Clear,Asphalt,Clear,254.7,0.69,19.03,0.074,0.0,0.02
+Normal Clear,Asphalt,Clear,145.5,1.17,15.41,0.115,0.0,0.02
+Surface Crack,Gravel,Rainy,2624.9,3.76,56.1,0.587,0.7,0.354
+Normal Clear,Asphalt,Clear,205.6,0.89,5.97,0.084,0.0,0.02
+Pothole,Asphalt,Overcast,3774.3,1.39,57.38,0.358,11.2,0.553
+Surface Crack,Asphalt,Clear,1524.7,4.96,43.94,0.751,1.1,0.418
+Normal Clear,Asphalt,Rainy,163.7,0.76,20.23,0.066,0.0,0.02
+Pothole,Asphalt,Clear,5287.3,1.43,66.32,0.469,6.9,0.446
+Pothole,Asphalt,Rainy,4653.1,0.92,59.96,0.348,4.4,0.36
+Pothole,Asphalt,Clear,5851.7,1.68,79.74,0.522,5.6,0.434
+Pothole,Asphalt,Clear,4025.9,1.34,75.99,0.373,17.5,0.799
+Pothole,Asphalt,Clear,6054.2,1.32,57.94,0.366,15.0,0.898
+Road Debris,Asphalt,Overcast,3544.7,2.33,72.12,0.246,5.5,0.592
+Surface Crack,Asphalt,Clear,1567.6,4.63,59.61,0.692,3.5,0.555
+Normal Clear,Concrete,Overcast,64.3,1.08,13.75,0.072,0.0,0.02
+Normal Clear,Gravel,Overcast,236.1,1.2,5.61,0.075,0.0,0.02
+Surface Crack,Asphalt,Clear,1236.2,4.26,44.76,0.562,0.6,0.443
+Pothole,Concrete,Night / Low Light,3439.3,1.24,74.08,0.474,10.4,0.599
+Surface Crack,Asphalt,Clear,1702.6,2.71,38.31,0.602,0.9,0.418
+Road Debris,Asphalt,Overcast,1844.5,1.81,45.8,0.351,6.0,0.352
+Pothole,Asphalt,Rainy,3396.7,1.19,56.07,0.54,15.4,0.7
+Road Debris,Asphalt,Clear,2053.4,1.52,49.44,0.309,8.2,0.4
+Surface Crack,Asphalt,Clear,2167.6,3.16,52.49,0.73,1.5,0.455
+Road Debris,Asphalt,Clear,3166.4,1.77,57.95,0.288,3.8,0.533
+Surface Crack,Asphalt,Overcast,2980.9,3.54,41.39,0.768,2.6,0.566
+Surface Crack,Gravel,Clear,1753.6,6.41,39.54,0.614,1.7,0.377
+Normal Clear,Asphalt,Night / Low Light,70.4,1.02,9.86,0.056,0.0,0.02
+Normal Clear,Asphalt,Clear,154.7,0.86,17.16,0.061,0.0,0.02
+Pothole,Concrete,Overcast,6306.4,1.19,60.18,0.362,7.0,0.62
+Normal Clear,Asphalt,Clear,187.9,1.14,11.2,0.101,0.0,0.02
+Surface Crack,Asphalt,Rainy,436.1,3.91,51.89,0.567,1.5,0.356
+Normal Clear,Concrete,Rainy,78.6,1.09,12.92,0.07,0.0,0.02
+Normal Clear,Gravel,Night / Low Light,252.6,1.12,16.89,0.078,0.0,0.02
+Surface Crack,Concrete,Clear,1473.9,3.21,52.42,0.727,3.0,0.59
+Pothole,Concrete,Clear,3034.4,1.46,64.15,0.371,11.7,0.609
+Pothole,Concrete,Clear,3149.9,1.48,93.77,0.364,5.4,0.276
+Road Debris,Gravel,Night / Low Light,2778.4,1.41,57.3,0.34,2.3,0.388
+Road Debris,Asphalt,Clear,3246.3,2.15,43.02,0.205,5.3,0.46
+Pothole,Asphalt,Rainy,4883.9,1.17,65.65,0.533,6.8,0.453
+Pothole,Asphalt,Clear,4947.9,1.03,53.4,0.419,7.9,0.465
+Normal Clear,Asphalt,Overcast,73.1,1.44,8.14,0.075,0.0,0.02
+Normal Clear,Concrete,Overcast,162.9,0.94,10.84,0.093,0.0,0.02
+Road Debris,Asphalt,Rainy,3873.6,1.81,69.79,0.237,9.1,0.531
+Pothole,Asphalt,Clear,4966.2,0.96,69.73,0.345,11.9,0.621
+Pothole,Asphalt,Clear,4215.8,1.16,56.96,0.505,10.3,0.595
+Pothole,Concrete,Clear,4121.4,1.47,69.75,0.476,16.5,0.817
+Normal Clear,Asphalt,Clear,185.0,1.02,7.64,0.037,0.0,0.02
+Pothole,Concrete,Night / Low Light,4627.8,1.04,79.03,0.48,6.1,0.371
+Road Debris,Asphalt,Rainy,2300.9,1.12,59.52,0.289,4.9,0.528
+Pothole,Asphalt,Overcast,4333.8,1.55,67.94,0.385,5.2,0.389
+Road Debris,Asphalt,Clear,2706.0,1.67,38.97,0.223,2.4,0.383
+Normal Clear,Asphalt,Night / Low Light,174.3,1.42,15.55,0.077,0.0,0.02
+Normal Clear,Concrete,Rainy,150.2,0.9,8.2,0.063,0.0,0.02
+Pothole,Gravel,Rainy,3573.4,1.4,55.15,0.527,11.2,0.646
+Pothole,Asphalt,Clear,4501.1,0.72,75.55,0.551,16.5,0.787
+Pothole,Asphalt,Rainy,3155.8,0.98,57.69,0.362,6.7,0.38
+Normal Clear,Asphalt,Rainy,128.5,1.15,14.69,0.034,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,120.3,1.25,13.18,0.09,0.0,0.02
+Road Debris,Concrete,Overcast,2715.1,1.4,54.59,0.276,5.7,0.586
+Road Debris,Asphalt,Clear,2421.2,1.41,50.83,0.295,5.7,0.446
+Normal Clear,Asphalt,Clear,114.6,0.97,16.07,0.099,0.0,0.02
+Pothole,Concrete,Rainy,2605.0,1.07,60.34,0.295,13.5,0.651
+Normal Clear,Asphalt,Rainy,228.0,0.99,7.01,0.046,0.0,0.02
+Surface Crack,Asphalt,Clear,2008.9,3.37,44.23,0.811,2.1,0.516
+Surface Crack,Asphalt,Night / Low Light,1389.4,4.19,56.07,0.736,1.6,0.398
+Road Debris,Asphalt,Overcast,1759.4,2.69,69.67,0.252,10.8,0.691
+Pothole,Concrete,Overcast,4631.2,1.17,81.86,0.39,6.2,0.46
+Pothole,Gravel,Clear,5530.0,1.31,71.5,0.484,11.4,0.735
+Normal Clear,Asphalt,Overcast,108.0,1.47,14.76,0.093,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4383.3,1.4,69.34,0.422,14.0,0.727
+Road Debris,Asphalt,Rainy,2860.3,1.6,50.17,0.298,11.7,0.485
+Pothole,Asphalt,Rainy,2677.2,1.21,59.39,0.382,8.7,0.447
+Surface Crack,Asphalt,Overcast,1931.9,2.22,60.43,0.64,0.8,0.45
+Surface Crack,Asphalt,Rainy,1647.2,5.89,45.4,0.565,3.1,0.655
+Surface Crack,Asphalt,Clear,929.9,3.58,43.11,0.755,2.8,0.467
+Normal Clear,Asphalt,Rainy,194.0,1.07,17.13,0.054,0.0,0.02
+Surface Crack,Asphalt,Rainy,1651.7,3.4,52.47,0.715,1.0,0.406
+Road Debris,Asphalt,Clear,3858.3,1.65,56.61,0.397,8.2,0.563
+Surface Crack,Asphalt,Overcast,2086.6,3.03,55.0,0.644,0.9,0.379
+Normal Clear,Asphalt,Night / Low Light,131.7,0.87,12.55,0.07,0.0,0.02
+Normal Clear,Gravel,Rainy,175.1,0.68,11.55,0.084,0.0,0.02
+Normal Clear,Asphalt,Clear,134.5,0.97,5.66,0.091,0.0,0.02
+Pothole,Asphalt,Rainy,5277.1,1.35,80.46,0.436,13.0,0.73
+Pothole,Concrete,Clear,4670.7,1.7,77.94,0.495,17.7,0.876
+Pothole,Gravel,Clear,1547.5,1.16,82.07,0.413,13.0,0.576
+Road Debris,Asphalt,Rainy,1963.7,1.37,34.72,0.28,4.3,0.388
+Pothole,Concrete,Clear,4279.2,1.35,55.9,0.358,15.6,0.736
+Surface Crack,Asphalt,Rainy,2252.4,3.94,26.09,0.75,1.6,0.468
+Road Debris,Asphalt,Clear,2388.0,1.85,56.59,0.305,11.1,0.236
+Surface Crack,Asphalt,Clear,1266.4,4.35,46.27,0.638,1.1,0.358
+Normal Clear,Concrete,Clear,101.9,0.99,14.75,0.11,0.0,0.02
+Pothole,Concrete,Overcast,5477.7,1.11,68.6,0.453,11.9,0.733
+Pothole,Asphalt,Rainy,2489.9,0.66,61.42,0.416,6.8,0.365
+Normal Clear,Asphalt,Night / Low Light,263.7,1.19,5.8,0.125,0.0,0.02
+Surface Crack,Asphalt,Clear,2515.9,3.49,47.45,0.649,1.8,0.46
+Normal Clear,Asphalt,Clear,157.3,1.19,13.65,0.097,0.0,0.02
+Surface Crack,Asphalt,Overcast,802.1,6.15,31.79,0.666,3.2,0.615
+Pothole,Concrete,Clear,2411.2,1.08,73.06,0.354,8.4,0.442
+Normal Clear,Concrete,Clear,181.9,1.16,19.97,0.135,0.0,0.02
+Normal Clear,Concrete,Rainy,166.2,1.03,9.87,0.102,0.0,0.02
+Normal Clear,Concrete,Clear,185.4,0.85,14.88,0.11,0.0,0.02
+Pothole,Asphalt,Overcast,3154.0,1.26,67.21,0.42,10.0,0.476
+Road Debris,Concrete,Rainy,3526.8,0.95,59.0,0.259,11.8,0.537
+Surface Crack,Asphalt,Clear,1987.6,2.26,36.04,0.588,3.3,0.635
+Pothole,Asphalt,Clear,3328.3,1.49,73.39,0.56,5.5,0.353
+Normal Clear,Asphalt,Clear,187.2,1.0,18.96,0.032,0.0,0.02
+Pothole,Asphalt,Overcast,5508.3,1.26,51.16,0.255,13.4,0.702
+Normal Clear,Asphalt,Night / Low Light,138.6,1.02,8.16,0.027,0.0,0.02
+Surface Crack,Asphalt,Clear,1673.8,3.45,41.89,0.672,0.6,0.332
+Pothole,Concrete,Clear,6551.9,0.83,72.71,0.561,8.7,0.659
+Road Debris,Asphalt,Night / Low Light,3788.4,1.21,56.94,0.339,9.9,0.452
+Normal Clear,Asphalt,Rainy,122.4,0.74,12.52,0.038,0.0,0.02
+Normal Clear,Gravel,Clear,195.5,1.12,14.23,0.04,0.0,0.02
+Normal Clear,Asphalt,Clear,142.5,0.92,12.41,0.096,0.0,0.02
+Normal Clear,Asphalt,Clear,124.3,0.9,14.72,0.046,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,112.7,1.0,15.6,0.051,0.0,0.02
+Normal Clear,Asphalt,Overcast,239.5,0.73,18.2,0.116,0.0,0.02
+Pothole,Asphalt,Clear,2783.9,0.71,76.64,0.39,9.8,0.451
+Surface Crack,Asphalt,Rainy,2231.0,4.05,45.08,0.51,1.8,0.433
+Pothole,Asphalt,Clear,5472.6,1.48,70.78,0.439,7.3,0.526
+Normal Clear,Asphalt,Clear,166.4,1.03,13.98,0.046,0.0,0.02
+Normal Clear,Asphalt,Clear,159.9,1.02,12.93,0.082,0.0,0.02
+Pothole,Asphalt,Overcast,2972.1,0.8,41.43,0.485,4.0,0.329
+Normal Clear,Asphalt,Rainy,191.7,0.84,16.98,0.013,0.0,0.02
+Normal Clear,Concrete,Rainy,167.6,1.01,10.76,0.081,0.0,0.02
+Pothole,Asphalt,Clear,5199.3,0.66,80.01,0.387,7.6,0.571
+Road Debris,Asphalt,Clear,2186.4,1.9,54.58,0.289,8.5,0.456
+Normal Clear,Concrete,Clear,70.9,1.02,9.51,0.065,0.0,0.02
+Pothole,Asphalt,Night / Low Light,6281.6,0.95,66.09,0.383,10.7,0.667
+Normal Clear,Asphalt,Clear,182.4,1.01,12.66,0.059,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2844.8,6.93,42.77,0.685,0.6,0.304
+Normal Clear,Concrete,Clear,215.2,1.19,5.88,0.07,0.0,0.02
+Normal Clear,Concrete,Clear,89.7,0.43,7.08,0.083,0.0,0.02
+Normal Clear,Asphalt,Rainy,179.0,0.94,17.5,0.111,0.0,0.02
+Surface Crack,Concrete,Clear,1724.8,3.52,48.06,0.648,3.2,0.549
+Normal Clear,Asphalt,Clear,206.7,0.74,15.86,0.102,0.0,0.02
+Normal Clear,Asphalt,Clear,49.1,1.26,12.37,0.092,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1281.1,5.2,35.51,0.733,1.2,0.433
+Normal Clear,Asphalt,Night / Low Light,241.2,0.77,15.62,0.044,0.0,0.02
+Pothole,Concrete,Clear,7041.0,0.72,76.88,0.49,7.6,0.63
+Road Debris,Asphalt,Rainy,3424.8,0.99,65.9,0.363,8.8,0.346
+Pothole,Asphalt,Clear,2620.8,1.0,62.24,0.373,17.1,0.792
+Pothole,Gravel,Clear,4816.6,1.27,65.76,0.487,15.9,0.782
+Pothole,Asphalt,Clear,5475.5,1.12,69.29,0.393,13.8,0.787
+Normal Clear,Asphalt,Overcast,85.9,0.99,8.38,0.104,0.0,0.02
+Surface Crack,Asphalt,Clear,2288.7,1.71,38.37,0.504,2.9,0.555
+Normal Clear,Concrete,Clear,59.4,0.57,14.91,0.021,0.0,0.02
+Pothole,Concrete,Clear,3127.3,1.29,69.08,0.446,8.2,0.454
+Surface Crack,Asphalt,Clear,833.4,2.79,43.81,0.561,1.5,0.433
+Road Debris,Concrete,Rainy,1879.9,1.36,61.69,0.347,6.3,0.651
+Normal Clear,Asphalt,Clear,117.1,0.74,5.03,0.112,0.0,0.02
+Surface Crack,Concrete,Clear,1595.2,3.52,43.73,0.751,2.4,0.592
+Road Debris,Asphalt,Rainy,2474.9,1.04,83.0,0.312,3.1,0.538
+Normal Clear,Asphalt,Clear,175.5,0.89,12.67,0.117,0.0,0.02
+Road Debris,Gravel,Night / Low Light,4363.0,1.84,73.63,0.262,3.1,0.355
+Pothole,Asphalt,Rainy,5743.9,1.11,54.21,0.515,9.4,0.682
+Pothole,Asphalt,Clear,5936.1,1.33,67.45,0.385,14.6,0.926
+Normal Clear,Asphalt,Night / Low Light,181.2,1.05,12.03,0.08,0.0,0.02
+Pothole,Gravel,Clear,3684.6,0.88,63.65,0.515,11.5,0.534
+Normal Clear,Asphalt,Rainy,173.2,1.23,12.26,0.13,0.0,0.02
+Road Debris,Asphalt,Clear,4658.6,1.71,45.07,0.267,11.0,0.454
+Normal Clear,Asphalt,Clear,164.4,1.38,12.19,0.14,0.0,0.02
+Normal Clear,Asphalt,Rainy,175.8,0.91,16.59,0.073,0.0,0.02
+Normal Clear,Asphalt,Overcast,162.6,0.73,5.97,0.097,0.0,0.02
+Surface Crack,Concrete,Overcast,2462.2,5.94,38.53,0.796,2.8,0.648
+Normal Clear,Gravel,Rainy,227.9,0.86,12.4,0.081,0.0,0.02
+Surface Crack,Asphalt,Clear,1958.3,2.2,45.89,0.507,1.5,0.376
+Surface Crack,Asphalt,Clear,1890.9,3.9,40.33,0.547,1.5,0.421
+Road Debris,Asphalt,Clear,3643.8,1.63,63.72,0.29,6.8,0.47
+Normal Clear,Asphalt,Rainy,287.2,1.09,18.54,0.059,0.0,0.02
+Normal Clear,Concrete,Clear,127.6,0.95,21.89,0.074,0.0,0.02
+Normal Clear,Asphalt,Overcast,108.8,1.26,12.24,0.073,0.0,0.02
+Surface Crack,Asphalt,Clear,1433.8,4.34,53.5,0.729,2.0,0.474
+Surface Crack,Concrete,Clear,2062.8,3.8,43.78,0.698,0.9,0.389
+Normal Clear,Asphalt,Clear,136.5,1.56,13.97,0.043,0.0,0.02
+Pothole,Asphalt,Overcast,5286.7,1.32,55.4,0.443,8.9,0.598
+Pothole,Asphalt,Night / Low Light,2461.9,1.44,52.82,0.571,12.7,0.59
+Surface Crack,Concrete,Rainy,1770.6,4.54,43.68,0.578,3.2,0.626
+Surface Crack,Gravel,Clear,1257.4,2.9,50.2,0.479,2.1,0.605
+Surface Crack,Asphalt,Overcast,1756.8,4.96,39.51,0.701,2.5,0.52
+Pothole,Gravel,Clear,4259.7,1.8,60.93,0.439,15.9,0.881
+Pothole,Asphalt,Overcast,5107.8,1.22,72.04,0.556,8.6,0.547
+Pothole,Asphalt,Rainy,5527.8,1.2,57.62,0.359,8.2,0.462
+Normal Clear,Asphalt,Clear,120.8,1.28,6.07,0.104,0.0,0.02
+Surface Crack,Asphalt,Rainy,2327.6,6.5,53.31,0.745,3.3,0.643
+Surface Crack,Asphalt,Night / Low Light,3658.0,3.83,46.14,0.776,2.1,0.509
+Normal Clear,Asphalt,Clear,155.0,0.98,12.53,0.117,0.0,0.02
+Pothole,Asphalt,Overcast,4604.5,1.26,65.0,0.459,12.6,0.661
+Normal Clear,Asphalt,Clear,144.0,0.72,16.23,0.123,0.0,0.02
+Normal Clear,Asphalt,Clear,194.9,0.97,16.18,0.183,0.0,0.02
+Pothole,Concrete,Clear,4638.2,0.81,60.96,0.47,11.4,0.681
+Surface Crack,Asphalt,Clear,1328.5,5.03,46.62,0.679,2.7,0.606
+Normal Clear,Asphalt,Rainy,41.9,1.18,14.82,0.088,0.0,0.02
+Normal Clear,Asphalt,Clear,63.5,0.84,7.33,0.02,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1798.3,2.92,66.0,0.633,1.6,0.505
+Road Debris,Concrete,Clear,2750.7,1.54,60.45,0.24,3.5,0.625
+Pothole,Asphalt,Overcast,4238.5,1.13,90.26,0.45,15.6,0.804
+Normal Clear,Asphalt,Rainy,161.9,0.99,13.93,0.086,0.0,0.02
+Pothole,Concrete,Overcast,3915.6,1.38,71.37,0.517,4.2,0.239
+Normal Clear,Asphalt,Clear,126.3,0.96,17.37,0.083,0.0,0.02
+Road Debris,Asphalt,Clear,2621.8,0.92,51.91,0.286,7.1,0.516
+Road Debris,Asphalt,Clear,1814.6,2.38,67.02,0.304,10.4,0.457
+Road Debris,Gravel,Rainy,1904.3,1.66,72.08,0.355,2.4,0.529
+Pothole,Asphalt,Overcast,4876.0,1.42,84.1,0.501,13.3,0.755
+Pothole,Asphalt,Clear,3202.0,0.75,69.89,0.425,13.9,0.655
+Pothole,Asphalt,Clear,2402.4,0.87,57.12,0.263,12.9,0.548
+Pothole,Asphalt,Overcast,3794.0,1.47,75.75,0.331,13.4,0.687
+Normal Clear,Asphalt,Clear,208.7,0.85,12.91,0.036,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1581.4,3.83,31.52,0.709,2.3,0.565
+Pothole,Asphalt,Rainy,1669.8,1.58,68.66,0.455,7.6,0.393
+Normal Clear,Gravel,Overcast,82.2,0.95,12.04,0.096,0.0,0.02
+Normal Clear,Concrete,Clear,192.8,0.89,12.81,0.097,0.0,0.02
+Normal Clear,Asphalt,Clear,140.9,0.92,14.85,0.075,0.0,0.02
+Normal Clear,Concrete,Rainy,90.1,1.27,7.65,0.077,0.0,0.02
+Pothole,Asphalt,Overcast,4886.1,1.34,70.04,0.185,8.6,0.51
+Surface Crack,Asphalt,Clear,1216.5,4.31,52.27,0.744,1.8,0.469
+Normal Clear,Asphalt,Clear,145.2,1.1,16.95,0.053,0.0,0.02
+Normal Clear,Concrete,Rainy,125.2,0.68,10.81,0.097,0.0,0.02
+Pothole,Concrete,Overcast,4062.9,1.73,69.39,0.412,10.7,0.573
+Normal Clear,Asphalt,Overcast,140.5,0.97,11.1,0.061,0.0,0.02
+Pothole,Gravel,Overcast,4760.9,1.22,67.7,0.453,6.3,0.459
+Pothole,Asphalt,Clear,4297.6,1.26,77.32,0.482,13.3,0.743
+Road Debris,Concrete,Clear,2973.3,1.87,39.21,0.312,9.4,0.314
+Road Debris,Gravel,Rainy,2283.0,1.75,64.59,0.225,11.0,0.573
+Road Debris,Asphalt,Overcast,2754.2,1.21,49.15,0.37,11.5,0.454
+Pothole,Concrete,Clear,5442.7,1.38,64.07,0.623,5.3,0.364
+Normal Clear,Asphalt,Clear,74.7,0.8,20.22,0.094,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3604.1,1.33,74.81,0.5,16.4,0.842
+Pothole,Asphalt,Clear,4353.1,1.15,80.93,0.471,14.0,0.723
+Normal Clear,Asphalt,Clear,104.4,1.05,9.5,0.072,0.0,0.02
+Normal Clear,Gravel,Rainy,201.2,1.18,8.01,0.048,0.0,0.02
+Normal Clear,Concrete,Rainy,129.4,0.99,9.37,0.111,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,167.4,1.08,6.93,0.115,0.0,0.02
+Normal Clear,Concrete,Clear,20.0,1.17,15.74,0.067,0.0,0.02
+Road Debris,Gravel,Rainy,3645.6,1.47,55.62,0.32,7.1,0.351
+Pothole,Asphalt,Rainy,4645.6,1.07,70.82,0.56,16.8,0.943
+Surface Crack,Gravel,Rainy,1125.3,3.89,38.2,0.665,1.1,0.412
+Surface Crack,Asphalt,Rainy,1496.9,3.73,38.18,0.666,0.7,0.389
+Pothole,Concrete,Clear,5336.6,0.87,71.13,0.525,11.6,0.661
+Normal Clear,Asphalt,Clear,198.5,1.42,15.98,0.102,0.0,0.02
+Surface Crack,Asphalt,Clear,706.9,3.19,41.7,0.789,3.2,0.588
+Pothole,Asphalt,Clear,7032.4,1.01,85.28,0.448,15.1,0.9
+Pothole,Asphalt,Rainy,2488.9,1.24,68.66,0.481,17.1,0.749
+Normal Clear,Asphalt,Overcast,108.7,1.15,11.1,0.078,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4835.8,1.28,50.85,0.523,5.1,0.446
+Normal Clear,Asphalt,Night / Low Light,196.3,1.05,13.66,0.096,0.0,0.02
+Surface Crack,Gravel,Clear,2226.6,2.62,60.34,0.677,1.7,0.506
+Surface Crack,Asphalt,Clear,1657.4,3.28,31.11,0.684,1.2,0.352
+Road Debris,Asphalt,Clear,2595.5,1.47,69.24,0.233,5.2,0.523
+Normal Clear,Asphalt,Clear,213.9,0.93,9.1,0.101,0.0,0.02
+Surface Crack,Asphalt,Clear,971.8,4.49,59.25,0.707,2.9,0.639
+Normal Clear,Concrete,Rainy,203.4,1.02,13.99,0.11,0.0,0.02
+Road Debris,Concrete,Overcast,2851.1,1.98,63.74,0.262,3.5,0.369
+Pothole,Asphalt,Clear,800.9,1.32,60.27,0.509,15.6,0.719
+Normal Clear,Asphalt,Clear,194.7,1.09,4.77,0.115,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,238.7,1.0,12.13,0.064,0.0,0.02
+Normal Clear,Asphalt,Clear,68.4,0.89,18.64,0.112,0.0,0.02
+Normal Clear,Concrete,Overcast,111.4,0.88,20.54,0.049,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,114.2,0.91,6.57,0.064,0.0,0.02
+Normal Clear,Concrete,Overcast,123.9,0.82,17.31,0.045,0.0,0.02
+Normal Clear,Asphalt,Clear,142.9,0.82,11.16,0.052,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,153.8,1.06,17.61,0.062,0.0,0.02
+Normal Clear,Gravel,Rainy,230.9,0.84,11.05,0.133,0.0,0.02
+Road Debris,Asphalt,Rainy,5112.6,2.17,52.76,0.331,3.4,0.568
+Normal Clear,Asphalt,Clear,114.8,1.04,8.32,0.125,0.0,0.02
+Pothole,Asphalt,Clear,2615.7,1.57,68.47,0.381,16.9,0.789
+Normal Clear,Asphalt,Rainy,153.9,1.04,7.68,0.084,0.0,0.02
+Normal Clear,Asphalt,Rainy,221.4,1.03,8.66,0.124,0.0,0.02
+Pothole,Asphalt,Overcast,5365.6,1.43,76.89,0.33,9.7,0.638
+Normal Clear,Asphalt,Night / Low Light,153.5,0.84,7.78,0.058,0.0,0.02
+Pothole,Asphalt,Night / Low Light,7482.4,1.24,72.34,0.322,10.0,0.746
+Surface Crack,Concrete,Clear,665.8,4.7,51.32,0.792,1.7,0.435
+Normal Clear,Asphalt,Night / Low Light,172.1,0.64,9.01,0.026,0.0,0.02
+Pothole,Asphalt,Rainy,5895.9,1.19,41.26,0.45,7.5,0.565
+Normal Clear,Concrete,Overcast,22.1,0.89,13.39,0.063,0.0,0.02
+Normal Clear,Asphalt,Overcast,85.1,0.75,5.55,0.061,0.0,0.02
+Road Debris,Asphalt,Clear,3451.0,2.44,55.36,0.346,7.5,0.406
+Pothole,Asphalt,Overcast,6111.5,1.13,73.68,0.395,11.9,0.771
+Surface Crack,Asphalt,Clear,1966.6,4.23,54.7,0.609,2.1,0.592
+Road Debris,Asphalt,Clear,2915.1,1.29,72.56,0.393,9.8,0.83
+Normal Clear,Asphalt,Rainy,254.0,1.0,19.14,0.105,0.0,0.02
+Road Debris,Asphalt,Clear,2708.0,0.84,40.76,0.3,10.0,0.45
+Pothole,Asphalt,Night / Low Light,2466.0,1.31,59.64,0.489,14.3,0.603
+Road Debris,Asphalt,Clear,2843.5,1.17,48.58,0.36,4.6,0.566
+Road Debris,Asphalt,Clear,4271.6,1.22,73.0,0.267,8.3,0.526
+Normal Clear,Asphalt,Rainy,132.4,1.18,17.13,0.066,0.0,0.02
+Pothole,Concrete,Night / Low Light,3644.2,0.74,59.14,0.474,12.9,0.629
+Normal Clear,Asphalt,Overcast,76.3,1.07,7.29,0.099,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,1939.5,1.08,63.0,0.265,5.6,0.553
+Normal Clear,Asphalt,Night / Low Light,148.9,1.16,8.23,0.057,0.0,0.02
+Surface Crack,Asphalt,Clear,2228.2,1.38,45.12,0.709,1.9,0.558
+Road Debris,Asphalt,Clear,1866.7,1.8,60.62,0.323,10.8,0.456
+Normal Clear,Asphalt,Clear,218.4,0.99,12.64,0.049,0.0,0.02
+Pothole,Concrete,Rainy,5007.1,1.43,76.68,0.323,10.9,0.687
+Normal Clear,Asphalt,Night / Low Light,146.4,0.8,9.07,0.043,0.0,0.02
+Normal Clear,Gravel,Clear,126.1,0.88,2.49,0.101,0.0,0.02
+Pothole,Asphalt,Night / Low Light,7164.4,1.38,65.56,0.416,6.1,0.562
+Surface Crack,Asphalt,Rainy,1681.6,1.02,41.04,0.532,3.3,0.733
+Normal Clear,Asphalt,Clear,245.0,1.07,10.56,0.073,0.0,0.02
+Pothole,Asphalt,Clear,4547.9,0.86,58.8,0.277,17.8,0.893
+Road Debris,Asphalt,Overcast,1414.2,1.38,48.5,0.34,5.9,0.504
+Surface Crack,Asphalt,Night / Low Light,1702.3,3.1,41.7,0.596,2.4,0.532
+Road Debris,Asphalt,Overcast,1825.1,0.97,73.65,0.375,5.3,0.44
+Pothole,Gravel,Clear,1654.9,1.04,77.82,0.396,13.7,0.616
+Normal Clear,Concrete,Overcast,95.9,1.06,14.54,0.067,0.0,0.02
+Normal Clear,Asphalt,Clear,57.7,1.24,12.35,0.01,0.0,0.02
+Normal Clear,Asphalt,Clear,253.5,0.9,21.76,0.091,0.0,0.02
+Normal Clear,Asphalt,Overcast,139.9,1.04,9.16,0.082,0.0,0.02
+Pothole,Asphalt,Clear,6912.7,0.93,74.4,0.362,11.6,0.74
+Normal Clear,Asphalt,Night / Low Light,172.1,1.03,13.15,0.13,0.0,0.02
+Pothole,Asphalt,Clear,4454.7,1.43,92.62,0.525,9.7,0.551
+Pothole,Asphalt,Rainy,4992.3,1.71,73.08,0.598,9.5,0.591
+Surface Crack,Asphalt,Overcast,2341.1,3.72,43.81,0.698,2.1,0.522
+Surface Crack,Gravel,Clear,2675.7,3.78,46.52,0.742,2.0,0.532
+Normal Clear,Concrete,Night / Low Light,157.4,1.23,8.35,0.074,0.0,0.02
+Normal Clear,Gravel,Clear,224.2,0.86,11.39,0.088,0.0,0.02
+Surface Crack,Asphalt,Rainy,1206.5,3.34,45.9,0.655,2.4,0.591
+Pothole,Asphalt,Clear,7042.9,1.27,62.9,0.553,16.6,0.999
+Normal Clear,Asphalt,Clear,183.3,1.13,8.29,0.086,0.0,0.02
+Surface Crack,Asphalt,Clear,2675.5,3.57,46.04,0.626,2.0,0.46
+Surface Crack,Asphalt,Clear,1637.2,2.82,54.26,0.733,2.2,0.454
+Pothole,Concrete,Overcast,6158.9,0.8,78.26,0.367,7.2,0.567
+Normal Clear,Asphalt,Clear,123.2,0.82,14.3,0.059,0.0,0.02
+Normal Clear,Asphalt,Clear,205.4,0.83,13.4,0.068,0.0,0.02
+Pothole,Asphalt,Clear,4506.9,0.99,65.86,0.215,10.2,0.55
+Pothole,Asphalt,Clear,4342.6,1.07,59.89,0.526,14.0,0.676
+Normal Clear,Asphalt,Night / Low Light,55.8,1.12,12.34,0.096,0.0,0.02
+Normal Clear,Asphalt,Overcast,156.6,1.0,13.14,0.145,0.0,0.02
+Pothole,Asphalt,Clear,3931.3,1.82,78.23,0.449,11.0,0.622
+Normal Clear,Asphalt,Overcast,257.4,0.88,4.0,0.017,0.0,0.02
+Pothole,Gravel,Rainy,6086.3,1.19,70.2,0.277,8.8,0.559
+Surface Crack,Asphalt,Clear,2580.0,4.23,32.84,0.608,2.6,0.585
+Normal Clear,Concrete,Night / Low Light,20.0,0.9,8.53,0.09,0.0,0.02
+Surface Crack,Asphalt,Rainy,3771.4,4.56,66.89,0.707,0.6,0.406
+Road Debris,Asphalt,Night / Low Light,3408.5,1.57,45.24,0.409,2.9,0.568
+Surface Crack,Asphalt,Overcast,942.4,4.71,57.43,0.654,2.6,0.573
+Pothole,Asphalt,Clear,3347.7,1.34,77.45,0.361,8.0,0.502
+Normal Clear,Asphalt,Overcast,137.3,1.15,12.59,0.061,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1956.9,3.44,52.04,0.683,2.9,0.572
+Normal Clear,Concrete,Rainy,106.3,0.91,17.71,0.099,0.0,0.02
+Pothole,Asphalt,Rainy,4988.9,0.66,71.75,0.314,8.6,0.484
+Pothole,Asphalt,Clear,5214.4,0.78,64.43,0.469,6.6,0.506
+Pothole,Gravel,Overcast,5337.4,1.24,54.23,0.387,12.4,0.829
+Normal Clear,Asphalt,Night / Low Light,145.8,0.73,8.76,0.137,0.0,0.02
+Surface Crack,Asphalt,Clear,1486.8,5.91,35.05,0.545,1.7,0.452
+Normal Clear,Asphalt,Clear,199.5,0.88,10.5,0.121,0.0,0.02
+Surface Crack,Concrete,Rainy,1351.0,4.48,31.34,0.553,1.5,0.438
+Normal Clear,Gravel,Clear,187.0,1.3,16.47,0.095,0.0,0.02
+Pothole,Asphalt,Clear,5804.2,0.69,61.74,0.347,4.3,0.389
+Normal Clear,Concrete,Rainy,220.1,1.12,15.52,0.064,0.0,0.02
+Normal Clear,Concrete,Clear,191.2,1.16,14.08,0.072,0.0,0.02
+Normal Clear,Asphalt,Clear,158.1,0.63,19.04,0.062,0.0,0.02
+Normal Clear,Asphalt,Clear,133.3,0.74,14.69,0.096,0.0,0.02
+Normal Clear,Asphalt,Clear,135.2,0.53,9.15,0.094,0.0,0.02
+Road Debris,Gravel,Night / Low Light,2726.3,1.48,50.76,0.205,9.7,0.596
+Pothole,Asphalt,Rainy,3454.9,0.98,67.37,0.466,6.9,0.365
+Pothole,Concrete,Clear,5692.4,1.37,63.71,0.475,5.7,0.392
+Normal Clear,Asphalt,Clear,263.1,0.9,10.27,0.097,0.0,0.02
+Road Debris,Concrete,Rainy,1997.1,1.77,47.81,0.41,3.1,0.407
+Normal Clear,Asphalt,Clear,185.5,0.91,7.68,0.044,0.0,0.02
+Surface Crack,Asphalt,Clear,2218.4,1.0,36.91,0.79,2.6,0.547
+Pothole,Concrete,Clear,4405.9,1.27,42.07,0.386,9.0,0.562
+Pothole,Concrete,Overcast,5303.5,0.94,67.05,0.421,13.8,0.768
+Normal Clear,Concrete,Night / Low Light,206.9,0.55,8.85,0.066,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1658.4,3.26,24.6,0.689,0.6,0.412
+Pothole,Concrete,Night / Low Light,3393.2,0.75,73.34,0.415,9.9,0.443
+Surface Crack,Asphalt,Night / Low Light,2340.7,3.13,62.15,0.624,1.1,0.309
+Pothole,Asphalt,Rainy,4933.2,1.65,69.7,0.367,13.7,0.807
+Road Debris,Asphalt,Rainy,2644.5,1.73,59.42,0.248,3.0,0.505
+Pothole,Asphalt,Clear,5800.9,1.03,66.21,0.484,4.3,0.404
+Normal Clear,Asphalt,Rainy,188.2,0.99,6.72,0.022,0.0,0.02
+Surface Crack,Gravel,Night / Low Light,1122.6,6.43,50.78,0.669,0.8,0.354
+Surface Crack,Asphalt,Rainy,1060.6,3.13,51.54,0.659,2.5,0.581
+Pothole,Concrete,Clear,5994.7,1.02,80.7,0.395,14.6,0.958
+Pothole,Asphalt,Clear,5267.1,1.39,81.74,0.463,16.3,0.858
+Surface Crack,Asphalt,Rainy,1023.0,5.4,54.72,0.84,1.7,0.428
+Surface Crack,Asphalt,Night / Low Light,805.2,1.87,59.41,0.738,2.1,0.47
+Road Debris,Gravel,Overcast,2333.3,1.26,58.11,0.328,5.2,0.497
+Surface Crack,Concrete,Clear,1685.0,4.45,27.91,0.697,1.7,0.491
+Normal Clear,Gravel,Night / Low Light,93.5,0.95,12.55,0.067,0.0,0.02
+Normal Clear,Gravel,Rainy,155.0,0.96,6.4,0.085,0.0,0.02
+Normal Clear,Asphalt,Overcast,83.6,1.03,17.5,0.072,0.0,0.02
+Pothole,Asphalt,Rainy,3094.2,1.16,58.02,0.468,14.3,0.552
+Surface Crack,Concrete,Rainy,1059.9,4.3,51.18,0.822,2.4,0.554
+Pothole,Asphalt,Rainy,5458.4,1.48,79.08,0.464,13.0,0.706
+Pothole,Asphalt,Night / Low Light,1588.1,1.4,72.5,0.35,17.0,0.667
+Normal Clear,Asphalt,Overcast,87.5,1.06,14.21,0.102,0.0,0.02
+Pothole,Asphalt,Clear,4919.2,1.12,79.93,0.425,8.6,0.544
+Surface Crack,Asphalt,Clear,1366.3,4.82,37.06,0.657,3.2,0.625
+Road Debris,Asphalt,Overcast,3868.6,1.39,59.87,0.348,7.1,0.646
+Normal Clear,Asphalt,Rainy,196.0,1.15,9.59,0.079,0.0,0.02
+Road Debris,Asphalt,Rainy,3072.2,1.92,63.92,0.335,10.8,0.7
+Pothole,Asphalt,Rainy,3661.8,1.18,73.5,0.493,15.9,0.799
+Surface Crack,Asphalt,Clear,2076.2,3.02,48.21,0.725,1.8,0.494
+Road Debris,Concrete,Night / Low Light,1255.3,0.66,70.08,0.331,4.0,0.619
+Pothole,Asphalt,Night / Low Light,6100.4,1.3,81.01,0.375,13.5,0.778
+Surface Crack,Asphalt,Clear,1573.2,1.58,49.75,0.676,3.0,0.489
+Pothole,Concrete,Clear,3353.5,1.0,52.09,0.338,8.9,0.502
+Pothole,Asphalt,Overcast,6523.2,1.92,69.72,0.359,5.9,0.504
+Surface Crack,Asphalt,Clear,1530.8,2.85,47.19,0.574,1.0,0.311
+Pothole,Concrete,Overcast,3463.0,1.2,68.33,0.37,7.5,0.431
+Road Debris,Asphalt,Clear,1720.3,1.59,59.24,0.314,11.7,0.52
+Normal Clear,Concrete,Rainy,178.6,1.28,7.52,0.066,0.0,0.02
+Normal Clear,Concrete,Overcast,238.2,0.95,1.0,0.074,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4661.9,0.41,84.01,0.363,16.2,0.817
+Pothole,Asphalt,Clear,4987.8,1.11,76.89,0.509,8.3,0.489
+Pothole,Asphalt,Night / Low Light,4323.0,1.04,56.78,0.516,12.8,0.746
+Road Debris,Asphalt,Clear,3266.7,1.44,64.17,0.27,6.3,0.408
+Normal Clear,Asphalt,Clear,202.9,0.86,16.78,0.106,0.0,0.02
+Pothole,Asphalt,Overcast,5168.1,1.38,60.62,0.569,17.8,0.844
+Normal Clear,Asphalt,Night / Low Light,165.9,1.21,7.6,0.073,0.0,0.02
+Pothole,Asphalt,Rainy,5010.4,1.65,54.1,0.483,5.5,0.411
+Road Debris,Asphalt,Clear,1948.1,1.36,69.5,0.233,4.3,0.543
+Normal Clear,Asphalt,Clear,74.6,1.3,13.36,0.103,0.0,0.02
+Normal Clear,Asphalt,Clear,207.8,1.19,11.5,0.102,0.0,0.02
+Normal Clear,Concrete,Rainy,59.5,1.08,18.93,0.059,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,195.8,1.35,14.76,0.111,0.0,0.02
+Surface Crack,Asphalt,Rainy,858.3,2.77,56.44,0.746,3.1,0.631
+Normal Clear,Gravel,Overcast,147.3,0.74,15.48,0.102,0.0,0.02
+Pothole,Asphalt,Clear,3689.3,1.41,72.5,0.318,14.4,0.683
+Normal Clear,Asphalt,Clear,134.4,0.8,16.27,0.072,0.0,0.02
+Road Debris,Asphalt,Clear,2285.4,1.84,38.21,0.298,3.0,0.499
+Normal Clear,Asphalt,Clear,198.5,0.75,12.55,0.053,0.0,0.02
+Surface Crack,Asphalt,Clear,1643.1,3.42,41.58,0.85,3.0,0.652
+Road Debris,Asphalt,Overcast,1814.3,1.19,38.37,0.27,11.4,0.477
+Road Debris,Asphalt,Clear,3802.1,1.6,56.92,0.428,2.9,0.4
+Normal Clear,Concrete,Overcast,170.7,1.36,7.21,0.101,0.0,0.02
+Pothole,Asphalt,Clear,5758.4,0.93,73.24,0.391,14.1,0.788
+Pothole,Asphalt,Overcast,4437.9,0.94,69.98,0.511,4.7,0.265
+Pothole,Concrete,Rainy,3519.7,1.57,66.26,0.382,17.4,0.836
+Pothole,Asphalt,Overcast,5035.6,1.01,54.38,0.46,6.4,0.453
+Normal Clear,Concrete,Clear,201.5,1.01,20.66,0.075,0.0,0.02
+Pothole,Asphalt,Night / Low Light,6616.2,0.93,51.32,0.412,7.0,0.612
+Normal Clear,Concrete,Overcast,107.1,1.1,15.09,0.048,0.0,0.02
+Surface Crack,Asphalt,Clear,1376.5,4.63,38.13,0.542,2.3,0.583
+Pothole,Concrete,Clear,5330.2,0.52,68.19,0.262,17.4,0.846
+Normal Clear,Gravel,Clear,114.5,1.13,15.36,0.014,0.0,0.02
+Normal Clear,Asphalt,Overcast,117.4,1.46,14.33,0.1,0.0,0.02
+Surface Crack,Asphalt,Rainy,2503.7,3.82,51.37,0.722,3.4,0.591
+Road Debris,Asphalt,Rainy,1675.8,1.6,58.73,0.24,7.0,0.536
+Normal Clear,Asphalt,Clear,110.5,0.94,8.23,0.065,0.0,0.02
+Pothole,Asphalt,Clear,4303.3,1.32,79.39,0.383,13.1,0.738
+Normal Clear,Asphalt,Overcast,219.8,1.35,15.83,0.065,0.0,0.02
+Normal Clear,Asphalt,Clear,158.5,0.55,14.55,0.084,0.0,0.02
+Normal Clear,Asphalt,Rainy,229.8,0.85,14.06,0.05,0.0,0.02
+Pothole,Asphalt,Overcast,4368.0,0.71,84.27,0.504,4.1,0.324
+Normal Clear,Asphalt,Clear,166.3,1.27,12.16,0.086,0.0,0.02
+Pothole,Asphalt,Night / Low Light,5919.5,0.74,74.24,0.419,17.3,0.923
+Pothole,Asphalt,Clear,4635.3,1.36,78.04,0.426,5.2,0.426
+Pothole,Asphalt,Rainy,6479.0,1.46,61.91,0.313,12.4,0.687
+Surface Crack,Asphalt,Clear,933.5,4.65,51.87,0.552,2.8,0.694
+Normal Clear,Asphalt,Night / Low Light,92.6,0.95,9.11,0.093,0.0,0.02
+Normal Clear,Asphalt,Clear,117.6,0.62,11.12,0.039,0.0,0.02
+Normal Clear,Asphalt,Rainy,160.2,0.76,10.05,0.085,0.0,0.02
+Surface Crack,Concrete,Rainy,1672.5,4.08,50.44,0.534,1.9,0.436
+Surface Crack,Asphalt,Clear,1798.9,4.31,54.72,0.617,2.9,0.545
+Surface Crack,Asphalt,Night / Low Light,1233.1,3.98,34.32,0.584,2.1,0.494
+Normal Clear,Concrete,Clear,208.9,1.17,11.42,0.13,0.0,0.02
+Pothole,Concrete,Night / Low Light,6791.8,1.4,50.39,0.27,17.9,1.0
+Normal Clear,Gravel,Clear,166.6,1.1,3.47,0.143,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,1982.1,1.13,52.45,0.391,10.8,0.503
+Surface Crack,Asphalt,Clear,1089.8,4.08,62.54,0.689,1.6,0.422
+Normal Clear,Concrete,Clear,118.9,1.31,17.19,0.098,0.0,0.02
+Surface Crack,Asphalt,Clear,2897.4,6.26,43.6,0.569,2.1,0.56
+Normal Clear,Asphalt,Night / Low Light,145.6,1.29,8.69,0.038,0.0,0.02
+Normal Clear,Concrete,Clear,122.8,0.89,11.17,0.066,0.0,0.02
+Surface Crack,Concrete,Overcast,595.3,3.7,46.85,0.631,1.1,0.422
+Pothole,Gravel,Overcast,6953.9,1.27,44.19,0.378,14.0,0.779
+Road Debris,Gravel,Clear,2536.7,1.37,61.01,0.352,11.6,0.572
+Normal Clear,Concrete,Rainy,270.9,0.99,16.99,0.045,0.0,0.02
+Pothole,Asphalt,Clear,1622.2,0.78,29.0,0.589,9.1,0.507
+Road Debris,Concrete,Clear,3260.4,1.16,58.14,0.241,10.8,0.466
+Road Debris,Asphalt,Night / Low Light,3245.0,1.82,56.01,0.431,3.5,0.415
+Normal Clear,Asphalt,Night / Low Light,130.1,0.85,14.0,0.112,0.0,0.02
+Pothole,Concrete,Rainy,5828.4,0.87,66.52,0.329,13.8,0.728
+Normal Clear,Asphalt,Clear,115.4,1.12,15.75,0.117,0.0,0.02
+Normal Clear,Asphalt,Clear,112.6,1.12,10.14,0.062,0.0,0.02
+Pothole,Asphalt,Clear,5943.9,1.04,71.34,0.432,4.8,0.396
+Pothole,Concrete,Night / Low Light,3021.8,0.92,69.32,0.309,12.9,0.686
+Normal Clear,Asphalt,Rainy,132.2,1.07,12.22,0.103,0.0,0.02
+Pothole,Concrete,Night / Low Light,2677.9,1.7,74.3,0.529,10.9,0.529
+Normal Clear,Asphalt,Clear,187.0,1.1,6.67,0.05,0.0,0.02
+Surface Crack,Concrete,Clear,3021.5,4.44,44.86,0.596,1.1,0.43
+Pothole,Concrete,Clear,4200.3,1.36,78.51,0.499,8.1,0.602
+Normal Clear,Asphalt,Clear,192.1,1.26,11.7,0.088,0.0,0.02
+Surface Crack,Asphalt,Clear,1951.6,3.74,56.29,0.762,2.0,0.477
+Road Debris,Asphalt,Overcast,2542.9,0.84,59.3,0.252,5.4,0.568
+Surface Crack,Gravel,Overcast,2196.1,4.98,48.13,0.705,3.4,0.71
+Road Debris,Asphalt,Rainy,3127.2,0.53,56.11,0.237,8.1,0.491
+Pothole,Gravel,Rainy,4817.4,1.19,70.78,0.388,11.1,0.662
+Surface Crack,Asphalt,Clear,2410.1,4.49,49.46,0.569,2.4,0.551
+Normal Clear,Concrete,Overcast,122.2,0.98,7.43,0.102,0.0,0.02
+Pothole,Concrete,Clear,2028.3,1.51,81.74,0.186,9.6,0.523
+Normal Clear,Concrete,Overcast,129.9,1.17,15.5,0.054,0.0,0.02
+Surface Crack,Gravel,Rainy,2398.8,3.36,54.69,0.547,0.6,0.285
+Normal Clear,Asphalt,Clear,92.6,1.26,11.38,0.089,0.0,0.02
+Pothole,Asphalt,Overcast,6667.6,1.16,65.79,0.516,16.1,0.911
+Normal Clear,Concrete,Clear,183.4,1.04,16.01,0.08,0.0,0.02
+Surface Crack,Concrete,Rainy,757.0,3.41,43.4,0.724,2.0,0.561
+Pothole,Asphalt,Rainy,2994.4,0.88,62.74,0.277,5.9,0.38
+Pothole,Asphalt,Clear,3647.2,1.41,59.18,0.348,12.2,0.611
+Pothole,Asphalt,Clear,2664.7,1.43,63.97,0.464,8.7,0.516
+Road Debris,Asphalt,Night / Low Light,3242.7,1.69,68.57,0.327,9.5,0.322
+Surface Crack,Asphalt,Night / Low Light,2208.7,2.93,50.32,0.714,3.0,0.626
+Normal Clear,Asphalt,Clear,80.8,0.98,13.06,0.067,0.0,0.02
+Surface Crack,Concrete,Overcast,1988.8,4.69,44.76,0.672,2.3,0.565
+Pothole,Asphalt,Clear,5527.5,1.72,76.71,0.421,15.6,0.866
+Road Debris,Asphalt,Clear,865.4,0.82,62.36,0.266,11.9,0.545
+Normal Clear,Asphalt,Clear,208.5,1.0,8.87,0.074,0.0,0.02
+Pothole,Asphalt,Clear,4059.6,1.1,62.78,0.385,16.6,0.733
+Pothole,Concrete,Clear,5728.4,1.66,78.26,0.463,16.3,0.919
+Pothole,Gravel,Overcast,4855.2,0.67,71.36,0.429,16.7,0.908
+Normal Clear,Asphalt,Clear,144.7,0.9,12.66,0.11,0.0,0.02
+Normal Clear,Concrete,Clear,194.4,1.07,14.4,0.118,0.0,0.02
+Surface Crack,Concrete,Clear,1710.0,2.57,55.41,0.597,1.0,0.316
+Normal Clear,Concrete,Night / Low Light,123.9,0.87,12.47,0.094,0.0,0.02
+Normal Clear,Asphalt,Overcast,117.7,0.89,9.28,0.068,0.0,0.02
+Road Debris,Gravel,Clear,2454.0,2.03,44.88,0.405,5.3,0.377
+Normal Clear,Asphalt,Clear,175.5,1.16,17.16,0.055,0.0,0.02
+Pothole,Asphalt,Clear,4069.9,0.63,105.69,0.408,8.2,0.553
+Pothole,Asphalt,Clear,6136.3,0.91,70.31,0.245,10.9,0.668
+Pothole,Asphalt,Clear,4454.5,1.45,67.57,0.397,15.5,0.797
+Pothole,Asphalt,Clear,6323.3,1.13,48.36,0.529,10.9,0.745
+Road Debris,Asphalt,Clear,3493.8,1.29,57.06,0.3,6.6,0.52
+Normal Clear,Asphalt,Rainy,126.7,1.26,8.83,0.065,0.0,0.02
+Pothole,Concrete,Clear,4492.9,0.8,89.18,0.42,13.9,0.775
+Pothole,Concrete,Overcast,5340.6,0.97,74.04,0.442,4.5,0.498
+Surface Crack,Asphalt,Overcast,1465.1,3.59,38.24,0.64,3.5,0.679
+Normal Clear,Concrete,Rainy,154.9,0.96,12.07,0.161,0.0,0.02
+Surface Crack,Concrete,Clear,1987.0,4.51,48.5,0.624,1.8,0.458
+Road Debris,Concrete,Clear,3580.6,1.65,64.92,0.323,3.9,0.407
+Pothole,Asphalt,Clear,3067.0,1.1,50.82,0.646,11.0,0.601
+Pothole,Concrete,Night / Low Light,3175.6,0.91,84.46,0.446,14.0,0.722
+Normal Clear,Gravel,Rainy,160.6,1.05,10.78,0.053,0.0,0.02
+Normal Clear,Concrete,Overcast,211.9,1.26,8.46,0.075,0.0,0.02
+Pothole,Asphalt,Overcast,4327.9,1.19,68.77,0.496,15.9,0.77
+Normal Clear,Asphalt,Clear,78.1,0.91,16.94,0.083,0.0,0.02
+Road Debris,Asphalt,Rainy,2337.8,2.18,50.85,0.252,3.4,0.54
+Normal Clear,Asphalt,Clear,191.0,1.19,9.25,0.074,0.0,0.02
+Surface Crack,Asphalt,Clear,1206.1,3.57,50.47,0.663,1.5,0.401
+Road Debris,Asphalt,Clear,3065.4,1.12,58.05,0.346,5.3,0.51
+Surface Crack,Concrete,Clear,1224.2,1.97,49.46,0.824,3.3,0.577
+Normal Clear,Concrete,Overcast,123.4,1.34,25.96,0.07,0.0,0.02
+Pothole,Asphalt,Clear,4036.3,0.71,48.2,0.351,4.1,0.309
+Pothole,Gravel,Rainy,4732.6,1.2,61.99,0.436,5.6,0.434
+Surface Crack,Asphalt,Rainy,2224.0,3.12,44.43,0.614,0.9,0.322
+Normal Clear,Concrete,Night / Low Light,139.9,0.75,10.32,0.018,0.0,0.02
+Pothole,Concrete,Clear,6794.6,0.92,87.03,0.423,7.0,0.524
+Normal Clear,Concrete,Overcast,163.9,1.03,12.83,0.068,0.0,0.02
+Normal Clear,Gravel,Rainy,166.0,1.08,6.28,0.105,0.0,0.02
+Pothole,Asphalt,Clear,3016.9,0.94,70.9,0.468,6.3,0.384
+Normal Clear,Concrete,Clear,65.1,1.21,4.81,0.07,0.0,0.02
+Surface Crack,Asphalt,Rainy,1665.4,3.72,45.29,0.664,2.0,0.538
+Normal Clear,Concrete,Overcast,37.8,0.7,6.8,0.027,0.0,0.02
+Pothole,Concrete,Rainy,4161.0,1.27,52.48,0.402,4.5,0.363
+Normal Clear,Concrete,Overcast,167.2,1.24,11.62,0.103,0.0,0.02
+Normal Clear,Asphalt,Rainy,184.2,0.74,17.89,0.037,0.0,0.02
+Normal Clear,Concrete,Clear,195.9,0.7,14.4,0.136,0.0,0.02
+Normal Clear,Asphalt,Clear,139.4,0.95,14.44,0.07,0.0,0.02
+Surface Crack,Asphalt,Clear,2891.0,4.01,42.44,0.596,3.4,0.592
+Road Debris,Concrete,Night / Low Light,1561.1,1.37,52.36,0.34,6.6,0.375
+Normal Clear,Asphalt,Night / Low Light,98.5,1.03,14.37,0.099,0.0,0.02
+Road Debris,Concrete,Clear,2447.3,1.4,59.52,0.316,4.4,0.367
+Pothole,Asphalt,Rainy,4278.9,1.32,40.6,0.426,11.6,0.626
+Normal Clear,Asphalt,Clear,123.1,1.15,13.22,0.119,0.0,0.02
+Normal Clear,Concrete,Clear,178.8,0.8,5.11,0.089,0.0,0.02
+Normal Clear,Asphalt,Clear,123.6,0.8,6.93,0.085,0.0,0.02
+Pothole,Asphalt,Clear,6309.2,1.08,75.08,0.412,4.5,0.483
+Normal Clear,Concrete,Clear,215.0,1.01,5.35,0.119,0.0,0.02
+Surface Crack,Asphalt,Clear,916.8,3.34,41.08,0.651,2.0,0.435
+Normal Clear,Asphalt,Clear,177.5,0.85,7.5,0.065,0.0,0.02
+Pothole,Asphalt,Clear,5360.3,0.63,66.3,0.562,11.4,0.682
+Normal Clear,Concrete,Rainy,174.3,1.01,10.55,0.117,0.0,0.02
+Normal Clear,Concrete,Clear,173.3,0.66,8.52,0.045,0.0,0.02
+Pothole,Concrete,Overcast,4354.6,1.48,63.45,0.4,18.0,0.836
+Normal Clear,Asphalt,Clear,135.9,0.95,16.79,0.101,0.0,0.02
+Surface Crack,Concrete,Clear,1958.0,3.8,36.53,0.432,3.3,0.597
+Normal Clear,Concrete,Clear,153.8,0.68,5.01,0.083,0.0,0.02
+Normal Clear,Concrete,Clear,171.7,1.28,15.55,0.099,0.0,0.02
+Road Debris,Asphalt,Overcast,3643.4,1.7,51.56,0.355,12.0,0.588
+Normal Clear,Concrete,Clear,174.6,1.09,22.8,0.078,0.0,0.02
+Normal Clear,Concrete,Overcast,196.8,0.91,15.16,0.108,0.0,0.02
+Surface Crack,Asphalt,Overcast,2018.7,5.64,37.93,0.601,3.2,0.679
+Surface Crack,Asphalt,Rainy,2011.1,2.17,46.93,0.538,3.4,0.565
+Normal Clear,Concrete,Rainy,177.1,0.99,10.64,0.078,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,151.4,0.94,11.19,0.068,0.0,0.02
+Normal Clear,Gravel,Clear,192.8,1.04,21.03,0.085,0.0,0.02
+Normal Clear,Concrete,Rainy,122.5,1.53,13.65,0.11,0.0,0.02
+Surface Crack,Asphalt,Clear,2155.3,4.49,49.29,0.54,1.1,0.497
+Normal Clear,Asphalt,Clear,191.1,1.24,10.49,0.094,0.0,0.02
+Pothole,Asphalt,Rainy,5337.8,1.11,76.2,0.456,13.8,0.799
+Road Debris,Gravel,Rainy,1467.9,0.89,47.73,0.363,2.4,0.417
+Pothole,Asphalt,Overcast,5927.0,1.49,80.36,0.541,12.1,0.735
+Surface Crack,Concrete,Clear,2399.2,2.8,43.48,0.653,3.2,0.675
+Surface Crack,Asphalt,Overcast,1880.4,3.64,53.03,0.385,1.8,0.497
+Surface Crack,Asphalt,Clear,1905.2,4.06,47.27,0.554,3.5,0.716
+Normal Clear,Asphalt,Clear,172.6,0.86,16.87,0.122,0.0,0.02
+Surface Crack,Asphalt,Clear,1315.6,6.88,44.99,0.745,1.3,0.468
+Surface Crack,Gravel,Clear,1528.5,2.96,27.85,0.66,2.2,0.521
+Pothole,Asphalt,Clear,3693.9,1.37,41.55,0.287,16.7,0.776
+Surface Crack,Asphalt,Rainy,2137.6,2.72,45.58,0.729,3.1,0.612
+Pothole,Asphalt,Overcast,3214.1,1.13,67.77,0.256,13.4,0.613
+Pothole,Asphalt,Clear,3754.6,0.63,86.12,0.4,10.2,0.56
+Road Debris,Asphalt,Rainy,3419.3,1.03,57.83,0.258,6.3,0.426
+Normal Clear,Concrete,Overcast,152.0,1.16,9.55,0.056,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,3864.4,0.93,34.32,0.231,7.6,0.481
+Surface Crack,Asphalt,Rainy,1730.7,3.51,39.69,0.725,2.3,0.58
+Surface Crack,Asphalt,Clear,1526.6,4.61,43.07,0.742,1.7,0.428
+Normal Clear,Gravel,Overcast,140.0,0.74,7.48,0.069,0.0,0.02
+Road Debris,Asphalt,Rainy,3277.7,1.63,46.36,0.303,4.4,0.367
+Surface Crack,Asphalt,Clear,1458.8,4.86,33.42,0.596,3.2,0.609
+Pothole,Concrete,Clear,5467.1,0.9,73.6,0.579,9.4,0.551
+Surface Crack,Asphalt,Overcast,1902.6,3.95,31.43,0.686,3.5,0.735
+Surface Crack,Asphalt,Clear,2306.9,4.77,48.72,0.723,2.6,0.571
+Surface Crack,Asphalt,Overcast,723.3,2.57,52.11,0.738,2.3,0.553
+Road Debris,Concrete,Clear,2315.2,2.07,57.55,0.262,10.7,0.385
+Road Debris,Asphalt,Night / Low Light,2516.0,1.24,71.52,0.293,4.8,0.408
+Road Debris,Concrete,Clear,2650.3,1.68,42.61,0.357,9.6,0.48
+Normal Clear,Asphalt,Rainy,145.1,1.0,11.41,0.111,0.0,0.02
+Normal Clear,Asphalt,Overcast,149.6,1.15,10.26,0.086,0.0,0.02
+Normal Clear,Asphalt,Clear,109.8,1.24,8.67,0.07,0.0,0.02
+Normal Clear,Asphalt,Rainy,134.3,0.93,14.89,0.071,0.0,0.02
+Pothole,Concrete,Clear,6172.7,0.95,70.03,0.358,10.7,0.758
+Pothole,Asphalt,Clear,4202.9,1.28,51.92,0.403,7.2,0.429
+Pothole,Asphalt,Clear,4401.4,1.74,69.21,0.552,5.2,0.428
+Road Debris,Asphalt,Night / Low Light,2968.4,1.56,63.78,0.349,3.6,0.582
+Normal Clear,Gravel,Clear,135.4,0.6,15.74,0.113,0.0,0.02
+Pothole,Asphalt,Clear,6705.5,1.33,65.02,0.487,13.7,0.789
+Normal Clear,Gravel,Clear,156.4,1.27,9.15,0.091,0.0,0.02
+Pothole,Asphalt,Rainy,3103.2,1.48,60.18,0.47,11.3,0.608
+Normal Clear,Asphalt,Night / Low Light,193.6,0.88,9.64,0.054,0.0,0.02
+Surface Crack,Asphalt,Clear,2130.8,2.7,53.67,0.782,1.7,0.346
+Pothole,Asphalt,Clear,4757.5,0.81,72.46,0.399,7.2,0.432
+Surface Crack,Asphalt,Overcast,2056.7,3.49,32.64,0.937,2.6,0.572
+Pothole,Asphalt,Clear,5923.5,1.07,58.6,0.576,7.4,0.533
+Surface Crack,Gravel,Overcast,2966.4,4.2,53.82,0.634,3.1,0.634
+Surface Crack,Concrete,Overcast,1782.8,5.33,31.84,0.609,0.9,0.501
+Normal Clear,Concrete,Night / Low Light,163.9,0.95,13.55,0.105,0.0,0.02
+Road Debris,Asphalt,Clear,3402.5,2.17,51.71,0.218,9.0,0.463
+Surface Crack,Asphalt,Overcast,1817.3,4.56,33.58,0.339,1.7,0.484
+Road Debris,Asphalt,Night / Low Light,2148.7,1.94,53.97,0.269,9.2,0.557
+Normal Clear,Concrete,Rainy,92.3,0.78,15.38,0.129,0.0,0.02
+Pothole,Gravel,Clear,5566.8,0.58,62.96,0.439,10.0,0.63
+Surface Crack,Asphalt,Clear,1342.7,1.26,45.79,0.571,1.5,0.444
+Pothole,Asphalt,Clear,3248.2,1.26,50.72,0.416,10.1,0.442
+Pothole,Asphalt,Rainy,5603.0,0.88,76.6,0.512,11.0,0.654
+Normal Clear,Asphalt,Rainy,20.0,0.59,7.22,0.182,0.0,0.02
+Pothole,Asphalt,Clear,4455.9,1.53,80.09,0.319,9.2,0.46
+Road Debris,Asphalt,Rainy,430.5,2.22,58.32,0.34,11.0,0.536
+Normal Clear,Concrete,Clear,155.2,1.06,12.18,0.039,0.0,0.02
+Pothole,Asphalt,Rainy,4027.4,1.85,71.77,0.511,17.7,0.81
+Road Debris,Asphalt,Overcast,2223.7,1.73,44.08,0.212,5.9,0.523
+Pothole,Gravel,Clear,4073.0,1.46,64.28,0.228,11.3,0.635
+Normal Clear,Asphalt,Clear,202.8,0.7,12.92,0.057,0.0,0.02
+Surface Crack,Asphalt,Clear,3085.6,5.38,39.07,0.637,3.2,0.573
+Normal Clear,Asphalt,Rainy,163.1,0.81,27.11,0.084,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,1946.8,1.74,62.5,0.324,5.4,0.468
+Pothole,Asphalt,Overcast,7532.4,1.09,77.62,0.36,12.8,0.822
+Road Debris,Concrete,Clear,2305.8,0.94,54.6,0.322,5.2,0.318
+Normal Clear,Asphalt,Overcast,207.1,0.89,1.96,0.079,0.0,0.02
+Road Debris,Asphalt,Clear,2515.5,1.79,75.11,0.277,4.6,0.549
+Normal Clear,Concrete,Rainy,140.1,1.19,14.08,0.09,0.0,0.02
+Normal Clear,Asphalt,Clear,64.2,1.01,7.03,0.047,0.0,0.02
+Pothole,Concrete,Overcast,4066.6,1.64,72.38,0.455,4.6,0.392
+Pothole,Concrete,Rainy,2814.8,1.02,68.61,0.361,7.8,0.474
+Road Debris,Asphalt,Night / Low Light,3321.5,1.17,68.55,0.423,8.2,0.561
+Surface Crack,Concrete,Overcast,1510.7,4.06,37.87,0.455,1.3,0.416
+Normal Clear,Asphalt,Clear,139.3,0.98,2.83,0.103,0.0,0.02
+Normal Clear,Gravel,Clear,194.8,1.07,7.32,0.091,0.0,0.02
+Surface Crack,Asphalt,Overcast,1813.6,4.32,57.41,0.632,0.5,0.364
+Pothole,Gravel,Clear,3755.7,1.29,71.92,0.379,7.8,0.499
+Normal Clear,Concrete,Clear,160.8,0.79,9.27,0.025,0.0,0.02
+Pothole,Asphalt,Rainy,3665.9,1.41,72.75,0.433,5.4,0.443
+Normal Clear,Asphalt,Rainy,104.5,1.28,7.44,0.06,0.0,0.02
+Surface Crack,Gravel,Clear,1065.5,2.31,57.73,0.704,0.7,0.396
+Normal Clear,Concrete,Clear,155.6,1.08,11.05,0.056,0.0,0.02
+Pothole,Asphalt,Clear,5441.0,1.44,75.82,0.486,15.4,0.782
+Road Debris,Concrete,Clear,1555.3,1.32,56.57,0.249,11.8,0.475
+Surface Crack,Asphalt,Overcast,2560.7,1.85,47.35,0.643,1.9,0.426
+Road Debris,Asphalt,Overcast,3062.8,1.51,70.73,0.393,3.3,0.478
+Pothole,Asphalt,Rainy,5685.7,2.25,72.06,0.468,16.6,0.842
+Normal Clear,Asphalt,Clear,105.4,1.19,17.93,0.108,0.0,0.02
+Normal Clear,Concrete,Overcast,199.5,0.89,16.3,0.084,0.0,0.02
+Pothole,Asphalt,Rainy,5113.9,1.31,66.54,0.351,16.5,0.918
+Pothole,Concrete,Clear,4368.2,0.85,52.75,0.406,15.1,0.819
+Pothole,Asphalt,Overcast,6311.5,1.33,67.81,0.349,16.6,0.89
+Road Debris,Asphalt,Night / Low Light,864.0,1.72,47.28,0.269,8.6,0.393
+Road Debris,Asphalt,Night / Low Light,4041.1,1.45,45.25,0.345,6.1,0.387
+Road Debris,Asphalt,Night / Low Light,1339.4,1.61,59.47,0.305,4.4,0.537
+Pothole,Asphalt,Clear,3053.3,0.85,82.31,0.324,11.4,0.523
+Surface Crack,Asphalt,Clear,1594.8,4.02,42.77,0.683,1.7,0.437
+Road Debris,Asphalt,Night / Low Light,1171.4,1.68,61.42,0.254,9.1,0.47
+Surface Crack,Asphalt,Clear,1712.4,3.33,51.57,0.657,3.2,0.553
+Normal Clear,Asphalt,Clear,60.1,1.35,9.88,0.068,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4806.9,1.39,91.53,0.287,14.4,0.682
+Normal Clear,Concrete,Night / Low Light,119.7,0.78,19.25,0.034,0.0,0.02
+Surface Crack,Gravel,Rainy,2882.2,3.68,35.42,0.749,2.0,0.529
+Surface Crack,Asphalt,Night / Low Light,1619.8,2.5,41.66,0.787,2.6,0.478
+Normal Clear,Asphalt,Overcast,152.3,0.71,12.5,0.08,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,112.1,1.38,11.98,0.106,0.0,0.02
+Normal Clear,Gravel,Clear,196.4,1.35,7.16,0.027,0.0,0.02
+Pothole,Asphalt,Clear,6568.8,1.37,69.52,0.409,8.0,0.578
+Pothole,Asphalt,Clear,3367.3,1.3,61.2,0.586,17.1,0.808
+Normal Clear,Asphalt,Clear,214.3,1.12,19.02,0.028,0.0,0.02
+Road Debris,Asphalt,Clear,3316.0,1.18,54.27,0.383,11.5,0.4
+Pothole,Asphalt,Clear,4575.6,1.36,53.45,0.453,13.7,0.721
+Pothole,Concrete,Rainy,4069.9,0.83,81.13,0.388,5.0,0.362
+Pothole,Asphalt,Overcast,3635.5,1.03,59.48,0.507,15.3,0.748
+Normal Clear,Asphalt,Clear,84.7,1.21,17.3,0.101,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4704.5,1.19,49.25,0.312,6.7,0.498
+Surface Crack,Asphalt,Night / Low Light,3144.4,2.91,38.38,0.546,2.3,0.542
+Pothole,Gravel,Clear,4965.5,1.02,82.88,0.392,15.3,0.722
+Surface Crack,Asphalt,Overcast,2512.6,3.64,37.26,0.62,3.1,0.643
+Pothole,Concrete,Rainy,4810.1,1.2,73.73,0.365,7.1,0.453
+Road Debris,Asphalt,Clear,2619.4,1.28,68.82,0.371,5.7,0.515
+Pothole,Asphalt,Night / Low Light,6161.7,1.24,65.87,0.397,6.1,0.377
+Normal Clear,Gravel,Clear,129.8,1.14,14.66,0.113,0.0,0.02
+Pothole,Asphalt,Night / Low Light,2988.8,1.32,59.27,0.322,15.7,0.803
+Road Debris,Concrete,Clear,1877.9,2.08,51.94,0.32,10.2,0.598
+Normal Clear,Asphalt,Overcast,103.4,1.37,13.04,0.081,0.0,0.02
+Normal Clear,Concrete,Clear,107.2,1.24,14.07,0.099,0.0,0.02
+Road Debris,Asphalt,Rainy,2043.2,1.83,64.12,0.26,11.4,0.551
+Surface Crack,Asphalt,Clear,2606.3,3.98,32.07,0.718,1.7,0.436
+Surface Crack,Concrete,Night / Low Light,1564.3,5.02,40.89,0.75,1.8,0.449
+Normal Clear,Gravel,Night / Low Light,158.9,1.02,14.45,0.117,0.0,0.02
+Normal Clear,Gravel,Rainy,151.4,1.01,16.45,0.087,0.0,0.02
+Normal Clear,Concrete,Rainy,103.8,0.9,3.48,0.052,0.0,0.02
+Road Debris,Concrete,Rainy,978.7,1.64,67.12,0.244,5.4,0.41
+Normal Clear,Asphalt,Overcast,163.7,0.96,7.03,0.099,0.0,0.02
+Surface Crack,Asphalt,Rainy,2078.7,3.4,42.67,0.697,1.8,0.5
+Pothole,Asphalt,Overcast,5221.0,1.22,84.32,0.399,6.2,0.495
+Road Debris,Asphalt,Overcast,2808.6,2.23,50.16,0.348,8.5,0.511
+Normal Clear,Asphalt,Clear,127.0,0.83,17.64,0.086,0.0,0.02
+Pothole,Asphalt,Clear,2727.6,1.05,79.27,0.352,17.3,0.741
+Normal Clear,Asphalt,Clear,185.2,1.2,12.07,0.154,0.0,0.02
+Pothole,Concrete,Overcast,5489.0,1.13,58.21,0.342,5.7,0.484
+Road Debris,Asphalt,Clear,3801.1,0.97,60.13,0.373,5.6,0.569
+Pothole,Asphalt,Rainy,3824.3,1.54,73.7,0.424,17.7,0.831
+Surface Crack,Asphalt,Overcast,767.2,1.63,54.41,0.47,1.6,0.468
+Normal Clear,Concrete,Clear,183.7,0.7,17.14,0.075,0.0,0.02
+Surface Crack,Concrete,Rainy,871.5,3.27,48.03,0.597,3.3,0.624
+Normal Clear,Asphalt,Clear,150.2,0.83,10.9,0.121,0.0,0.02
+Normal Clear,Asphalt,Clear,130.3,0.61,5.03,0.143,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,222.5,0.91,15.24,0.088,0.0,0.02
+Pothole,Asphalt,Clear,6024.6,0.88,55.48,0.526,7.2,0.465
+Surface Crack,Asphalt,Clear,1883.7,4.66,50.35,0.608,0.6,0.311
+Pothole,Asphalt,Overcast,4300.7,1.55,64.57,0.533,8.9,0.566
+Normal Clear,Asphalt,Clear,155.7,1.05,5.2,0.026,0.0,0.02
+Normal Clear,Asphalt,Overcast,157.2,1.16,9.31,0.13,0.0,0.02
+Road Debris,Gravel,Overcast,3161.4,1.14,55.31,0.449,8.2,0.562
+Normal Clear,Gravel,Clear,119.4,0.82,5.26,0.092,0.0,0.02
+Road Debris,Asphalt,Clear,3638.1,1.81,55.87,0.373,2.4,0.795
+Road Debris,Asphalt,Night / Low Light,2341.0,1.82,67.05,0.293,8.1,0.345
+Pothole,Asphalt,Rainy,5499.3,1.1,72.04,0.346,13.4,0.707
+Normal Clear,Asphalt,Clear,183.8,0.78,15.29,0.081,0.0,0.02
+Pothole,Gravel,Night / Low Light,6100.4,1.54,85.22,0.537,6.1,0.386
+Normal Clear,Asphalt,Clear,192.6,1.22,1.31,0.07,0.0,0.02
+Normal Clear,Concrete,Overcast,105.1,0.93,9.84,0.079,0.0,0.02
+Normal Clear,Asphalt,Clear,199.4,0.94,8.05,0.074,0.0,0.02
+Pothole,Gravel,Clear,4196.1,1.17,60.46,0.449,12.5,0.73
+Surface Crack,Asphalt,Clear,1452.4,2.58,44.58,0.765,3.0,0.545
+Pothole,Concrete,Overcast,2974.1,1.44,76.31,0.545,17.5,0.84
+Surface Crack,Asphalt,Night / Low Light,1588.7,3.72,32.48,0.727,1.8,0.443
+Pothole,Asphalt,Overcast,4476.4,0.39,61.82,0.494,6.6,0.515
+Normal Clear,Asphalt,Clear,117.0,0.84,14.04,0.049,0.0,0.02
+Road Debris,Asphalt,Clear,1188.5,2.19,60.79,0.284,11.7,0.314
+Surface Crack,Gravel,Clear,1782.8,3.26,47.87,0.716,0.9,0.415
+Surface Crack,Gravel,Rainy,1796.0,4.61,48.9,0.499,1.8,0.458
+Surface Crack,Concrete,Rainy,980.1,3.2,46.66,0.723,0.7,0.434
+Road Debris,Asphalt,Rainy,3760.7,1.68,46.96,0.465,2.4,0.297
+Road Debris,Concrete,Clear,3750.9,1.3,68.96,0.261,3.3,0.53
+Normal Clear,Asphalt,Overcast,221.5,1.04,17.16,0.137,0.0,0.02
+Surface Crack,Asphalt,Clear,1120.4,5.2,33.73,0.545,2.6,0.594
+Normal Clear,Asphalt,Overcast,156.7,1.26,14.04,0.079,0.0,0.02
+Normal Clear,Asphalt,Clear,253.1,1.16,14.22,0.06,0.0,0.02
+Pothole,Asphalt,Rainy,3124.0,1.12,50.01,0.394,9.2,0.533
+Normal Clear,Asphalt,Clear,152.4,1.23,16.51,0.083,0.0,0.02
+Pothole,Asphalt,Clear,6910.7,1.17,66.34,0.215,17.5,0.981
+Normal Clear,Concrete,Rainy,148.6,0.82,18.35,0.087,0.0,0.02
+Surface Crack,Asphalt,Clear,1639.8,2.36,56.23,0.742,2.4,0.54
+Normal Clear,Asphalt,Clear,102.6,0.95,7.38,0.01,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,201.4,1.0,18.39,0.106,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,132.3,0.98,14.26,0.109,0.0,0.02
+Normal Clear,Asphalt,Overcast,166.1,1.22,10.81,0.05,0.0,0.02
+Surface Crack,Asphalt,Clear,1761.1,4.03,35.39,0.516,0.7,0.356
+Pothole,Asphalt,Rainy,4222.8,1.48,86.03,0.317,6.9,0.524
+Surface Crack,Concrete,Rainy,2310.0,4.46,44.67,0.536,1.2,0.451
+Pothole,Asphalt,Clear,3606.8,0.76,70.38,0.597,9.3,0.48
+Normal Clear,Concrete,Rainy,141.4,0.85,5.6,0.101,0.0,0.02
+Surface Crack,Asphalt,Clear,1697.3,3.99,37.79,0.618,1.7,0.444
+Normal Clear,Asphalt,Clear,26.7,0.65,13.35,0.118,0.0,0.02
+Road Debris,Concrete,Clear,5406.8,1.87,49.85,0.181,11.5,0.554
+Normal Clear,Asphalt,Clear,102.5,1.3,15.72,0.043,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4545.6,1.24,63.85,0.482,9.7,0.583
+Normal Clear,Concrete,Night / Low Light,166.8,1.3,2.03,0.084,0.0,0.02
+Normal Clear,Asphalt,Overcast,195.8,0.92,5.61,0.052,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1822.4,3.26,47.43,0.778,1.9,0.47
+Road Debris,Asphalt,Clear,2098.2,1.89,46.94,0.346,11.8,0.564
+Normal Clear,Concrete,Overcast,150.2,0.33,14.38,0.021,0.0,0.02
+Pothole,Asphalt,Overcast,3771.7,0.48,88.38,0.453,12.4,0.627
+Road Debris,Asphalt,Clear,1637.4,1.27,47.69,0.155,11.0,0.324
+Surface Crack,Asphalt,Rainy,2104.4,3.84,58.6,0.677,3.2,0.564
+Pothole,Asphalt,Overcast,4847.2,1.54,59.13,0.402,10.6,0.583
+Surface Crack,Asphalt,Rainy,2579.0,4.32,53.78,0.675,0.8,0.343
+Pothole,Asphalt,Overcast,3616.7,0.56,71.68,0.432,16.5,0.838
+Pothole,Asphalt,Clear,5801.1,1.2,54.64,0.366,16.2,0.912
+Pothole,Asphalt,Clear,2647.6,1.49,78.9,0.477,17.1,0.85
+Normal Clear,Asphalt,Clear,98.7,1.12,21.69,0.089,0.0,0.02
+Road Debris,Gravel,Rainy,899.1,1.37,76.75,0.288,7.6,0.633
+Normal Clear,Asphalt,Overcast,171.0,0.84,4.37,0.074,0.0,0.02
+Surface Crack,Asphalt,Overcast,925.7,3.62,45.28,0.762,2.4,0.568
+Surface Crack,Asphalt,Clear,835.9,4.08,45.15,0.553,1.7,0.505
+Road Debris,Asphalt,Clear,1404.3,0.98,59.78,0.389,2.4,0.463
+Surface Crack,Gravel,Overcast,2214.5,3.99,32.95,0.577,2.3,0.491
+Pothole,Asphalt,Rainy,4255.3,1.41,32.79,0.527,16.4,0.762
+Road Debris,Gravel,Clear,3357.1,0.66,39.24,0.428,7.6,0.515
+Pothole,Asphalt,Rainy,4684.6,0.99,65.74,0.453,17.2,0.827
+Road Debris,Concrete,Night / Low Light,1504.5,2.03,61.47,0.362,2.4,0.5
+Normal Clear,Asphalt,Night / Low Light,138.0,1.19,13.97,0.109,0.0,0.02
+Pothole,Concrete,Rainy,3528.3,0.96,68.24,0.297,15.6,0.767
+Pothole,Asphalt,Clear,3112.3,1.42,73.14,0.353,5.6,0.446
+Normal Clear,Asphalt,Overcast,271.3,0.98,16.47,0.109,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,913.1,4.14,46.17,0.683,1.2,0.448
+Pothole,Asphalt,Clear,4223.5,1.13,79.08,0.488,12.2,0.584
+Normal Clear,Gravel,Clear,219.8,1.17,7.98,0.068,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4751.9,1.01,74.93,0.478,15.4,0.865
+Normal Clear,Asphalt,Clear,192.8,0.89,9.63,0.091,0.0,0.02
+Normal Clear,Concrete,Clear,264.5,0.97,13.45,0.107,0.0,0.02
+Pothole,Asphalt,Rainy,3996.9,1.44,68.17,0.52,10.8,0.543
+Pothole,Gravel,Clear,4596.9,1.9,72.22,0.403,8.1,0.472
+Pothole,Concrete,Rainy,4188.2,1.11,74.61,0.445,15.3,0.765
+Surface Crack,Asphalt,Clear,2036.9,3.22,46.5,0.778,2.5,0.647
+Pothole,Concrete,Night / Low Light,4416.6,1.19,61.93,0.444,8.4,0.499
+Normal Clear,Asphalt,Clear,38.0,0.71,11.57,0.127,0.0,0.02
+Pothole,Asphalt,Clear,4771.0,0.79,53.63,0.554,15.6,0.856
+Road Debris,Asphalt,Clear,1185.4,1.2,58.72,0.29,9.1,0.546
+Normal Clear,Asphalt,Overcast,73.7,1.03,13.34,0.091,0.0,0.02
+Normal Clear,Concrete,Overcast,223.9,0.65,15.44,0.047,0.0,0.02
+Road Debris,Gravel,Clear,3270.2,1.31,46.86,0.263,7.1,0.564
+Surface Crack,Asphalt,Night / Low Light,1367.5,4.68,36.98,0.674,3.5,0.652
+Road Debris,Asphalt,Rainy,2829.7,1.71,69.0,0.262,11.6,0.503
+Road Debris,Gravel,Overcast,2120.5,1.62,40.44,0.447,7.5,0.391
+Surface Crack,Asphalt,Clear,1837.5,4.41,41.32,0.738,1.8,0.392
+Pothole,Asphalt,Night / Low Light,4214.4,1.61,47.93,0.568,8.9,0.582
+Normal Clear,Asphalt,Clear,197.6,0.69,10.44,0.063,0.0,0.02
+Surface Crack,Gravel,Clear,2248.8,2.45,44.21,0.581,3.2,0.591
+Pothole,Asphalt,Overcast,5690.5,1.13,74.62,0.412,13.3,0.816
+Surface Crack,Concrete,Rainy,1175.4,4.44,43.85,0.508,3.2,0.622
+Surface Crack,Concrete,Clear,1383.1,5.35,53.32,0.638,2.3,0.493
+Normal Clear,Asphalt,Clear,163.8,1.42,12.51,0.043,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,119.1,1.04,17.32,0.07,0.0,0.02
+Normal Clear,Concrete,Rainy,191.3,0.71,6.23,0.066,0.0,0.02
+Pothole,Asphalt,Clear,6225.6,1.22,71.48,0.442,8.7,0.576
+Surface Crack,Concrete,Overcast,2179.2,3.76,42.73,0.784,1.0,0.452
+Surface Crack,Gravel,Clear,1847.9,4.16,46.82,0.541,2.3,0.486
+Pothole,Asphalt,Clear,6415.2,1.48,55.42,0.437,13.5,0.825
+Pothole,Concrete,Overcast,4731.7,0.74,89.36,0.464,18.0,0.909
+Normal Clear,Concrete,Clear,135.9,1.07,8.1,0.066,0.0,0.02
+Pothole,Concrete,Clear,2145.9,1.33,63.95,0.469,12.0,0.566
+Road Debris,Asphalt,Rainy,2474.6,1.49,55.85,0.289,6.1,0.416
+Pothole,Asphalt,Overcast,3935.9,0.9,54.8,0.422,4.2,0.268
+Pothole,Asphalt,Clear,4972.1,1.15,55.64,0.308,10.6,0.693
+Pothole,Concrete,Overcast,4819.9,1.28,65.22,0.485,5.2,0.456
+Normal Clear,Asphalt,Night / Low Light,153.1,0.94,12.98,0.112,0.0,0.02
+Normal Clear,Concrete,Clear,148.9,1.0,16.27,0.109,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,229.2,0.65,15.62,0.098,0.0,0.02
+Surface Crack,Asphalt,Clear,1268.6,4.08,53.41,0.567,3.1,0.548
+Pothole,Asphalt,Clear,5476.0,1.18,75.2,0.354,5.3,0.54
+Road Debris,Concrete,Night / Low Light,3221.5,1.76,46.39,0.339,8.9,0.614
+Surface Crack,Asphalt,Overcast,1593.1,3.78,27.33,0.604,1.0,0.375
+Normal Clear,Asphalt,Clear,155.4,0.79,10.61,0.074,0.0,0.02
+Pothole,Asphalt,Clear,2878.7,0.95,72.93,0.421,5.7,0.378
+Surface Crack,Concrete,Rainy,1690.3,3.51,52.62,0.596,2.6,0.577
+Pothole,Asphalt,Clear,4543.5,1.34,51.56,0.419,12.9,0.783
+Surface Crack,Asphalt,Clear,2425.8,3.85,41.5,0.517,1.1,0.434
+Normal Clear,Gravel,Clear,197.8,0.8,16.35,0.09,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,2110.6,3.52,39.96,0.796,0.8,0.324
+Surface Crack,Gravel,Clear,1066.4,4.37,40.81,0.558,1.7,0.414
+Surface Crack,Asphalt,Clear,619.7,2.18,55.89,0.652,3.0,0.591
+Surface Crack,Asphalt,Overcast,1844.5,3.49,46.8,0.671,3.1,0.678
+Normal Clear,Concrete,Overcast,220.0,1.12,9.53,0.065,0.0,0.02
+Normal Clear,Asphalt,Rainy,113.6,1.24,10.38,0.056,0.0,0.02
+Normal Clear,Concrete,Clear,166.0,0.98,13.18,0.137,0.0,0.02
+Normal Clear,Asphalt,Rainy,195.7,1.01,6.37,0.065,0.0,0.02
+Surface Crack,Asphalt,Clear,2226.6,2.51,62.13,0.651,2.6,0.487
+Normal Clear,Asphalt,Clear,157.3,1.16,20.34,0.029,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2238.6,4.97,48.61,0.515,2.5,0.567
+Pothole,Asphalt,Clear,3719.9,1.06,60.76,0.542,4.9,0.357
+Normal Clear,Asphalt,Clear,201.9,0.76,6.82,0.069,0.0,0.02
+Pothole,Gravel,Clear,2339.8,1.38,44.08,0.477,8.1,0.472
+Normal Clear,Asphalt,Clear,211.6,1.02,20.14,0.105,0.0,0.02
+Surface Crack,Concrete,Clear,2209.6,2.92,50.02,0.672,1.0,0.386
+Road Debris,Concrete,Overcast,2654.7,2.17,75.95,0.365,2.0,0.465
+Normal Clear,Asphalt,Clear,74.9,1.02,13.33,0.09,0.0,0.02
+Normal Clear,Asphalt,Clear,135.8,1.05,13.88,0.102,0.0,0.02
+Road Debris,Concrete,Clear,4060.1,1.59,55.64,0.246,4.9,0.522
+Road Debris,Asphalt,Overcast,2604.8,1.79,52.21,0.371,9.4,0.412
+Pothole,Concrete,Rainy,4641.4,0.89,60.66,0.468,10.8,0.563
+Road Debris,Concrete,Clear,2815.8,1.21,64.95,0.317,6.1,0.357
+Pothole,Gravel,Overcast,1823.8,1.12,53.86,0.349,11.6,0.5
+Normal Clear,Asphalt,Clear,198.9,0.98,6.5,0.086,0.0,0.02
+Road Debris,Asphalt,Clear,2135.6,1.22,90.56,0.334,2.9,0.472
+Normal Clear,Asphalt,Clear,134.2,1.19,13.42,0.098,0.0,0.02
+Pothole,Asphalt,Clear,4914.1,0.92,82.54,0.484,14.1,0.818
+Pothole,Concrete,Clear,5351.8,0.72,73.97,0.53,10.0,0.577
+Normal Clear,Asphalt,Night / Low Light,164.8,1.02,13.55,0.169,0.0,0.02
+Pothole,Asphalt,Clear,3141.9,0.95,51.43,0.401,5.2,0.366
+Pothole,Concrete,Rainy,4873.5,1.25,75.33,0.446,14.9,0.752
+Pothole,Asphalt,Clear,5557.2,1.53,71.39,0.407,6.5,0.477
+Normal Clear,Asphalt,Clear,180.6,1.03,11.31,0.096,0.0,0.02
+Normal Clear,Asphalt,Clear,133.3,1.22,16.98,0.064,0.0,0.02
+Surface Crack,Concrete,Overcast,1699.7,3.39,48.0,0.781,1.9,0.411
+Surface Crack,Asphalt,Clear,1567.4,3.44,43.46,0.635,2.2,0.532
+Surface Crack,Concrete,Night / Low Light,1355.4,3.31,55.16,0.616,3.3,0.608
+Normal Clear,Asphalt,Clear,122.4,1.01,17.32,0.076,0.0,0.02
+Normal Clear,Concrete,Clear,145.6,1.36,15.5,0.097,0.0,0.02
+Pothole,Concrete,Clear,6849.8,1.35,44.16,0.487,12.0,0.739
+Pothole,Asphalt,Clear,2558.6,1.01,63.54,0.489,9.3,0.451
+Pothole,Asphalt,Clear,3643.3,1.36,56.41,0.405,5.9,0.459
+Normal Clear,Asphalt,Clear,228.9,0.97,6.08,0.074,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,161.6,0.87,21.4,0.135,0.0,0.02
+Pothole,Asphalt,Clear,2401.4,0.85,73.5,0.334,4.2,0.277
+Pothole,Asphalt,Rainy,6236.4,1.58,52.9,0.447,12.4,0.759
+Pothole,Asphalt,Clear,3799.0,1.8,76.32,0.452,5.1,0.392
+Normal Clear,Asphalt,Rainy,218.0,0.99,8.46,0.031,0.0,0.02
+Surface Crack,Asphalt,Rainy,2107.8,4.07,39.83,0.753,1.6,0.411
+Normal Clear,Asphalt,Clear,147.4,1.08,10.52,0.138,0.0,0.02
+Road Debris,Asphalt,Clear,3423.6,1.68,50.7,0.304,11.1,0.61
+Surface Crack,Concrete,Night / Low Light,2088.1,4.59,40.97,0.68,1.3,0.36
+Pothole,Concrete,Overcast,5134.3,0.74,67.81,0.386,13.4,0.752
+Pothole,Asphalt,Clear,3065.4,1.39,64.72,0.434,10.9,0.521
+Road Debris,Gravel,Clear,2934.2,1.11,50.46,0.236,5.6,0.566
+Normal Clear,Concrete,Overcast,271.3,0.89,14.49,0.138,0.0,0.02
+Road Debris,Gravel,Clear,3210.9,1.38,54.33,0.25,9.8,0.515
+Road Debris,Asphalt,Rainy,2213.2,1.71,65.33,0.229,11.6,0.429
+Pothole,Asphalt,Clear,2914.5,1.5,69.44,0.437,8.0,0.374
+Normal Clear,Asphalt,Clear,125.4,1.0,13.94,0.071,0.0,0.02
+Normal Clear,Concrete,Rainy,187.7,1.25,9.51,0.092,0.0,0.02
+Surface Crack,Asphalt,Rainy,1947.7,3.42,29.75,0.685,1.7,0.491
+Normal Clear,Asphalt,Clear,117.3,1.13,11.77,0.025,0.0,0.02
+Road Debris,Asphalt,Rainy,3515.7,0.4,35.16,0.332,3.8,0.448
+Road Debris,Asphalt,Night / Low Light,3758.7,2.39,55.9,0.316,2.5,0.552
+Normal Clear,Asphalt,Rainy,174.7,0.99,4.5,0.146,0.0,0.02
+Normal Clear,Asphalt,Clear,210.0,0.74,10.62,0.073,0.0,0.02
+Normal Clear,Asphalt,Rainy,203.9,0.57,10.0,0.027,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4157.9,1.06,68.96,0.372,14.5,0.717
+Surface Crack,Gravel,Night / Low Light,1094.9,4.28,43.97,0.708,1.6,0.337
+Normal Clear,Concrete,Rainy,165.5,1.01,11.4,0.01,0.0,0.02
+Pothole,Gravel,Clear,3972.2,1.74,68.15,0.395,17.8,0.794
+Surface Crack,Concrete,Night / Low Light,1858.4,3.78,44.52,0.859,2.1,0.579
+Surface Crack,Asphalt,Night / Low Light,1405.9,5.64,38.67,0.685,1.3,0.405
+Surface Crack,Asphalt,Clear,1824.8,4.02,48.45,0.824,1.8,0.403
+Road Debris,Concrete,Clear,3401.2,1.46,50.97,0.27,2.1,0.43
+Normal Clear,Asphalt,Clear,93.1,1.02,10.45,0.053,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4681.3,1.03,81.88,0.407,8.5,0.514
+Pothole,Asphalt,Clear,7016.6,1.29,58.0,0.485,8.5,0.581
+Pothole,Asphalt,Rainy,2808.1,0.69,50.69,0.208,15.6,0.709
+Normal Clear,Asphalt,Overcast,57.5,0.94,14.08,0.092,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,4118.6,1.16,55.47,0.258,2.4,0.508
+Surface Crack,Asphalt,Overcast,1590.6,4.97,38.09,0.662,0.8,0.473
+Normal Clear,Concrete,Overcast,208.1,1.32,15.18,0.081,0.0,0.02
+Normal Clear,Asphalt,Clear,163.5,1.0,7.9,0.081,0.0,0.02
+Normal Clear,Asphalt,Rainy,83.3,0.98,18.54,0.105,0.0,0.02
+Normal Clear,Asphalt,Clear,103.8,0.99,8.66,0.078,0.0,0.02
+Pothole,Concrete,Overcast,5749.3,1.4,97.81,0.515,16.9,0.854
+Normal Clear,Asphalt,Clear,168.0,1.39,8.82,0.103,0.0,0.02
+Surface Crack,Asphalt,Overcast,2050.8,4.24,52.2,0.622,0.6,0.37
+Normal Clear,Asphalt,Rainy,76.8,1.05,11.33,0.113,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,201.6,1.26,7.53,0.056,0.0,0.02
+Normal Clear,Gravel,Clear,205.7,0.88,5.91,0.096,0.0,0.02
+Normal Clear,Gravel,Clear,122.6,1.36,13.18,0.085,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4056.9,1.68,72.3,0.387,10.4,0.59
+Road Debris,Asphalt,Clear,2159.5,1.44,54.33,0.298,4.8,0.593
+Normal Clear,Concrete,Overcast,180.5,1.07,9.13,0.1,0.0,0.02
+Normal Clear,Asphalt,Clear,105.7,1.0,14.61,0.094,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3690.0,1.56,69.04,0.479,12.7,0.687
+Pothole,Asphalt,Clear,6799.7,1.3,80.4,0.434,6.4,0.582
+Pothole,Gravel,Rainy,4807.6,1.38,66.46,0.359,7.3,0.55
+Normal Clear,Asphalt,Night / Low Light,174.9,0.99,14.03,0.047,0.0,0.02
+Normal Clear,Asphalt,Clear,189.3,1.07,12.34,0.075,0.0,0.02
+Pothole,Concrete,Clear,4777.3,1.12,64.11,0.563,12.5,0.61
+Road Debris,Asphalt,Clear,2906.5,1.41,53.03,0.345,6.3,0.601
+Normal Clear,Asphalt,Rainy,213.0,0.74,4.82,0.043,0.0,0.02
+Normal Clear,Gravel,Rainy,115.0,1.38,10.28,0.105,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,3149.6,2.03,48.74,0.299,9.9,0.478
+Road Debris,Asphalt,Rainy,2094.4,2.4,62.21,0.315,7.7,0.561
+Road Debris,Asphalt,Clear,4043.6,1.46,51.03,0.383,6.4,0.53
+Surface Crack,Asphalt,Clear,1492.9,5.5,56.32,0.643,1.4,0.441
+Road Debris,Asphalt,Clear,1668.5,2.07,56.39,0.402,11.9,0.586
+Normal Clear,Asphalt,Clear,155.9,1.05,7.03,0.082,0.0,0.02
+Normal Clear,Asphalt,Overcast,216.1,0.64,15.31,0.121,0.0,0.02
+Road Debris,Concrete,Overcast,1995.5,2.18,48.1,0.326,3.6,0.481
+Normal Clear,Asphalt,Clear,71.6,1.03,15.16,0.06,0.0,0.02
+Pothole,Asphalt,Rainy,3403.6,1.16,77.41,0.334,9.3,0.624
+Surface Crack,Asphalt,Overcast,2226.3,2.64,37.15,0.745,2.9,0.562
+Pothole,Concrete,Clear,3472.3,1.1,72.59,0.351,10.2,0.46
+Pothole,Asphalt,Clear,3980.1,1.48,71.07,0.489,11.4,0.556
+Normal Clear,Asphalt,Clear,111.1,0.82,20.42,0.079,0.0,0.02
+Normal Clear,Asphalt,Rainy,194.4,0.47,13.5,0.069,0.0,0.02
+Pothole,Asphalt,Overcast,6166.3,1.4,62.96,0.546,12.6,0.836
+Surface Crack,Asphalt,Night / Low Light,1220.8,5.04,48.13,0.585,0.7,0.345
+Normal Clear,Concrete,Clear,141.5,1.43,13.24,0.067,0.0,0.02
+Pothole,Asphalt,Clear,3179.7,1.17,76.94,0.431,15.4,0.731
+Road Debris,Asphalt,Night / Low Light,2380.8,1.53,29.8,0.301,10.4,0.484
+Normal Clear,Asphalt,Overcast,109.3,0.7,7.05,0.05,0.0,0.02
+Road Debris,Concrete,Rainy,1900.8,1.68,44.29,0.301,5.0,0.584
+Pothole,Asphalt,Rainy,4881.9,1.1,67.27,0.435,8.1,0.592
+Surface Crack,Asphalt,Clear,2103.0,6.16,39.1,0.801,2.2,0.485
+Normal Clear,Asphalt,Overcast,245.9,0.97,8.12,0.072,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,5287.0,0.87,50.29,0.215,3.5,0.31
+Pothole,Asphalt,Clear,4925.3,0.74,67.28,0.309,4.7,0.454
+Normal Clear,Asphalt,Night / Low Light,141.8,1.04,11.85,0.103,0.0,0.02
+Pothole,Asphalt,Clear,5979.6,0.96,64.29,0.492,9.7,0.673
+Normal Clear,Asphalt,Clear,143.8,0.79,15.27,0.063,0.0,0.02
+Pothole,Asphalt,Clear,3711.1,0.94,58.89,0.356,9.4,0.542
+Normal Clear,Asphalt,Clear,77.2,1.17,9.92,0.086,0.0,0.02
+Surface Crack,Asphalt,Clear,895.2,2.98,51.05,0.909,1.9,0.454
+Surface Crack,Concrete,Clear,1551.8,4.4,47.78,0.739,3.3,0.681
+Pothole,Gravel,Rainy,5519.4,0.94,69.85,0.378,8.9,0.609
+Surface Crack,Gravel,Rainy,2026.8,4.26,27.14,0.629,1.6,0.41
+Normal Clear,Concrete,Clear,169.1,0.8,9.82,0.095,0.0,0.02
+Normal Clear,Asphalt,Clear,121.0,1.16,12.86,0.093,0.0,0.02
+Surface Crack,Concrete,Rainy,2544.6,4.15,57.31,0.741,0.8,0.339
+Surface Crack,Asphalt,Clear,1648.9,4.45,48.53,0.534,0.5,0.369
+Normal Clear,Asphalt,Clear,172.8,1.36,16.35,0.096,0.0,0.02
+Normal Clear,Asphalt,Overcast,98.7,0.96,12.29,0.101,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,3073.6,1.57,56.2,0.343,5.0,0.635
+Surface Crack,Concrete,Overcast,561.6,4.83,43.38,0.782,3.0,0.598
+Surface Crack,Asphalt,Rainy,2132.6,4.69,42.37,0.753,0.8,0.384
+Normal Clear,Asphalt,Clear,211.5,1.1,9.37,0.052,0.0,0.02
+Pothole,Gravel,Night / Low Light,5285.7,1.06,77.04,0.416,14.2,0.853
+Road Debris,Asphalt,Clear,1114.3,1.02,55.44,0.308,6.3,0.41
+Surface Crack,Asphalt,Clear,1983.8,4.18,45.08,0.728,1.8,0.434
+Normal Clear,Gravel,Clear,93.2,1.12,13.57,0.079,0.0,0.02
+Pothole,Asphalt,Overcast,5123.3,0.85,87.88,0.574,12.6,0.691
+Road Debris,Asphalt,Clear,2501.5,1.37,42.87,0.282,5.9,0.591
+Surface Crack,Asphalt,Overcast,3036.5,3.22,43.51,0.539,1.3,0.415
+Road Debris,Asphalt,Overcast,2732.2,1.59,59.0,0.291,3.3,0.406
+Pothole,Concrete,Rainy,6182.7,1.33,69.57,0.437,13.4,0.905
+Road Debris,Asphalt,Night / Low Light,1821.2,1.28,55.53,0.299,10.7,0.583
+Road Debris,Asphalt,Rainy,2761.6,1.63,32.28,0.205,3.8,0.555
+Road Debris,Asphalt,Overcast,1540.0,0.2,69.47,0.299,6.1,0.374
+Road Debris,Asphalt,Clear,2556.9,1.6,39.36,0.313,5.0,0.574
+Normal Clear,Gravel,Night / Low Light,87.6,0.84,12.4,0.124,0.0,0.02
+Normal Clear,Asphalt,Rainy,156.6,1.12,12.41,0.107,0.0,0.02
+Pothole,Asphalt,Overcast,6825.1,1.07,68.17,0.434,5.3,0.524
+Normal Clear,Asphalt,Rainy,227.4,1.3,4.2,0.08,0.0,0.02
+Surface Crack,Concrete,Rainy,2690.7,6.98,50.63,0.613,2.3,0.456
+Pothole,Gravel,Night / Low Light,4196.8,1.33,71.07,0.368,13.7,0.688
+Pothole,Asphalt,Overcast,3763.0,0.7,80.48,0.393,14.8,0.658
+Surface Crack,Asphalt,Rainy,2175.9,4.0,49.13,0.657,3.0,0.618
+Normal Clear,Asphalt,Clear,122.8,1.21,16.92,0.04,0.0,0.02
+Normal Clear,Concrete,Rainy,226.6,1.07,13.13,0.11,0.0,0.02
+Normal Clear,Asphalt,Overcast,121.7,1.19,10.49,0.036,0.0,0.02
+Road Debris,Concrete,Night / Low Light,1602.0,1.73,45.55,0.397,10.0,0.508
+Surface Crack,Asphalt,Overcast,1663.1,4.36,46.37,0.741,3.2,0.654
+Pothole,Concrete,Clear,3067.5,1.5,72.56,0.465,9.9,0.553
+Surface Crack,Asphalt,Rainy,2042.6,2.92,30.69,0.621,3.1,0.592
+Surface Crack,Asphalt,Rainy,2585.4,2.14,53.98,0.716,1.0,0.38
+Pothole,Asphalt,Overcast,2290.7,1.18,83.13,0.393,15.0,0.723
+Pothole,Asphalt,Clear,5348.5,0.98,56.41,0.411,7.8,0.607
+Road Debris,Gravel,Overcast,1980.8,1.59,49.3,0.355,9.6,0.63
+Normal Clear,Concrete,Rainy,166.6,0.75,12.6,0.098,0.0,0.02
+Normal Clear,Concrete,Clear,222.9,1.14,16.96,0.049,0.0,0.02
+Normal Clear,Asphalt,Clear,133.7,1.09,16.64,0.076,0.0,0.02
+Road Debris,Asphalt,Clear,2425.8,1.77,43.74,0.396,5.5,0.659
+Surface Crack,Concrete,Rainy,1531.3,5.3,45.05,0.553,1.9,0.587
+Road Debris,Asphalt,Clear,2676.6,2.03,58.44,0.337,7.5,0.348
+Normal Clear,Asphalt,Clear,132.1,1.01,13.34,0.043,0.0,0.02
+Pothole,Asphalt,Overcast,5600.3,0.85,53.0,0.4,11.2,0.772
+Surface Crack,Asphalt,Clear,2653.6,4.34,45.95,0.632,2.2,0.458
+Normal Clear,Asphalt,Clear,209.7,0.71,10.08,0.08,0.0,0.02
+Surface Crack,Asphalt,Rainy,2046.7,3.8,46.4,0.654,0.6,0.286
+Road Debris,Asphalt,Rainy,3153.3,2.1,64.09,0.257,7.8,0.502
+Road Debris,Gravel,Night / Low Light,1194.6,1.88,62.4,0.3,4.4,0.494
+Pothole,Asphalt,Clear,3043.5,1.46,74.3,0.406,7.4,0.529
+Surface Crack,Asphalt,Night / Low Light,1843.8,5.13,36.23,0.632,1.7,0.497
+Surface Crack,Asphalt,Rainy,1446.8,4.24,39.18,0.615,1.9,0.415
+Pothole,Concrete,Clear,4810.4,1.4,54.33,0.366,10.6,0.614
+Pothole,Asphalt,Clear,5902.5,1.22,63.82,0.435,6.9,0.487
+Normal Clear,Asphalt,Clear,132.5,1.07,11.88,0.131,0.0,0.02
+Pothole,Asphalt,Clear,4623.2,1.46,73.4,0.476,16.3,0.795
+Road Debris,Asphalt,Night / Low Light,2068.5,1.09,60.02,0.198,6.0,0.278
+Surface Crack,Asphalt,Rainy,1707.8,4.84,35.49,0.692,1.0,0.412
+Normal Clear,Concrete,Clear,122.3,1.15,15.55,0.075,0.0,0.02
+Pothole,Concrete,Clear,2838.7,1.14,66.83,0.321,14.7,0.71
+Surface Crack,Asphalt,Clear,2121.4,3.62,50.45,0.749,3.5,0.694
+Normal Clear,Asphalt,Rainy,120.8,1.27,3.82,0.106,0.0,0.02
+Normal Clear,Gravel,Clear,119.0,0.85,13.05,0.035,0.0,0.02
+Pothole,Asphalt,Rainy,3520.8,0.95,65.34,0.356,12.2,0.69
+Normal Clear,Concrete,Clear,264.7,1.25,8.04,0.065,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2420.0,3.53,40.95,0.64,1.0,0.341
+Surface Crack,Gravel,Overcast,898.3,3.58,35.01,0.671,0.5,0.369
+Pothole,Concrete,Clear,5486.8,1.29,59.6,0.375,9.9,0.737
+Pothole,Gravel,Rainy,4136.3,1.34,48.2,0.341,14.8,0.805
+Normal Clear,Concrete,Overcast,191.4,1.27,15.04,0.074,0.0,0.02
+Surface Crack,Asphalt,Clear,1809.5,3.83,42.85,0.488,1.7,0.362
+Surface Crack,Gravel,Rainy,1663.9,4.54,21.04,0.647,2.8,0.528
+Normal Clear,Asphalt,Clear,210.7,0.94,10.06,0.068,0.0,0.02
+Normal Clear,Asphalt,Rainy,114.1,1.15,6.65,0.083,0.0,0.02
+Pothole,Concrete,Clear,4799.7,1.02,87.05,0.492,16.7,0.831
+Road Debris,Concrete,Overcast,2291.8,1.49,48.3,0.355,2.1,0.508
+Pothole,Gravel,Night / Low Light,6181.9,1.37,71.03,0.44,8.1,0.736
+Normal Clear,Asphalt,Night / Low Light,199.0,0.87,7.09,0.074,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,147.0,0.82,20.38,0.066,0.0,0.02
+Normal Clear,Concrete,Rainy,92.3,0.98,15.63,0.081,0.0,0.02
+Pothole,Asphalt,Clear,5082.7,0.94,85.85,0.465,6.1,0.463
+Pothole,Asphalt,Overcast,5186.7,1.06,75.54,0.487,9.6,0.63
+Surface Crack,Asphalt,Overcast,2735.8,2.54,47.0,0.607,0.6,0.391
+Pothole,Asphalt,Rainy,3235.1,1.3,79.35,0.473,6.7,0.377
+Pothole,Gravel,Overcast,6175.8,0.58,77.57,0.297,9.0,0.648
+Normal Clear,Asphalt,Rainy,209.7,0.89,10.32,0.056,0.0,0.02
+Pothole,Concrete,Rainy,7040.6,1.05,56.54,0.368,11.7,0.739
+Pothole,Gravel,Rainy,5011.8,1.65,66.22,0.43,10.1,0.687
+Normal Clear,Asphalt,Clear,199.5,1.22,15.7,0.059,0.0,0.02
+Surface Crack,Concrete,Clear,1959.0,5.0,52.55,0.666,3.1,0.709
+Normal Clear,Asphalt,Clear,114.2,1.04,15.77,0.111,0.0,0.02
+Pothole,Concrete,Rainy,3984.4,1.29,52.29,0.499,14.6,0.779
+Surface Crack,Asphalt,Clear,1141.8,2.87,47.34,0.708,3.4,0.652
+Pothole,Gravel,Clear,5329.6,1.02,76.99,0.398,15.0,0.805
+Pothole,Asphalt,Overcast,3632.7,1.54,60.29,0.556,12.4,0.598
+Normal Clear,Asphalt,Clear,232.7,0.89,11.25,0.068,0.0,0.02
+Pothole,Concrete,Rainy,3694.2,0.65,67.82,0.317,13.3,0.78
+Road Debris,Asphalt,Clear,2469.9,1.56,60.96,0.283,6.1,0.523
+Surface Crack,Asphalt,Clear,2307.6,1.88,52.77,0.51,1.6,0.478
+Surface Crack,Asphalt,Night / Low Light,2375.6,3.09,36.01,0.615,2.1,0.564
+Normal Clear,Concrete,Rainy,84.0,1.26,11.11,0.024,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3661.4,0.92,66.01,0.39,8.5,0.492
+Normal Clear,Asphalt,Clear,174.2,0.76,13.89,0.108,0.0,0.02
+Normal Clear,Asphalt,Rainy,33.5,1.32,14.81,0.109,0.0,0.02
+Road Debris,Asphalt,Clear,1581.2,1.81,64.02,0.261,2.6,0.578
+Normal Clear,Asphalt,Clear,210.5,0.93,13.48,0.056,0.0,0.02
+Pothole,Asphalt,Clear,3708.8,1.13,58.35,0.484,11.3,0.57
+Surface Crack,Asphalt,Clear,1293.5,5.7,45.94,0.622,3.3,0.6
+Pothole,Asphalt,Clear,5312.3,1.17,68.16,0.44,8.0,0.515
+Normal Clear,Asphalt,Clear,171.5,1.16,9.22,0.039,0.0,0.02
+Normal Clear,Concrete,Overcast,134.8,1.26,15.34,0.069,0.0,0.02
+Pothole,Asphalt,Clear,3738.2,1.03,52.43,0.483,13.3,0.725
+Normal Clear,Asphalt,Clear,113.3,0.82,10.9,0.047,0.0,0.02
+Pothole,Concrete,Clear,4645.2,1.14,72.33,0.532,5.3,0.436
+Road Debris,Asphalt,Rainy,1654.2,1.56,67.14,0.285,7.1,0.298
+Surface Crack,Concrete,Clear,2213.6,3.62,38.2,0.73,2.3,0.485
+Normal Clear,Asphalt,Overcast,171.2,1.15,10.97,0.037,0.0,0.02
+Road Debris,Asphalt,Overcast,2806.0,1.52,44.42,0.181,8.3,0.557
+Surface Crack,Asphalt,Clear,1375.7,3.88,36.99,0.81,1.7,0.47
+Pothole,Concrete,Rainy,6412.9,1.21,89.4,0.536,12.5,0.787
+Pothole,Concrete,Clear,6033.2,1.35,66.31,0.461,12.1,0.716
+Pothole,Asphalt,Rainy,3667.6,1.55,64.31,0.56,4.3,0.328
+Pothole,Asphalt,Clear,5611.0,1.18,88.96,0.374,10.4,0.743
+Normal Clear,Gravel,Clear,126.5,1.17,8.69,0.07,0.0,0.02
+Road Debris,Asphalt,Clear,1521.2,1.91,59.85,0.341,5.6,0.589
+Road Debris,Asphalt,Night / Low Light,2241.1,1.35,76.12,0.331,9.1,0.624
+Pothole,Gravel,Clear,5290.9,0.87,62.25,0.364,8.5,0.544
+Normal Clear,Concrete,Clear,191.1,1.05,10.04,0.1,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,136.2,0.93,12.19,0.094,0.0,0.02
+Pothole,Concrete,Rainy,4967.8,1.09,78.17,0.402,7.6,0.516
+Normal Clear,Concrete,Overcast,25.9,0.71,13.53,0.09,0.0,0.02
+Road Debris,Asphalt,Clear,2438.2,2.03,60.1,0.394,6.3,0.254
+Pothole,Asphalt,Night / Low Light,5449.4,1.34,27.97,0.523,8.8,0.625
+Surface Crack,Asphalt,Night / Low Light,1429.8,4.81,50.41,0.667,3.2,0.649
+Surface Crack,Gravel,Clear,2049.6,2.6,38.99,0.74,2.7,0.601
+Pothole,Concrete,Night / Low Light,5087.2,1.54,54.1,0.506,10.5,0.582
+Normal Clear,Asphalt,Clear,73.9,1.35,10.55,0.069,0.0,0.02
+Normal Clear,Concrete,Overcast,159.7,0.86,11.71,0.058,0.0,0.02
+Normal Clear,Asphalt,Clear,114.9,1.1,8.39,0.057,0.0,0.02
+Surface Crack,Asphalt,Rainy,976.3,3.25,55.49,0.565,2.3,0.544
+Surface Crack,Asphalt,Clear,1395.7,4.62,44.69,0.751,2.7,0.522
+Normal Clear,Asphalt,Overcast,161.7,0.97,20.1,0.077,0.0,0.02
+Road Debris,Concrete,Clear,2102.5,1.24,37.73,0.349,7.0,0.647
+Pothole,Asphalt,Overcast,2918.9,1.14,67.94,0.343,8.8,0.559
+Road Debris,Concrete,Overcast,2377.5,1.42,49.5,0.295,3.4,0.516
+Normal Clear,Asphalt,Clear,112.1,1.0,6.53,0.115,0.0,0.02
+Surface Crack,Asphalt,Overcast,1496.4,3.3,29.43,0.599,2.9,0.672
+Pothole,Gravel,Overcast,3340.6,1.72,74.25,0.42,13.3,0.704
+Normal Clear,Asphalt,Clear,148.2,0.85,11.6,0.07,0.0,0.02
+Pothole,Asphalt,Clear,5128.4,1.17,56.12,0.465,5.7,0.403
+Pothole,Asphalt,Rainy,3638.2,1.02,80.64,0.432,11.2,0.595
+Pothole,Concrete,Clear,3699.1,1.09,71.55,0.465,11.6,0.684
+Surface Crack,Asphalt,Clear,1325.1,2.5,46.4,0.738,0.9,0.419
+Normal Clear,Asphalt,Clear,147.6,1.21,11.05,0.094,0.0,0.02
+Road Debris,Asphalt,Clear,1076.4,2.4,52.72,0.271,4.8,0.473
+Pothole,Asphalt,Clear,3536.0,1.75,94.06,0.392,4.8,0.31
+Normal Clear,Concrete,Clear,164.6,0.97,11.43,0.086,0.0,0.02
+Normal Clear,Asphalt,Overcast,174.3,1.14,19.93,0.106,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,76.0,0.78,10.9,0.057,0.0,0.02
+Pothole,Asphalt,Clear,4968.6,1.35,62.2,0.515,9.9,0.669
+Surface Crack,Asphalt,Night / Low Light,2763.4,2.84,45.58,0.821,3.4,0.636
+Normal Clear,Gravel,Night / Low Light,176.8,1.04,17.23,0.06,0.0,0.02
+Normal Clear,Asphalt,Overcast,150.9,1.18,12.66,0.1,0.0,0.02
+Pothole,Gravel,Clear,5290.3,1.07,55.75,0.36,12.1,0.644
+Pothole,Asphalt,Clear,5583.8,0.6,47.22,0.38,5.3,0.371
+Surface Crack,Asphalt,Overcast,2030.7,3.51,45.49,0.571,2.1,0.536
+Normal Clear,Concrete,Overcast,154.1,0.97,8.78,0.085,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,2642.7,1.97,38.94,0.295,9.7,0.59
+Surface Crack,Concrete,Night / Low Light,1237.8,4.3,49.33,0.583,1.7,0.397
+Pothole,Gravel,Clear,2969.0,1.19,76.1,0.182,11.4,0.576
+Normal Clear,Asphalt,Rainy,216.6,1.14,7.35,0.061,0.0,0.02
+Normal Clear,Asphalt,Clear,201.5,0.81,13.58,0.1,0.0,0.02
+Surface Crack,Concrete,Clear,1643.6,3.97,51.65,0.728,3.4,0.66
+Normal Clear,Asphalt,Overcast,292.4,0.91,9.1,0.076,0.0,0.02
+Normal Clear,Asphalt,Clear,218.9,0.93,12.5,0.083,0.0,0.02
+Pothole,Asphalt,Rainy,4547.4,1.0,66.35,0.406,16.6,0.922
+Road Debris,Asphalt,Overcast,2481.9,1.45,48.2,0.251,5.3,0.539
+Surface Crack,Concrete,Clear,1912.3,3.21,46.92,0.76,2.1,0.567
+Normal Clear,Asphalt,Overcast,131.9,1.24,7.78,0.063,0.0,0.02
+Road Debris,Asphalt,Overcast,3136.2,1.77,61.02,0.265,2.7,0.442
+Road Debris,Asphalt,Rainy,1809.0,2.08,51.76,0.33,6.5,0.588
+Normal Clear,Asphalt,Clear,166.1,0.54,13.78,0.068,0.0,0.02
+Surface Crack,Asphalt,Clear,2265.6,3.68,38.57,0.823,3.3,0.707
+Normal Clear,Concrete,Clear,99.8,0.81,4.01,0.055,0.0,0.02
+Road Debris,Asphalt,Clear,3214.6,2.03,61.86,0.333,11.2,0.529
+Pothole,Concrete,Clear,4450.9,1.41,56.84,0.527,10.7,0.613
+Normal Clear,Concrete,Overcast,193.7,1.15,3.95,0.108,0.0,0.02
+Normal Clear,Asphalt,Clear,143.6,0.91,6.07,0.08,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1820.1,2.37,33.21,0.699,2.3,0.523
+Normal Clear,Asphalt,Clear,196.8,1.5,9.26,0.026,0.0,0.02
+Normal Clear,Asphalt,Rainy,111.2,0.85,8.95,0.107,0.0,0.02
+Pothole,Concrete,Overcast,4911.3,0.86,84.99,0.571,17.5,0.808
+Normal Clear,Concrete,Clear,148.2,1.07,10.13,0.105,0.0,0.02
+Pothole,Asphalt,Clear,3209.0,1.08,75.33,0.329,11.2,0.546
+Pothole,Asphalt,Night / Low Light,2812.1,1.1,80.5,0.4,13.4,0.672
+Pothole,Gravel,Night / Low Light,4387.3,1.32,53.95,0.503,7.7,0.506
+Normal Clear,Gravel,Night / Low Light,152.7,1.14,11.7,0.074,0.0,0.02
+Normal Clear,Asphalt,Clear,166.5,1.34,7.35,0.052,0.0,0.02
+Pothole,Asphalt,Clear,4549.3,1.81,55.14,0.419,17.0,0.813
+Surface Crack,Asphalt,Overcast,1621.4,4.6,60.13,0.68,1.5,0.452
+Road Debris,Gravel,Overcast,1829.2,1.48,54.37,0.334,4.9,0.292
+Pothole,Asphalt,Rainy,5285.6,1.08,67.82,0.326,17.3,0.973
+Normal Clear,Asphalt,Overcast,191.5,0.93,11.8,0.119,0.0,0.02
+Normal Clear,Asphalt,Rainy,221.7,0.98,8.06,0.017,0.0,0.02
+Road Debris,Asphalt,Clear,609.0,1.69,59.52,0.259,2.7,0.63
+Normal Clear,Asphalt,Clear,216.7,0.78,20.51,0.058,0.0,0.02
+Surface Crack,Gravel,Clear,1092.3,3.95,62.67,0.459,3.4,0.641
+Normal Clear,Asphalt,Rainy,148.4,0.68,13.05,0.069,0.0,0.02
+Normal Clear,Asphalt,Clear,134.5,0.92,11.84,0.088,0.0,0.02
+Road Debris,Asphalt,Clear,2473.6,1.96,62.56,0.296,4.9,0.396
+Pothole,Asphalt,Night / Low Light,7280.8,0.87,83.43,0.424,7.2,0.656
+Normal Clear,Asphalt,Night / Low Light,123.9,0.51,14.78,0.082,0.0,0.02
+Surface Crack,Asphalt,Rainy,1986.8,3.86,54.28,0.64,2.8,0.693
+Pothole,Asphalt,Overcast,1210.2,1.32,65.62,0.274,16.2,0.626
+Pothole,Asphalt,Clear,3678.9,0.99,67.53,0.353,6.8,0.493
+Road Debris,Asphalt,Rainy,2898.5,1.52,54.18,0.416,9.8,0.551
+Road Debris,Asphalt,Night / Low Light,2776.1,1.67,51.56,0.32,4.8,0.485
+Normal Clear,Gravel,Rainy,158.0,1.0,23.75,0.06,0.0,0.02
+Normal Clear,Gravel,Clear,116.2,1.14,9.62,0.071,0.0,0.02
+Pothole,Asphalt,Clear,3196.3,1.35,74.05,0.395,8.6,0.371
+Normal Clear,Asphalt,Overcast,214.7,0.96,9.46,0.107,0.0,0.02
+Pothole,Gravel,Rainy,4252.5,0.89,49.74,0.476,15.2,0.81
+Normal Clear,Asphalt,Overcast,210.9,0.93,4.81,0.082,0.0,0.02
+Normal Clear,Concrete,Rainy,99.3,0.86,10.8,0.07,0.0,0.02
+Road Debris,Gravel,Night / Low Light,2627.4,1.78,51.32,0.324,11.0,0.424
+Normal Clear,Asphalt,Overcast,150.6,0.91,8.78,0.078,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1685.5,2.96,38.79,0.731,1.7,0.487
+Surface Crack,Gravel,Clear,1588.4,4.71,40.27,0.545,2.3,0.605
+Normal Clear,Asphalt,Rainy,94.5,1.16,7.92,0.062,0.0,0.02
+Surface Crack,Asphalt,Overcast,565.5,5.84,49.6,0.713,2.7,0.542
+Surface Crack,Asphalt,Clear,1455.7,5.99,45.94,0.528,1.0,0.304
+Surface Crack,Asphalt,Clear,911.7,2.85,49.92,0.597,1.8,0.532
+Normal Clear,Concrete,Clear,179.9,1.26,8.34,0.034,0.0,0.02
+Surface Crack,Concrete,Overcast,2282.0,1.99,54.76,0.56,2.2,0.502
+Pothole,Gravel,Clear,3511.2,1.04,52.01,0.534,14.6,0.886
+Normal Clear,Asphalt,Rainy,85.4,0.8,15.97,0.098,0.0,0.02
+Normal Clear,Asphalt,Clear,219.3,0.86,13.19,0.093,0.0,0.02
+Pothole,Asphalt,Clear,5334.3,1.54,59.39,0.411,10.5,0.633
+Pothole,Asphalt,Night / Low Light,4363.4,0.69,77.3,0.496,9.9,0.599
+Pothole,Asphalt,Clear,4893.6,1.3,53.83,0.336,8.3,0.554
+Surface Crack,Gravel,Rainy,2052.5,4.82,31.32,0.64,3.5,0.593
+Surface Crack,Concrete,Night / Low Light,1488.9,3.16,36.37,0.698,2.9,0.55
+Normal Clear,Asphalt,Overcast,129.4,0.83,11.36,0.057,0.0,0.02
+Normal Clear,Asphalt,Clear,80.9,1.08,13.83,0.131,0.0,0.02
+Road Debris,Asphalt,Overcast,2110.1,0.74,63.15,0.356,8.2,0.614
+Surface Crack,Asphalt,Night / Low Light,2719.7,4.89,52.74,0.62,1.0,0.382
+Normal Clear,Concrete,Overcast,189.9,1.05,8.11,0.115,0.0,0.02
+Surface Crack,Asphalt,Rainy,1526.3,5.84,38.89,0.55,1.7,0.433
+Normal Clear,Gravel,Rainy,231.4,1.22,12.85,0.081,0.0,0.02
+Road Debris,Asphalt,Overcast,2895.6,1.58,47.08,0.275,7.3,0.765
+Pothole,Asphalt,Overcast,5303.8,0.83,58.31,0.434,11.7,0.619
+Normal Clear,Concrete,Clear,187.3,0.81,15.57,0.073,0.0,0.02
+Surface Crack,Asphalt,Clear,508.2,4.12,38.26,0.569,0.8,0.377
+Normal Clear,Asphalt,Clear,148.8,1.13,4.95,0.032,0.0,0.02
+Pothole,Asphalt,Clear,3701.8,1.46,60.18,0.417,4.5,0.342
+Pothole,Asphalt,Clear,6250.8,1.28,74.8,0.442,16.4,0.899
+Normal Clear,Concrete,Clear,223.7,1.01,4.18,0.154,0.0,0.02
+Pothole,Asphalt,Overcast,4555.4,1.36,55.18,0.596,7.4,0.442
+Normal Clear,Concrete,Clear,79.6,0.94,11.86,0.112,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3207.4,1.4,68.23,0.442,8.0,0.387
+Road Debris,Asphalt,Clear,3300.3,1.28,64.28,0.301,10.4,0.507
+Normal Clear,Concrete,Clear,139.5,0.88,15.29,0.118,0.0,0.02
+Road Debris,Asphalt,Clear,2020.4,1.05,61.94,0.213,5.4,0.4
+Surface Crack,Asphalt,Clear,1407.4,2.38,41.92,0.636,1.6,0.505
+Pothole,Asphalt,Night / Low Light,5271.0,0.82,63.92,0.576,4.8,0.51
+Pothole,Asphalt,Overcast,3067.2,0.62,61.57,0.413,15.5,0.692
+Surface Crack,Asphalt,Clear,1828.7,3.49,42.8,0.687,1.0,0.368
+Normal Clear,Asphalt,Rainy,191.5,0.91,7.23,0.109,0.0,0.02
+Normal Clear,Asphalt,Rainy,136.2,0.73,18.85,0.098,0.0,0.02
+Normal Clear,Asphalt,Overcast,152.3,0.96,10.88,0.071,0.0,0.02
+Normal Clear,Gravel,Night / Low Light,136.3,0.88,11.59,0.062,0.0,0.02
+Normal Clear,Asphalt,Rainy,161.2,1.0,9.2,0.077,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,177.1,0.55,14.31,0.043,0.0,0.02
+Pothole,Asphalt,Overcast,3949.3,0.35,74.79,0.361,8.4,0.469
+Normal Clear,Asphalt,Clear,114.8,1.0,9.12,0.082,0.0,0.02
+Normal Clear,Concrete,Clear,131.0,1.03,15.51,0.105,0.0,0.02
+Road Debris,Asphalt,Overcast,3659.4,1.84,57.39,0.274,3.4,0.546
+Pothole,Concrete,Night / Low Light,4299.8,1.36,68.04,0.416,4.9,0.33
+Surface Crack,Asphalt,Rainy,1393.6,4.03,40.6,0.576,2.7,0.588
+Surface Crack,Asphalt,Rainy,1643.6,4.09,44.53,0.568,2.7,0.62
+Normal Clear,Asphalt,Clear,140.7,0.72,10.61,0.03,0.0,0.02
+Road Debris,Asphalt,Rainy,3171.7,1.81,62.84,0.302,4.6,0.56
+Surface Crack,Concrete,Night / Low Light,972.2,3.27,46.04,0.49,2.7,0.643
+Normal Clear,Asphalt,Clear,161.4,1.27,8.65,0.105,0.0,0.02
+Pothole,Gravel,Night / Low Light,5124.7,1.19,56.08,0.362,7.0,0.521
+Surface Crack,Gravel,Overcast,1848.5,2.08,51.92,0.783,2.3,0.603
+Pothole,Asphalt,Clear,4992.2,0.89,64.06,0.416,11.6,0.636
+Normal Clear,Asphalt,Rainy,166.7,1.1,5.41,0.122,0.0,0.02
+Normal Clear,Concrete,Clear,173.5,1.28,18.84,0.077,0.0,0.02
+Surface Crack,Gravel,Night / Low Light,2314.1,3.17,41.26,0.807,0.6,0.326
+Normal Clear,Asphalt,Clear,75.7,1.1,13.3,0.045,0.0,0.02
+Surface Crack,Asphalt,Rainy,1352.5,5.08,37.98,0.667,3.3,0.632
+Normal Clear,Asphalt,Overcast,130.9,1.1,21.63,0.01,0.0,0.02
+Normal Clear,Concrete,Clear,170.0,1.44,9.96,0.084,0.0,0.02
+Normal Clear,Asphalt,Overcast,183.8,0.57,13.06,0.056,0.0,0.02
+Pothole,Concrete,Overcast,6957.3,1.14,59.48,0.488,13.1,0.831
+Normal Clear,Asphalt,Clear,236.1,1.12,8.59,0.076,0.0,0.02
+Normal Clear,Asphalt,Clear,146.2,1.1,13.55,0.142,0.0,0.02
+Surface Crack,Asphalt,Overcast,1523.1,4.22,63.84,0.591,0.8,0.344
+Normal Clear,Asphalt,Overcast,155.4,1.43,19.29,0.091,0.0,0.02
+Surface Crack,Asphalt,Clear,2177.9,4.32,42.57,0.842,1.0,0.467
+Normal Clear,Asphalt,Clear,188.7,0.92,6.96,0.079,0.0,0.02
+Pothole,Asphalt,Clear,5973.7,1.54,62.86,0.317,6.3,0.481
+Normal Clear,Asphalt,Overcast,88.1,1.06,11.5,0.061,0.0,0.02
+Road Debris,Asphalt,Clear,4376.7,0.53,46.37,0.265,7.3,0.364
+Pothole,Gravel,Rainy,6411.4,1.25,84.32,0.349,12.1,0.74
+Pothole,Asphalt,Overcast,5017.9,1.62,83.0,0.432,8.6,0.503
+Pothole,Asphalt,Clear,6845.6,0.83,66.9,0.49,17.8,0.93
+Surface Crack,Asphalt,Rainy,1987.6,4.47,38.05,0.647,0.9,0.362
+Surface Crack,Gravel,Clear,2741.1,3.34,35.1,0.635,1.3,0.395
+Road Debris,Asphalt,Overcast,2328.8,2.22,69.06,0.291,6.1,0.436
+Surface Crack,Concrete,Clear,2202.5,1.68,37.19,0.47,2.9,0.608
+Surface Crack,Concrete,Night / Low Light,1146.6,1.67,45.45,0.688,1.9,0.578
+Normal Clear,Asphalt,Night / Low Light,203.1,1.12,12.3,0.088,0.0,0.02
+Pothole,Asphalt,Clear,2721.5,1.25,68.85,0.348,14.5,0.766
+Normal Clear,Concrete,Clear,105.1,0.43,10.15,0.055,0.0,0.02
+Normal Clear,Asphalt,Clear,75.3,1.26,6.65,0.097,0.0,0.02
+Normal Clear,Asphalt,Clear,250.7,0.77,11.08,0.121,0.0,0.02
+Road Debris,Concrete,Overcast,2126.1,1.63,61.39,0.31,4.4,0.455
+Normal Clear,Asphalt,Overcast,100.2,0.88,14.6,0.116,0.0,0.02
+Pothole,Concrete,Rainy,6402.9,1.52,64.11,0.297,12.9,0.835
+Pothole,Asphalt,Rainy,5174.3,1.49,58.92,0.572,10.4,0.592
+Pothole,Concrete,Rainy,5443.3,1.74,62.43,0.452,6.6,0.518
+Normal Clear,Asphalt,Overcast,75.3,1.24,12.48,0.103,0.0,0.02
+Pothole,Asphalt,Clear,5132.8,1.37,53.62,0.513,9.3,0.596
+Road Debris,Asphalt,Clear,2657.9,1.64,40.43,0.325,2.2,0.396
+Normal Clear,Gravel,Clear,187.5,0.98,16.57,0.129,0.0,0.02
+Normal Clear,Asphalt,Rainy,159.8,1.12,16.86,0.11,0.0,0.02
+Road Debris,Asphalt,Clear,3631.1,1.38,49.83,0.232,11.0,0.48
+Pothole,Asphalt,Clear,5360.6,1.03,50.03,0.377,14.6,0.845
+Normal Clear,Asphalt,Clear,119.4,1.29,12.66,0.082,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,889.3,1.76,55.95,0.31,10.0,0.491
+Pothole,Asphalt,Clear,5534.0,1.41,50.94,0.467,6.7,0.516
+Pothole,Asphalt,Clear,5294.1,1.36,52.55,0.324,11.4,0.663
+Normal Clear,Asphalt,Clear,124.3,0.94,21.65,0.053,0.0,0.02
+Normal Clear,Asphalt,Clear,144.2,0.89,14.0,0.064,0.0,0.02
+Normal Clear,Asphalt,Rainy,93.0,0.96,10.8,0.062,0.0,0.02
+Normal Clear,Concrete,Clear,123.1,1.24,10.72,0.046,0.0,0.02
+Road Debris,Asphalt,Clear,2084.1,1.52,41.64,0.398,2.1,0.62
+Road Debris,Asphalt,Rainy,3383.0,0.91,66.97,0.16,9.0,0.561
+Surface Crack,Asphalt,Clear,1330.7,3.97,56.03,0.755,1.6,0.546
+Surface Crack,Gravel,Clear,1530.9,3.82,55.91,0.727,1.2,0.41
+Surface Crack,Gravel,Overcast,1347.4,2.34,48.71,0.614,1.3,0.431
+Normal Clear,Concrete,Clear,169.5,0.94,10.54,0.058,0.0,0.02
+Road Debris,Asphalt,Clear,3138.1,1.53,57.93,0.239,10.9,0.57
+Normal Clear,Asphalt,Clear,192.6,1.08,12.95,0.111,0.0,0.02
+Surface Crack,Asphalt,Rainy,2655.9,2.42,36.6,0.572,2.0,0.492
+Road Debris,Asphalt,Rainy,1149.8,1.94,49.84,0.238,2.4,0.566
+Road Debris,Asphalt,Rainy,3538.8,1.45,75.6,0.273,2.2,0.46
+Road Debris,Concrete,Night / Low Light,1081.7,1.06,59.35,0.261,10.2,0.628
+Normal Clear,Concrete,Clear,164.5,0.87,15.75,0.06,0.0,0.02
+Pothole,Concrete,Clear,6520.1,0.9,51.85,0.496,10.9,0.764
+Road Debris,Asphalt,Overcast,2255.9,2.52,48.97,0.277,9.0,0.574
+Pothole,Concrete,Overcast,4109.5,1.32,66.44,0.4,9.6,0.651
+Surface Crack,Asphalt,Clear,1185.2,3.48,50.54,0.651,0.7,0.338
+Surface Crack,Asphalt,Rainy,2312.5,3.55,51.41,0.549,1.4,0.444
+Normal Clear,Concrete,Clear,120.8,0.94,16.67,0.105,0.0,0.02
+Normal Clear,Asphalt,Clear,162.0,0.88,14.27,0.08,0.0,0.02
+Road Debris,Asphalt,Clear,4071.1,1.48,71.84,0.312,6.9,0.396
+Normal Clear,Asphalt,Clear,202.5,1.01,11.55,0.109,0.0,0.02
+Road Debris,Concrete,Night / Low Light,3399.0,0.34,61.43,0.302,8.5,0.525
+Road Debris,Concrete,Rainy,906.4,2.08,68.28,0.226,2.3,0.533
+Pothole,Asphalt,Clear,3503.7,0.64,75.88,0.4,6.2,0.388
+Pothole,Concrete,Clear,3668.9,1.19,66.3,0.405,5.3,0.397
+Surface Crack,Asphalt,Overcast,1788.3,1.68,43.86,0.516,3.0,0.576
+Surface Crack,Asphalt,Clear,1345.7,1.9,54.41,0.698,0.8,0.419
+Pothole,Concrete,Rainy,3460.8,1.28,59.21,0.375,6.4,0.453
+Pothole,Concrete,Clear,6926.1,0.94,65.97,0.437,17.7,0.936
+Pothole,Gravel,Rainy,5229.7,1.23,43.91,0.28,11.0,0.604
+Normal Clear,Asphalt,Clear,221.6,1.1,1.0,0.035,0.0,0.02
+Surface Crack,Concrete,Clear,2233.1,3.17,23.38,0.756,2.7,0.608
+Surface Crack,Asphalt,Clear,1522.3,4.54,40.17,0.551,1.9,0.506
+Pothole,Gravel,Clear,5124.1,1.06,76.48,0.293,5.5,0.469
+Road Debris,Asphalt,Clear,1751.7,1.67,66.87,0.381,10.1,0.536
+Surface Crack,Concrete,Night / Low Light,1522.6,4.65,54.63,0.811,2.7,0.54
+Pothole,Asphalt,Clear,5944.2,1.36,55.67,0.409,11.8,0.679
+Road Debris,Asphalt,Clear,1200.9,1.48,53.4,0.311,2.1,0.636
+Pothole,Asphalt,Rainy,2292.0,1.12,38.17,0.373,17.0,0.765
+Pothole,Asphalt,Rainy,4259.1,1.24,52.26,0.42,5.8,0.376
+Pothole,Asphalt,Overcast,8016.4,1.75,68.63,0.433,8.0,0.63
+Pothole,Concrete,Rainy,4069.7,1.44,80.88,0.383,14.7,0.751
+Pothole,Asphalt,Rainy,4899.1,1.23,47.83,0.48,9.3,0.601
+Surface Crack,Asphalt,Rainy,1315.8,2.78,50.13,0.635,1.5,0.465
+Normal Clear,Asphalt,Overcast,118.3,0.68,14.73,0.092,0.0,0.02
+Road Debris,Asphalt,Overcast,3004.5,1.12,43.05,0.303,2.4,0.607
+Road Debris,Asphalt,Clear,3320.6,2.29,50.63,0.432,8.0,0.565
+Surface Crack,Asphalt,Clear,1155.3,4.45,41.55,0.484,1.8,0.453
+Normal Clear,Asphalt,Clear,213.4,0.9,9.29,0.101,0.0,0.02
+Surface Crack,Asphalt,Rainy,1283.1,5.82,42.91,0.743,3.5,0.635
+Pothole,Asphalt,Night / Low Light,5518.6,1.32,76.98,0.421,15.6,0.856
+Road Debris,Asphalt,Rainy,3844.4,1.19,42.01,0.195,5.9,0.625
+Pothole,Asphalt,Clear,2655.5,1.4,38.12,0.367,9.0,0.467
+Surface Crack,Asphalt,Night / Low Light,1235.0,4.94,34.81,0.581,0.7,0.275
+Road Debris,Asphalt,Overcast,2503.4,1.6,55.37,0.274,10.7,0.574
+Normal Clear,Gravel,Clear,200.3,1.08,8.41,0.092,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,2692.7,3.45,49.44,0.703,2.4,0.519
+Normal Clear,Concrete,Clear,289.3,1.2,7.32,0.057,0.0,0.02
+Normal Clear,Asphalt,Overcast,263.9,0.96,12.19,0.051,0.0,0.02
+Pothole,Concrete,Overcast,6378.1,1.35,58.7,0.34,12.0,0.723
+Pothole,Concrete,Rainy,4328.9,1.24,67.62,0.432,4.1,0.298
+Surface Crack,Concrete,Night / Low Light,1261.2,4.49,42.04,0.566,2.8,0.569
+Surface Crack,Asphalt,Overcast,1586.4,5.55,50.32,0.557,2.3,0.548
+Surface Crack,Asphalt,Rainy,1638.5,2.7,58.57,0.849,0.9,0.366
+Normal Clear,Concrete,Clear,160.7,0.98,5.28,0.099,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,83.3,1.04,10.18,0.152,0.0,0.02
+Road Debris,Asphalt,Clear,2391.2,1.64,60.54,0.32,6.6,0.497
+Surface Crack,Asphalt,Clear,1825.3,3.36,45.29,0.454,2.2,0.535
+Normal Clear,Asphalt,Overcast,72.4,0.84,15.58,0.037,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,113.6,1.11,15.24,0.077,0.0,0.02
+Normal Clear,Asphalt,Clear,156.1,1.02,7.07,0.078,0.0,0.02
+Pothole,Asphalt,Clear,4790.3,1.17,44.89,0.543,17.6,0.837
+Road Debris,Asphalt,Clear,3867.4,1.79,57.28,0.256,6.5,0.474
+Pothole,Asphalt,Clear,5578.8,0.87,76.66,0.363,8.3,0.491
+Pothole,Asphalt,Clear,4623.9,0.99,21.72,0.506,12.0,0.714
+Pothole,Asphalt,Night / Low Light,2995.5,0.57,68.37,0.464,9.5,0.537
+Road Debris,Concrete,Clear,1171.7,1.58,53.69,0.279,9.3,0.521
+Normal Clear,Concrete,Rainy,182.5,1.03,9.51,0.08,0.0,0.02
+Pothole,Asphalt,Clear,5135.7,0.97,53.63,0.585,4.9,0.422
+Surface Crack,Asphalt,Overcast,1870.8,3.13,45.59,0.75,3.1,0.643
+Surface Crack,Asphalt,Clear,1134.3,1.86,41.19,0.507,3.2,0.517
+Surface Crack,Concrete,Clear,1618.2,3.2,59.97,0.685,2.4,0.467
+Pothole,Asphalt,Clear,4846.4,1.76,62.34,0.469,4.2,0.493
+Surface Crack,Asphalt,Rainy,1721.0,3.15,54.51,0.509,2.1,0.475
+Normal Clear,Asphalt,Rainy,271.8,1.03,4.13,0.128,0.0,0.02
+Pothole,Asphalt,Clear,3943.7,1.33,48.09,0.36,16.7,0.743
+Pothole,Concrete,Clear,4562.8,1.55,59.54,0.372,17.4,0.899
+Surface Crack,Concrete,Clear,1471.9,2.22,34.79,0.687,3.4,0.648
+Normal Clear,Asphalt,Rainy,200.3,1.16,18.21,0.092,0.0,0.02
+Normal Clear,Asphalt,Rainy,147.8,1.23,14.8,0.147,0.0,0.02
+Normal Clear,Asphalt,Clear,197.9,1.03,7.3,0.063,0.0,0.02
+Surface Crack,Asphalt,Clear,938.4,3.56,52.41,0.65,2.4,0.524
+Road Debris,Asphalt,Clear,2707.9,1.59,63.44,0.305,11.5,0.469
+Pothole,Asphalt,Clear,4680.8,0.97,62.8,0.601,8.9,0.519
+Road Debris,Asphalt,Rainy,2632.7,1.52,35.5,0.21,10.3,0.405
+Normal Clear,Asphalt,Clear,201.1,1.01,11.35,0.103,0.0,0.02
+Road Debris,Gravel,Clear,2021.3,1.39,61.7,0.298,7.6,0.424
+Normal Clear,Asphalt,Clear,166.4,0.98,7.4,0.076,0.0,0.02
+Normal Clear,Concrete,Overcast,172.8,1.28,18.58,0.063,0.0,0.02
+Pothole,Concrete,Overcast,3746.5,1.21,61.49,0.517,17.3,0.838
+Normal Clear,Asphalt,Clear,188.2,1.01,8.22,0.107,0.0,0.02
+Pothole,Concrete,Clear,4752.3,1.36,88.76,0.354,9.6,0.595
+Road Debris,Asphalt,Clear,1958.6,1.72,62.86,0.403,10.8,0.368
+Pothole,Asphalt,Rainy,6618.7,1.13,66.53,0.517,15.0,0.747
+Pothole,Asphalt,Clear,4060.2,1.8,71.58,0.353,12.0,0.707
+Surface Crack,Gravel,Night / Low Light,1402.2,3.15,38.27,0.824,0.6,0.412
+Surface Crack,Asphalt,Rainy,1470.8,3.77,56.53,0.902,1.2,0.372
+Surface Crack,Asphalt,Overcast,1626.7,3.82,28.37,0.619,2.5,0.487
+Road Debris,Gravel,Clear,3868.8,1.25,56.97,0.318,9.6,0.421
+Pothole,Asphalt,Overcast,4359.4,0.59,79.44,0.373,12.3,0.665
+Pothole,Concrete,Night / Low Light,5031.6,1.42,76.83,0.536,7.7,0.513
+Road Debris,Concrete,Clear,2321.2,1.1,55.01,0.342,8.4,0.405
+Surface Crack,Concrete,Clear,1993.6,5.49,38.47,0.566,1.2,0.413
+Normal Clear,Gravel,Clear,186.4,0.56,9.07,0.058,0.0,0.02
+Normal Clear,Gravel,Clear,209.4,0.78,12.91,0.076,0.0,0.02
+Normal Clear,Asphalt,Clear,202.2,1.12,12.48,0.063,0.0,0.02
+Normal Clear,Concrete,Rainy,57.4,1.05,14.12,0.033,0.0,0.02
+Surface Crack,Asphalt,Clear,1059.8,4.08,47.71,0.551,1.4,0.343
+Normal Clear,Asphalt,Overcast,107.5,0.91,20.57,0.077,0.0,0.02
+Pothole,Asphalt,Clear,4879.8,0.94,78.42,0.656,8.6,0.568
+Surface Crack,Concrete,Overcast,729.0,3.55,53.09,0.725,1.3,0.41
+Normal Clear,Gravel,Clear,145.3,1.15,9.18,0.041,0.0,0.02
+Surface Crack,Gravel,Night / Low Light,2078.6,4.63,40.38,0.587,2.5,0.494
+Normal Clear,Asphalt,Clear,75.1,1.47,11.29,0.088,0.0,0.02
+Normal Clear,Asphalt,Clear,115.4,1.1,15.84,0.089,0.0,0.02
+Normal Clear,Asphalt,Overcast,237.0,0.93,10.95,0.087,0.0,0.02
+Normal Clear,Concrete,Clear,173.2,1.05,6.86,0.089,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,1575.5,3.16,45.26,0.554,0.7,0.355
+Surface Crack,Asphalt,Rainy,915.5,6.66,36.7,0.637,0.7,0.377
+Road Debris,Asphalt,Rainy,2394.9,1.23,26.24,0.256,9.8,0.577
+Surface Crack,Asphalt,Rainy,2721.8,3.66,50.53,0.603,3.0,0.661
+Road Debris,Asphalt,Night / Low Light,1707.0,1.1,44.36,0.34,4.3,0.608
+Normal Clear,Gravel,Clear,91.2,1.07,14.91,0.085,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,213.7,0.62,14.43,0.075,0.0,0.02
+Surface Crack,Asphalt,Overcast,896.9,2.61,57.52,0.713,2.7,0.611
+Pothole,Asphalt,Clear,5643.1,1.32,84.53,0.45,9.8,0.592
+Surface Crack,Asphalt,Clear,1874.9,4.24,51.04,0.621,1.3,0.48
+Pothole,Gravel,Night / Low Light,2101.1,1.67,65.22,0.593,13.8,0.608
+Normal Clear,Asphalt,Clear,170.0,0.86,4.46,0.077,0.0,0.02
+Surface Crack,Asphalt,Clear,2025.0,5.49,35.47,0.708,3.2,0.613
+Pothole,Asphalt,Clear,7155.9,1.26,69.79,0.393,13.9,0.786
+Pothole,Concrete,Rainy,3764.5,1.16,77.77,0.4,9.8,0.546
+Road Debris,Concrete,Clear,2121.8,1.97,41.88,0.328,6.2,0.512
+Road Debris,Concrete,Rainy,3175.9,1.44,50.26,0.218,2.3,0.668
+Surface Crack,Asphalt,Night / Low Light,196.7,2.61,38.49,0.745,1.2,0.372
+Pothole,Asphalt,Clear,3220.8,0.99,96.98,0.328,9.2,0.421
+Surface Crack,Asphalt,Rainy,2144.1,4.76,51.31,0.761,1.7,0.391
+Surface Crack,Concrete,Overcast,2016.4,4.56,51.57,0.62,1.8,0.414
+Normal Clear,Asphalt,Night / Low Light,181.7,1.1,12.55,0.054,0.0,0.02
+Road Debris,Asphalt,Overcast,3169.4,1.77,55.85,0.229,10.6,0.426
+Surface Crack,Concrete,Clear,727.5,3.33,51.46,0.549,3.3,0.664
+Pothole,Concrete,Night / Low Light,1027.0,1.56,89.54,0.371,10.3,0.408
+Normal Clear,Asphalt,Clear,143.7,1.43,13.71,0.106,0.0,0.02
+Surface Crack,Asphalt,Clear,1414.6,5.1,55.65,0.7,1.3,0.428
+Normal Clear,Asphalt,Clear,62.8,1.14,4.36,0.056,0.0,0.02
+Pothole,Concrete,Clear,6373.2,1.45,61.45,0.378,17.4,0.863
+Surface Crack,Concrete,Overcast,2651.6,3.93,56.3,0.576,1.7,0.436
+Pothole,Asphalt,Clear,4857.2,1.14,71.68,0.348,7.0,0.4
+Road Debris,Asphalt,Night / Low Light,3797.9,1.57,46.1,0.369,8.4,0.616
+Normal Clear,Concrete,Night / Low Light,330.1,1.01,17.68,0.11,0.0,0.02
+Surface Crack,Concrete,Rainy,2397.6,5.75,41.65,0.6,1.3,0.434
+Pothole,Asphalt,Clear,4736.1,0.72,72.12,0.4,8.5,0.605
+Pothole,Asphalt,Rainy,5324.8,1.63,54.14,0.327,8.6,0.472
+Surface Crack,Asphalt,Clear,1812.5,1.53,38.07,0.716,2.5,0.621
+Pothole,Asphalt,Clear,3724.4,0.88,65.68,0.412,12.4,0.639
+Pothole,Gravel,Overcast,4585.1,1.55,84.53,0.372,9.7,0.56
+Normal Clear,Concrete,Clear,152.9,1.02,13.05,0.133,0.0,0.02
+Surface Crack,Concrete,Clear,1720.5,4.91,46.84,0.626,1.3,0.51
+Surface Crack,Asphalt,Overcast,2732.2,4.77,37.52,0.79,2.8,0.597
+Normal Clear,Concrete,Clear,107.0,0.78,10.45,0.079,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4209.7,0.64,88.66,0.398,15.7,0.718
+Normal Clear,Asphalt,Clear,281.7,0.76,10.17,0.091,0.0,0.02
+Surface Crack,Asphalt,Clear,1527.3,5.4,43.6,0.558,2.0,0.534
+Normal Clear,Asphalt,Clear,46.0,0.69,13.44,0.081,0.0,0.02
+Road Debris,Concrete,Clear,2310.9,1.35,75.12,0.251,7.0,0.523
+Normal Clear,Asphalt,Clear,139.1,0.44,7.58,0.076,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,154.7,1.07,15.07,0.053,0.0,0.02
+Surface Crack,Asphalt,Rainy,1824.1,3.25,37.49,0.563,1.9,0.52
+Normal Clear,Asphalt,Overcast,113.8,0.36,10.02,0.081,0.0,0.02
+Surface Crack,Asphalt,Clear,1718.3,5.98,49.6,0.703,1.2,0.423
+Surface Crack,Asphalt,Rainy,1692.6,3.75,48.15,0.581,1.4,0.412
+Surface Crack,Concrete,Rainy,1320.1,1.81,34.79,0.737,0.7,0.415
+Road Debris,Asphalt,Overcast,2179.8,1.72,54.98,0.193,3.9,0.503
+Pothole,Asphalt,Clear,4924.8,1.77,85.16,0.467,14.2,0.645
+Road Debris,Asphalt,Rainy,3134.4,2.41,62.59,0.284,5.4,0.388
+Road Debris,Concrete,Overcast,1870.2,1.4,52.13,0.283,5.7,0.485
+Normal Clear,Asphalt,Clear,160.2,0.66,8.94,0.063,0.0,0.02
+Normal Clear,Asphalt,Overcast,119.6,1.0,12.5,0.067,0.0,0.02
+Surface Crack,Asphalt,Clear,1396.5,3.78,56.54,0.504,2.2,0.573
+Surface Crack,Asphalt,Night / Low Light,1283.6,2.6,37.36,0.692,2.4,0.594
+Pothole,Asphalt,Overcast,2579.9,0.93,69.58,0.477,6.5,0.367
+Pothole,Concrete,Night / Low Light,4912.0,1.43,54.03,0.381,15.4,0.728
+Pothole,Asphalt,Clear,5967.8,1.58,65.39,0.367,16.8,0.894
+Surface Crack,Asphalt,Clear,849.7,2.51,46.25,0.638,1.2,0.459
+Pothole,Concrete,Overcast,4873.2,1.73,56.1,0.537,7.6,0.455
+Normal Clear,Concrete,Rainy,131.4,0.77,10.01,0.096,0.0,0.02
+Road Debris,Asphalt,Clear,2493.8,1.95,69.36,0.229,5.4,0.628
+Surface Crack,Asphalt,Night / Low Light,1298.4,2.71,39.97,0.703,2.0,0.526
+Road Debris,Asphalt,Rainy,4217.2,1.6,28.41,0.318,11.9,0.529
+Pothole,Asphalt,Clear,3194.3,1.3,76.46,0.393,7.8,0.48
+Surface Crack,Concrete,Clear,1607.3,4.97,38.87,0.696,2.8,0.492
+Road Debris,Concrete,Clear,2822.5,2.27,54.46,0.21,9.5,0.522
+Surface Crack,Gravel,Rainy,1150.8,2.75,61.03,0.617,3.3,0.614
+Surface Crack,Asphalt,Rainy,1176.7,5.77,41.38,0.74,2.1,0.487
+Normal Clear,Asphalt,Rainy,229.1,1.02,10.74,0.082,0.0,0.02
+Normal Clear,Asphalt,Overcast,145.3,0.67,18.21,0.087,0.0,0.02
+Road Debris,Concrete,Overcast,1453.2,0.67,31.72,0.346,11.1,0.485
+Road Debris,Asphalt,Rainy,3548.6,1.36,49.88,0.281,10.0,0.465
+Road Debris,Asphalt,Clear,2991.9,1.54,54.16,0.206,11.8,0.555
+Pothole,Concrete,Night / Low Light,5436.2,1.37,59.99,0.454,12.5,0.614
+Surface Crack,Concrete,Clear,2695.7,4.59,40.73,0.67,1.9,0.425
+Pothole,Concrete,Rainy,5709.8,0.97,63.51,0.438,8.0,0.554
+Surface Crack,Asphalt,Rainy,2804.4,4.04,52.77,0.62,0.6,0.34
+Road Debris,Concrete,Clear,1724.1,1.88,50.76,0.311,9.8,0.479
+Pothole,Concrete,Overcast,2713.6,1.2,55.69,0.452,6.7,0.386
+Normal Clear,Asphalt,Clear,195.4,1.01,12.01,0.013,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,216.2,0.97,13.03,0.088,0.0,0.02
+Normal Clear,Asphalt,Clear,111.5,0.95,8.89,0.121,0.0,0.02
+Road Debris,Gravel,Overcast,498.5,1.12,51.78,0.39,6.8,0.571
+Normal Clear,Asphalt,Clear,182.6,0.73,6.9,0.085,0.0,0.02
+Pothole,Asphalt,Clear,2849.6,0.6,74.39,0.446,14.3,0.76
+Normal Clear,Asphalt,Clear,135.4,0.76,13.26,0.042,0.0,0.02
+Pothole,Concrete,Clear,3154.1,0.95,52.99,0.513,14.4,0.697
+Normal Clear,Asphalt,Clear,60.1,0.8,12.32,0.076,0.0,0.02
+Pothole,Asphalt,Rainy,5123.6,1.16,83.18,0.394,8.0,0.568
+Normal Clear,Asphalt,Clear,68.7,1.0,12.47,0.071,0.0,0.02
+Normal Clear,Gravel,Clear,219.2,0.76,10.21,0.055,0.0,0.02
+Pothole,Asphalt,Clear,5735.9,0.89,46.01,0.455,13.8,0.775
+Surface Crack,Asphalt,Overcast,2283.9,4.68,26.58,0.635,1.7,0.466
+Normal Clear,Concrete,Night / Low Light,117.1,0.96,12.69,0.137,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2148.5,3.88,32.48,0.653,1.0,0.441
+Normal Clear,Gravel,Night / Low Light,212.9,1.35,10.73,0.03,0.0,0.02
+Road Debris,Asphalt,Clear,3256.3,1.39,64.43,0.317,7.3,0.492
+Surface Crack,Asphalt,Clear,1273.4,3.28,48.99,0.623,1.7,0.435
+Surface Crack,Asphalt,Clear,1336.7,3.35,51.56,0.538,1.7,0.496
+Pothole,Asphalt,Overcast,7130.6,0.72,71.76,0.385,10.0,0.697
+Normal Clear,Concrete,Overcast,86.3,1.06,8.71,0.059,0.0,0.02
+Surface Crack,Asphalt,Rainy,1677.8,3.17,61.63,0.596,2.4,0.574
+Road Debris,Concrete,Clear,1295.5,1.61,63.66,0.323,5.8,0.495
+Surface Crack,Asphalt,Clear,2041.3,4.0,43.14,0.644,0.6,0.374
+Road Debris,Asphalt,Clear,3004.0,1.71,60.25,0.278,9.8,0.43
+Normal Clear,Asphalt,Rainy,179.8,1.01,20.08,0.074,0.0,0.02
+Normal Clear,Gravel,Clear,184.8,1.0,6.45,0.064,0.0,0.02
+Surface Crack,Asphalt,Overcast,2328.3,3.32,27.24,0.647,2.1,0.55
+Normal Clear,Asphalt,Clear,73.4,1.17,14.18,0.076,0.0,0.02
+Normal Clear,Asphalt,Overcast,186.4,0.95,12.6,0.037,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,2269.4,1.87,41.69,0.349,6.1,0.298
+Normal Clear,Asphalt,Night / Low Light,212.3,1.1,7.54,0.033,0.0,0.02
+Pothole,Gravel,Rainy,3841.9,1.39,68.04,0.337,13.0,0.751
+Pothole,Asphalt,Rainy,5378.4,1.17,60.23,0.482,16.2,0.822
+Normal Clear,Concrete,Rainy,124.6,0.95,10.21,0.072,0.0,0.02
+Surface Crack,Asphalt,Rainy,2053.9,1.64,44.41,0.685,1.2,0.398
+Normal Clear,Concrete,Rainy,131.3,1.12,9.19,0.161,0.0,0.02
+Normal Clear,Gravel,Overcast,219.3,1.28,7.87,0.019,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4093.1,1.29,66.06,0.378,8.9,0.435
+Normal Clear,Gravel,Night / Low Light,179.6,0.81,17.48,0.066,0.0,0.02
+Surface Crack,Asphalt,Overcast,1260.4,4.47,57.86,0.692,2.4,0.615
+Road Debris,Gravel,Clear,3061.3,1.5,54.98,0.331,4.4,0.336
+Road Debris,Concrete,Clear,2435.8,2.0,66.72,0.334,11.0,0.431
+Normal Clear,Asphalt,Rainy,172.9,1.07,16.09,0.102,0.0,0.02
+Pothole,Asphalt,Rainy,4724.6,0.95,58.52,0.553,10.3,0.606
+Surface Crack,Asphalt,Overcast,1350.1,6.13,54.38,0.69,1.0,0.454
+Normal Clear,Asphalt,Clear,183.9,0.62,9.71,0.046,0.0,0.02
+Normal Clear,Asphalt,Rainy,80.9,1.0,3.55,0.11,0.0,0.02
+Normal Clear,Asphalt,Rainy,187.2,1.32,7.73,0.051,0.0,0.02
+Pothole,Asphalt,Clear,5762.6,1.54,84.18,0.512,17.6,0.944
+Surface Crack,Concrete,Rainy,2252.7,2.14,43.29,0.557,3.0,0.57
+Surface Crack,Asphalt,Overcast,1736.3,2.5,50.31,0.662,1.2,0.415
+Normal Clear,Asphalt,Clear,47.5,1.25,13.99,0.091,0.0,0.02
+Pothole,Asphalt,Rainy,6018.2,0.82,47.17,0.451,7.8,0.502
+Pothole,Asphalt,Rainy,4660.2,1.12,59.66,0.415,9.6,0.521
+Normal Clear,Asphalt,Clear,114.8,1.11,11.37,0.099,0.0,0.02
+Pothole,Asphalt,Clear,1440.6,0.95,74.67,0.395,8.7,0.323
+Normal Clear,Gravel,Overcast,172.6,1.12,14.71,0.111,0.0,0.02
+Normal Clear,Concrete,Clear,91.9,1.11,19.06,0.122,0.0,0.02
+Normal Clear,Asphalt,Clear,244.6,1.05,9.63,0.01,0.0,0.02
+Surface Crack,Concrete,Clear,1054.4,3.22,42.24,0.571,2.3,0.548
+Pothole,Asphalt,Night / Low Light,2473.7,1.44,78.9,0.457,6.4,0.259
+Normal Clear,Concrete,Rainy,124.8,1.14,10.29,0.025,0.0,0.02
+Normal Clear,Concrete,Rainy,105.6,0.73,13.98,0.084,0.0,0.02
+Normal Clear,Asphalt,Clear,71.9,0.67,9.1,0.081,0.0,0.02
+Pothole,Asphalt,Overcast,3693.8,1.31,71.79,0.463,16.0,0.709
+Normal Clear,Asphalt,Clear,184.5,0.97,11.67,0.083,0.0,0.02
+Normal Clear,Asphalt,Clear,112.3,0.89,17.51,0.14,0.0,0.02
+Normal Clear,Concrete,Rainy,229.6,0.74,6.32,0.044,0.0,0.02
+Normal Clear,Asphalt,Clear,156.7,0.44,9.64,0.122,0.0,0.02
+Normal Clear,Concrete,Overcast,199.1,0.9,10.27,0.097,0.0,0.02
+Road Debris,Gravel,Overcast,3341.7,1.29,52.66,0.266,6.5,0.452
+Pothole,Asphalt,Clear,3942.0,1.66,62.59,0.44,8.6,0.583
+Surface Crack,Concrete,Overcast,1401.5,2.82,34.94,0.622,3.4,0.626
+Pothole,Concrete,Night / Low Light,5896.1,1.45,82.19,0.369,11.2,0.631
+Surface Crack,Gravel,Overcast,2197.4,6.14,24.2,0.526,2.0,0.572
+Surface Crack,Gravel,Clear,413.8,4.12,51.74,0.718,2.4,0.621
+Pothole,Concrete,Rainy,4016.5,1.22,57.58,0.402,5.4,0.363
+Surface Crack,Asphalt,Clear,2624.2,3.1,51.78,0.564,2.3,0.493
+Pothole,Concrete,Overcast,4258.6,1.6,71.51,0.414,5.6,0.273
+Normal Clear,Asphalt,Clear,131.2,0.95,10.1,0.116,0.0,0.02
+Normal Clear,Concrete,Rainy,170.7,1.49,14.14,0.097,0.0,0.02
+Pothole,Gravel,Clear,4826.4,1.12,60.2,0.401,17.2,0.868
+Normal Clear,Asphalt,Clear,82.9,0.94,15.08,0.122,0.0,0.02
+Road Debris,Asphalt,Rainy,2271.2,1.24,58.2,0.236,6.8,0.373
+Surface Crack,Asphalt,Overcast,1324.4,3.19,41.38,0.75,2.4,0.53
+Pothole,Asphalt,Rainy,5455.6,1.12,58.27,0.48,13.0,0.74
+Road Debris,Asphalt,Overcast,3239.1,1.24,58.07,0.333,4.8,0.354
+Normal Clear,Concrete,Clear,144.7,1.1,19.37,0.068,0.0,0.02
+Normal Clear,Gravel,Rainy,33.1,1.1,12.67,0.058,0.0,0.02
+Pothole,Gravel,Rainy,4976.7,1.44,56.64,0.396,15.4,0.806
+Pothole,Asphalt,Clear,5209.0,1.02,86.86,0.521,5.2,0.425
+Surface Crack,Concrete,Rainy,910.9,3.97,54.82,0.514,0.6,0.279
+Surface Crack,Concrete,Night / Low Light,2213.3,2.84,48.29,0.731,3.4,0.707
+Pothole,Asphalt,Rainy,4197.9,1.34,68.52,0.409,12.4,0.704
+Surface Crack,Asphalt,Night / Low Light,1900.6,3.28,44.04,0.813,2.9,0.577
+Normal Clear,Asphalt,Rainy,103.9,1.0,14.55,0.075,0.0,0.02
+Normal Clear,Gravel,Clear,113.6,0.78,15.42,0.107,0.0,0.02
+Surface Crack,Asphalt,Clear,1675.2,4.64,21.28,0.783,3.3,0.659
+Normal Clear,Concrete,Rainy,175.0,1.06,10.41,0.068,0.0,0.02
+Surface Crack,Asphalt,Clear,1767.4,3.99,41.61,0.744,2.7,0.554
+Surface Crack,Concrete,Clear,1602.5,2.36,52.44,0.681,1.9,0.515
+Pothole,Asphalt,Clear,5245.5,1.21,36.1,0.441,7.5,0.535
+Road Debris,Asphalt,Rainy,2271.4,1.74,52.41,0.394,9.4,0.452
+Normal Clear,Asphalt,Clear,114.0,1.21,7.62,0.099,0.0,0.02
+Road Debris,Asphalt,Night / Low Light,1773.2,1.48,39.75,0.347,5.6,0.485
+Surface Crack,Concrete,Rainy,1759.9,4.59,36.37,0.676,1.4,0.511
+Road Debris,Asphalt,Clear,3202.3,1.52,49.38,0.253,7.0,0.512
+Pothole,Concrete,Night / Low Light,4289.9,1.23,73.29,0.54,15.7,0.821
+Normal Clear,Asphalt,Rainy,126.2,0.96,8.68,0.089,0.0,0.02
+Road Debris,Asphalt,Rainy,2280.9,1.64,45.15,0.327,11.5,0.517
+Surface Crack,Asphalt,Rainy,1925.1,1.34,65.09,0.648,3.4,0.675
+Road Debris,Asphalt,Clear,2030.9,1.28,63.0,0.353,6.7,0.619
+Road Debris,Gravel,Night / Low Light,2702.1,1.43,45.58,0.33,9.0,0.551
+Pothole,Asphalt,Clear,4885.5,1.3,54.84,0.345,10.7,0.714
+Normal Clear,Concrete,Overcast,164.8,1.16,7.64,0.08,0.0,0.02
+Pothole,Gravel,Overcast,4183.6,1.23,61.46,0.523,5.3,0.303
+Normal Clear,Asphalt,Rainy,176.0,1.25,17.08,0.059,0.0,0.02
+Normal Clear,Asphalt,Clear,35.3,1.07,17.27,0.032,0.0,0.02
+Normal Clear,Concrete,Clear,131.3,1.07,8.64,0.028,0.0,0.02
+Road Debris,Gravel,Clear,1830.7,1.27,36.14,0.364,11.4,0.655
+Road Debris,Gravel,Rainy,20.0,2.22,61.84,0.254,3.4,0.23
+Pothole,Asphalt,Clear,4135.1,1.39,70.86,0.483,11.3,0.585
+Normal Clear,Concrete,Rainy,239.5,0.92,13.51,0.082,0.0,0.02
+Pothole,Asphalt,Clear,3322.1,1.93,84.35,0.435,12.6,0.642
+Surface Crack,Gravel,Overcast,1839.8,2.17,56.74,0.757,0.5,0.418
+Surface Crack,Gravel,Clear,2804.2,3.55,57.2,0.649,1.9,0.478
+Pothole,Asphalt,Overcast,3471.3,0.58,74.89,0.481,9.3,0.452
+Road Debris,Asphalt,Overcast,3631.9,1.74,48.62,0.38,7.7,0.607
+Pothole,Asphalt,Rainy,4326.2,1.1,77.9,0.497,13.2,0.599
+Normal Clear,Asphalt,Night / Low Light,210.8,0.76,12.72,0.096,0.0,0.02
+Surface Crack,Concrete,Clear,1962.5,2.52,53.6,0.662,1.6,0.548
+Pothole,Asphalt,Rainy,2761.6,1.74,70.41,0.426,5.7,0.313
+Road Debris,Asphalt,Clear,3499.4,0.99,50.2,0.248,9.0,0.43
+Pothole,Asphalt,Clear,4807.6,0.87,70.93,0.398,5.5,0.339
+Pothole,Gravel,Rainy,5189.8,1.35,67.9,0.425,16.2,0.818
+Normal Clear,Asphalt,Rainy,148.3,1.25,19.37,0.098,0.0,0.02
+Pothole,Asphalt,Rainy,3793.2,1.21,66.82,0.408,14.1,0.698
+Normal Clear,Asphalt,Clear,154.6,0.64,18.13,0.039,0.0,0.02
+Pothole,Gravel,Clear,3882.2,1.6,65.19,0.324,14.8,0.708
+Pothole,Concrete,Clear,5366.9,1.12,74.73,0.417,8.2,0.508
+Normal Clear,Asphalt,Clear,239.2,0.82,9.67,0.044,0.0,0.02
+Surface Crack,Asphalt,Clear,2167.3,5.12,54.44,0.525,2.8,0.507
+Pothole,Asphalt,Clear,5118.1,1.37,78.81,0.432,15.5,0.784
+Surface Crack,Asphalt,Clear,1051.0,3.3,54.67,0.682,0.6,0.45
+Pothole,Asphalt,Overcast,5886.7,1.7,81.61,0.346,7.3,0.552
+Normal Clear,Gravel,Clear,142.2,1.01,17.72,0.115,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2123.1,2.23,31.5,0.674,1.9,0.481
+Normal Clear,Concrete,Clear,192.2,0.93,12.41,0.061,0.0,0.02
+Normal Clear,Asphalt,Overcast,209.7,1.15,8.72,0.064,0.0,0.02
+Surface Crack,Concrete,Rainy,1392.3,1.75,38.9,0.473,1.7,0.515
+Normal Clear,Concrete,Clear,160.4,1.04,19.67,0.107,0.0,0.02
+Surface Crack,Asphalt,Rainy,2665.0,4.12,37.18,0.663,2.9,0.627
+Normal Clear,Asphalt,Clear,177.6,0.88,8.7,0.082,0.0,0.02
+Pothole,Asphalt,Rainy,2231.9,1.11,56.21,0.374,13.9,0.597
+Normal Clear,Asphalt,Clear,124.8,1.01,12.99,0.065,0.0,0.02
+Surface Crack,Asphalt,Overcast,2272.1,4.45,54.12,0.642,1.0,0.371
+Surface Crack,Asphalt,Clear,1564.1,3.11,50.5,0.688,0.7,0.32
+Road Debris,Gravel,Clear,1228.7,1.62,61.77,0.265,7.0,0.456
+Normal Clear,Asphalt,Night / Low Light,242.1,0.79,12.75,0.029,0.0,0.02
+Pothole,Concrete,Clear,3376.6,1.14,71.24,0.519,6.9,0.379
+Pothole,Asphalt,Overcast,6478.1,1.43,83.67,0.498,13.9,0.813
+Normal Clear,Concrete,Rainy,163.8,0.98,11.82,0.058,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,164.1,1.08,15.94,0.092,0.0,0.02
+Normal Clear,Concrete,Clear,194.1,0.85,17.69,0.073,0.0,0.02
+Normal Clear,Asphalt,Overcast,47.6,0.92,14.31,0.082,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,52.9,1.04,12.51,0.051,0.0,0.02
+Normal Clear,Asphalt,Clear,178.2,0.97,4.2,0.101,0.0,0.02
+Surface Crack,Asphalt,Clear,1904.9,5.46,38.08,0.627,2.7,0.623
+Pothole,Asphalt,Clear,3301.4,0.83,87.12,0.337,5.5,0.211
+Normal Clear,Asphalt,Overcast,122.1,0.86,8.05,0.086,0.0,0.02
+Road Debris,Asphalt,Clear,1177.2,1.98,64.14,0.382,11.0,0.447
+Pothole,Concrete,Rainy,3817.4,1.24,59.52,0.406,14.5,0.673
+Surface Crack,Asphalt,Clear,371.8,2.78,26.12,0.563,2.1,0.585
+Normal Clear,Asphalt,Clear,99.6,0.73,11.19,0.153,0.0,0.02
+Road Debris,Concrete,Rainy,2914.2,2.18,52.46,0.382,6.9,0.389
+Surface Crack,Asphalt,Overcast,2207.9,5.49,33.76,0.644,2.3,0.507
+Surface Crack,Asphalt,Rainy,1835.8,1.8,41.59,0.681,1.3,0.45
+Pothole,Asphalt,Overcast,4919.5,1.04,72.09,0.195,8.4,0.578
+Surface Crack,Gravel,Rainy,1719.2,5.18,44.2,0.63,1.2,0.434
+Surface Crack,Concrete,Clear,2285.4,4.15,68.09,0.775,2.2,0.553
+Pothole,Concrete,Clear,4320.0,1.4,54.38,0.395,8.7,0.485
+Normal Clear,Asphalt,Rainy,187.4,1.53,8.45,0.099,0.0,0.02
+Surface Crack,Concrete,Overcast,1892.3,5.04,50.09,0.769,1.3,0.444
+Normal Clear,Asphalt,Overcast,203.9,1.24,2.96,0.062,0.0,0.02
+Normal Clear,Asphalt,Clear,99.0,1.03,3.94,0.019,0.0,0.02
+Pothole,Asphalt,Clear,7104.1,1.39,69.45,0.449,16.4,1.0
+Normal Clear,Asphalt,Clear,195.9,0.63,17.62,0.086,0.0,0.02
+Surface Crack,Asphalt,Overcast,2643.5,3.45,36.5,0.525,1.3,0.483
+Normal Clear,Asphalt,Overcast,156.7,1.31,18.37,0.011,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4799.6,0.24,77.54,0.509,17.3,0.857
+Normal Clear,Asphalt,Clear,138.8,0.87,12.46,0.027,0.0,0.02
+Road Debris,Concrete,Rainy,2783.9,1.46,63.41,0.282,5.9,0.56
+Surface Crack,Asphalt,Rainy,681.6,5.24,41.34,0.684,1.8,0.443
+Pothole,Concrete,Clear,6472.2,1.24,64.44,0.396,12.6,0.767
+Normal Clear,Asphalt,Rainy,228.3,1.12,17.8,0.075,0.0,0.02
+Normal Clear,Concrete,Clear,165.0,0.94,6.84,0.116,0.0,0.02
+Surface Crack,Asphalt,Clear,2119.0,3.82,44.98,0.499,2.4,0.517
+Road Debris,Asphalt,Overcast,2447.7,1.34,46.81,0.337,6.0,0.485
+Surface Crack,Asphalt,Night / Low Light,813.8,3.77,47.25,0.551,3.5,0.638
+Normal Clear,Asphalt,Clear,96.2,0.9,12.95,0.062,0.0,0.02
+Pothole,Concrete,Rainy,3929.4,1.23,61.92,0.336,5.7,0.303
+Normal Clear,Asphalt,Clear,179.9,1.29,7.68,0.067,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2629.5,4.31,50.37,0.545,3.5,0.638
+Surface Crack,Concrete,Night / Low Light,1549.0,4.63,43.66,0.773,2.0,0.483
+Pothole,Concrete,Night / Low Light,4714.8,0.97,83.33,0.437,17.8,0.847
+Pothole,Asphalt,Night / Low Light,5658.9,1.52,80.46,0.483,5.2,0.468
+Road Debris,Asphalt,Clear,2760.8,1.18,54.54,0.337,11.6,0.556
+Pothole,Asphalt,Clear,5601.1,0.82,81.16,0.415,6.0,0.546
+Normal Clear,Asphalt,Rainy,133.5,1.16,7.7,0.111,0.0,0.02
+Pothole,Asphalt,Clear,6124.3,1.2,68.73,0.359,16.8,0.939
+Surface Crack,Gravel,Night / Low Light,1378.5,3.78,40.28,0.678,1.1,0.476
+Surface Crack,Asphalt,Clear,2295.8,3.77,56.75,0.728,1.5,0.421
+Pothole,Asphalt,Clear,3587.7,0.67,71.23,0.565,14.3,0.727
+Pothole,Asphalt,Clear,5105.7,1.0,70.04,0.379,9.4,0.594
+Surface Crack,Gravel,Overcast,2851.9,3.97,49.61,0.555,2.3,0.576
+Surface Crack,Concrete,Clear,1628.9,2.63,43.54,0.581,3.0,0.658
+Surface Crack,Asphalt,Rainy,1555.8,3.94,62.2,0.662,0.7,0.362
+Road Debris,Concrete,Clear,3370.0,2.1,39.52,0.279,6.3,0.484
+Road Debris,Asphalt,Clear,2821.2,1.42,54.51,0.29,6.0,0.543
+Pothole,Asphalt,Rainy,4570.2,1.47,52.87,0.441,11.0,0.629
+Surface Crack,Asphalt,Night / Low Light,2288.3,4.7,30.18,0.662,2.1,0.483
+Normal Clear,Asphalt,Rainy,155.6,1.3,13.43,0.077,0.0,0.02
+Road Debris,Asphalt,Overcast,2633.7,1.01,58.06,0.18,7.5,0.526
+Normal Clear,Gravel,Clear,117.0,1.25,14.54,0.072,0.0,0.02
+Surface Crack,Asphalt,Clear,1476.7,2.8,48.0,0.608,1.5,0.459
+Normal Clear,Gravel,Overcast,171.8,1.11,15.56,0.09,0.0,0.02
+Normal Clear,Asphalt,Clear,158.6,1.37,5.9,0.131,0.0,0.02
+Road Debris,Asphalt,Rainy,2239.2,1.73,51.74,0.258,10.3,0.398
+Normal Clear,Asphalt,Night / Low Light,173.4,1.0,17.93,0.012,0.0,0.02
+Pothole,Asphalt,Clear,4749.7,1.08,77.72,0.398,14.0,0.72
+Pothole,Asphalt,Night / Low Light,3218.2,1.36,71.83,0.358,13.5,0.713
+Normal Clear,Asphalt,Clear,129.9,0.87,18.55,0.098,0.0,0.02
+Normal Clear,Asphalt,Clear,112.9,0.98,12.34,0.077,0.0,0.02
+Pothole,Asphalt,Clear,4149.3,1.57,74.34,0.6,15.2,0.833
+Pothole,Concrete,Overcast,7317.6,1.38,80.51,0.424,7.3,0.567
+Pothole,Asphalt,Clear,4042.7,1.1,82.83,0.437,5.5,0.265
+Surface Crack,Asphalt,Night / Low Light,2591.5,3.97,32.94,0.525,1.5,0.369
+Normal Clear,Asphalt,Overcast,130.6,0.66,5.58,0.073,0.0,0.02
+Road Debris,Gravel,Rainy,2782.3,1.14,58.61,0.307,8.3,0.554
+Surface Crack,Concrete,Rainy,654.1,2.92,48.82,0.518,3.4,0.679
+Surface Crack,Asphalt,Rainy,1614.1,2.45,32.8,0.828,2.7,0.551
+Pothole,Asphalt,Clear,7504.4,0.54,77.01,0.263,11.8,0.832
+Surface Crack,Asphalt,Rainy,2392.5,4.63,39.09,0.679,2.1,0.483
+Road Debris,Gravel,Rainy,4133.4,1.26,65.58,0.321,5.8,0.513
+Normal Clear,Concrete,Overcast,65.1,0.76,19.43,0.082,0.0,0.02
+Normal Clear,Asphalt,Overcast,202.9,1.37,10.16,0.091,0.0,0.02
+Pothole,Asphalt,Overcast,2140.0,1.02,74.91,0.405,13.7,0.647
+Normal Clear,Asphalt,Overcast,178.5,1.15,15.94,0.038,0.0,0.02
+Normal Clear,Gravel,Rainy,162.7,1.34,11.6,0.095,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,189.0,0.79,19.34,0.095,0.0,0.02
+Surface Crack,Asphalt,Overcast,2111.7,1.97,51.36,0.701,1.9,0.444
+Surface Crack,Asphalt,Clear,2431.8,3.14,40.62,0.617,1.3,0.43
+Surface Crack,Concrete,Overcast,2574.1,5.26,43.43,0.611,2.2,0.481
+Pothole,Concrete,Clear,2401.5,0.99,62.75,0.46,14.3,0.543
+Pothole,Concrete,Rainy,4734.5,1.25,50.9,0.304,14.6,0.737
+Pothole,Asphalt,Night / Low Light,4074.9,1.0,50.78,0.417,14.4,0.7
+Surface Crack,Concrete,Overcast,1328.2,3.83,59.04,0.6,0.7,0.359
+Normal Clear,Asphalt,Clear,121.9,0.67,14.53,0.053,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,2677.5,3.39,40.87,0.603,1.3,0.439
+Pothole,Asphalt,Rainy,3771.2,1.02,79.3,0.462,14.0,0.74
+Normal Clear,Gravel,Clear,161.7,0.64,7.16,0.039,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,131.1,1.01,7.24,0.075,0.0,0.02
+Normal Clear,Concrete,Rainy,184.2,0.8,8.73,0.115,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,103.6,1.07,16.96,0.045,0.0,0.02
+Road Debris,Asphalt,Clear,1504.0,1.41,55.68,0.262,11.7,0.697
+Normal Clear,Asphalt,Rainy,128.8,1.08,11.53,0.134,0.0,0.02
+Pothole,Asphalt,Rainy,5203.7,0.92,62.27,0.424,13.1,0.682
+Surface Crack,Asphalt,Clear,2022.2,4.92,30.7,0.657,2.4,0.485
+Pothole,Asphalt,Clear,2587.3,0.98,60.51,0.354,15.5,0.737
+Pothole,Asphalt,Overcast,3830.3,0.84,82.33,0.25,5.8,0.479
+Pothole,Concrete,Rainy,4676.7,1.46,68.52,0.424,5.1,0.377
+Road Debris,Gravel,Night / Low Light,2168.9,1.58,56.85,0.242,3.4,0.507
+Normal Clear,Asphalt,Clear,145.8,0.99,11.87,0.119,0.0,0.02
+Road Debris,Asphalt,Clear,1502.8,2.21,43.24,0.261,9.7,0.401
+Pothole,Asphalt,Clear,6174.4,1.25,60.79,0.198,15.6,0.902
+Normal Clear,Concrete,Clear,29.0,1.02,13.45,0.069,0.0,0.02
+Road Debris,Concrete,Rainy,1734.3,1.56,45.58,0.412,10.1,0.518
+Surface Crack,Asphalt,Rainy,2250.4,5.52,47.95,0.909,3.2,0.615
+Normal Clear,Asphalt,Rainy,196.2,1.11,13.59,0.109,0.0,0.02
+Pothole,Concrete,Clear,5120.4,1.46,69.94,0.4,6.5,0.445
+Surface Crack,Asphalt,Rainy,961.2,2.56,35.6,0.597,0.6,0.314
+Normal Clear,Asphalt,Clear,228.1,0.97,12.97,0.088,0.0,0.02
+Surface Crack,Asphalt,Clear,2752.5,3.17,43.22,0.639,2.5,0.609
+Surface Crack,Asphalt,Overcast,2134.3,2.62,47.91,0.686,2.9,0.643
+Normal Clear,Asphalt,Rainy,113.2,1.2,11.17,0.07,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,194.7,0.98,13.56,0.1,0.0,0.02
+Pothole,Concrete,Clear,3560.5,1.32,84.19,0.343,6.1,0.412
+Pothole,Asphalt,Overcast,3569.3,1.47,84.41,0.582,14.8,0.717
+Pothole,Gravel,Rainy,5280.7,1.5,56.05,0.436,6.3,0.496
+Road Debris,Asphalt,Night / Low Light,2962.7,1.06,75.49,0.271,11.3,0.234
+Surface Crack,Concrete,Clear,1828.5,2.71,43.52,0.76,3.5,0.586
+Pothole,Asphalt,Overcast,4564.5,0.75,71.66,0.465,15.0,0.788
+Normal Clear,Concrete,Overcast,103.0,0.79,11.3,0.069,0.0,0.02
+Road Debris,Gravel,Overcast,2498.9,1.14,65.05,0.35,2.6,0.373
+Pothole,Asphalt,Clear,3348.9,1.12,58.46,0.496,16.4,0.709
+Road Debris,Gravel,Clear,3970.8,1.38,51.38,0.276,3.1,0.551
+Normal Clear,Concrete,Clear,57.1,1.24,4.41,0.114,0.0,0.02
+Pothole,Concrete,Clear,5020.8,1.34,87.37,0.515,5.9,0.484
+Pothole,Asphalt,Overcast,5251.5,0.9,64.58,0.508,17.7,0.894
+Normal Clear,Concrete,Clear,80.5,1.13,11.27,0.073,0.0,0.02
+Surface Crack,Concrete,Clear,712.5,3.9,34.09,0.607,2.9,0.633
+Road Debris,Asphalt,Clear,1771.1,1.84,58.69,0.229,9.1,0.454
+Surface Crack,Gravel,Clear,1736.7,4.07,48.5,0.648,0.6,0.27
+Pothole,Asphalt,Clear,4853.5,0.57,50.45,0.427,14.9,0.82
+Pothole,Asphalt,Night / Low Light,2461.8,1.04,48.48,0.464,10.0,0.432
+Surface Crack,Asphalt,Rainy,996.3,3.67,31.19,0.81,2.5,0.548
+Pothole,Asphalt,Clear,5250.0,1.4,77.3,0.293,17.3,0.853
+Pothole,Asphalt,Clear,2819.4,1.65,60.06,0.499,6.5,0.485
+Normal Clear,Asphalt,Clear,225.0,0.97,17.14,0.063,0.0,0.02
+Normal Clear,Gravel,Clear,197.7,0.72,13.43,0.111,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,133.7,1.12,9.75,0.089,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,125.9,1.16,6.94,0.05,0.0,0.02
+Pothole,Asphalt,Night / Low Light,6066.9,0.46,60.31,0.409,6.6,0.533
+Normal Clear,Asphalt,Night / Low Light,221.7,0.77,13.87,0.087,0.0,0.02
+Pothole,Gravel,Clear,4071.1,1.39,87.59,0.396,16.8,0.796
+Normal Clear,Concrete,Overcast,52.2,0.95,15.07,0.108,0.0,0.02
+Normal Clear,Concrete,Overcast,147.8,0.88,14.94,0.046,0.0,0.02
+Normal Clear,Asphalt,Overcast,82.3,0.98,18.19,0.128,0.0,0.02
+Normal Clear,Asphalt,Clear,84.1,0.91,21.74,0.059,0.0,0.02
+Road Debris,Asphalt,Overcast,3957.8,1.89,66.91,0.273,9.3,0.458
+Pothole,Asphalt,Overcast,4313.6,0.72,73.77,0.299,14.1,0.783
+Surface Crack,Asphalt,Overcast,813.6,2.71,54.47,0.663,1.2,0.366
+Road Debris,Concrete,Clear,2543.9,1.13,70.69,0.336,4.6,0.661
+Pothole,Asphalt,Night / Low Light,4492.9,0.97,68.53,0.371,17.8,0.874
+Road Debris,Concrete,Overcast,3070.8,0.99,64.24,0.222,4.1,0.47
+Normal Clear,Asphalt,Night / Low Light,161.1,0.91,12.78,0.093,0.0,0.02
+Pothole,Asphalt,Rainy,4079.0,0.68,72.04,0.451,9.2,0.462
+Normal Clear,Asphalt,Overcast,155.5,0.77,17.82,0.059,0.0,0.02
+Normal Clear,Asphalt,Clear,162.5,0.83,3.93,0.039,0.0,0.02
+Normal Clear,Concrete,Rainy,127.6,1.18,13.39,0.084,0.0,0.02
+Normal Clear,Asphalt,Rainy,49.5,1.25,12.89,0.076,0.0,0.02
+Road Debris,Asphalt,Overcast,3519.2,2.0,66.55,0.285,9.1,0.572
+Normal Clear,Gravel,Clear,71.8,0.98,11.94,0.072,0.0,0.02
+Normal Clear,Asphalt,Rainy,160.4,0.58,12.51,0.071,0.0,0.02
+Pothole,Asphalt,Night / Low Light,1960.8,1.33,53.83,0.39,4.7,0.254
+Surface Crack,Asphalt,Night / Low Light,1767.2,3.38,34.7,0.62,2.9,0.566
+Normal Clear,Asphalt,Rainy,153.6,0.65,10.37,0.077,0.0,0.02
+Pothole,Concrete,Overcast,6617.4,0.92,77.47,0.42,15.2,0.819
+Road Debris,Concrete,Overcast,1628.8,1.12,52.49,0.314,8.2,0.482
+Normal Clear,Gravel,Clear,128.5,1.19,13.85,0.06,0.0,0.02
+Pothole,Asphalt,Clear,3808.2,1.19,66.06,0.398,9.7,0.523
+Road Debris,Asphalt,Clear,2973.1,2.03,80.65,0.323,3.0,0.524
+Normal Clear,Concrete,Clear,149.4,1.01,8.48,0.091,0.0,0.02
+Surface Crack,Asphalt,Rainy,697.7,5.78,58.7,0.617,2.0,0.557
+Pothole,Asphalt,Overcast,5415.0,1.03,59.58,0.394,5.7,0.45
+Pothole,Asphalt,Overcast,4479.3,0.75,68.72,0.328,10.0,0.585
+Surface Crack,Asphalt,Clear,1415.1,3.96,32.17,0.568,1.2,0.496
+Normal Clear,Asphalt,Clear,236.8,0.79,13.6,0.052,0.0,0.02
+Pothole,Concrete,Rainy,3686.0,0.59,93.58,0.508,5.3,0.332
+Road Debris,Concrete,Rainy,1946.7,2.01,40.05,0.232,11.9,0.56
+Pothole,Asphalt,Clear,7151.2,1.11,64.45,0.418,5.8,0.544
+Surface Crack,Asphalt,Overcast,1380.1,2.85,28.18,0.664,1.9,0.462
+Normal Clear,Asphalt,Overcast,102.6,1.13,9.06,0.069,0.0,0.02
+Normal Clear,Concrete,Clear,42.6,1.2,7.65,0.066,0.0,0.02
+Pothole,Asphalt,Overcast,5433.7,1.43,54.67,0.462,5.3,0.382
+Surface Crack,Concrete,Clear,1958.6,6.41,47.51,0.569,1.8,0.453
+Pothole,Asphalt,Night / Low Light,3069.7,0.93,67.79,0.429,5.4,0.358
+Surface Crack,Asphalt,Rainy,1480.6,4.87,32.53,0.718,2.7,0.59
+Normal Clear,Asphalt,Clear,236.1,0.84,8.64,0.049,0.0,0.02
+Pothole,Concrete,Overcast,4094.4,1.58,54.63,0.38,7.3,0.507
+Surface Crack,Asphalt,Rainy,1571.6,3.72,53.05,0.719,0.6,0.434
+Surface Crack,Asphalt,Night / Low Light,2820.6,5.32,39.64,0.832,2.1,0.468
+Normal Clear,Asphalt,Clear,180.3,0.71,9.54,0.075,0.0,0.02
+Normal Clear,Concrete,Clear,106.3,0.92,6.53,0.08,0.0,0.02
+Pothole,Concrete,Clear,4784.9,0.9,91.28,0.425,8.3,0.512
+Normal Clear,Asphalt,Rainy,147.0,0.74,19.52,0.087,0.0,0.02
+Surface Crack,Concrete,Night / Low Light,2195.3,2.15,39.86,0.691,2.5,0.538
+Surface Crack,Asphalt,Clear,942.7,3.97,41.4,0.701,1.2,0.403
+Normal Clear,Asphalt,Night / Low Light,130.7,1.02,14.11,0.093,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,156.6,1.04,22.14,0.058,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,148.2,0.64,10.47,0.053,0.0,0.02
+Road Debris,Concrete,Rainy,1843.1,1.03,41.48,0.307,11.8,0.571
+Surface Crack,Concrete,Overcast,2133.5,3.73,34.55,0.699,2.6,0.527
+Normal Clear,Asphalt,Rainy,94.5,0.85,8.84,0.065,0.0,0.02
+Pothole,Asphalt,Rainy,4198.3,1.23,57.85,0.409,11.9,0.597
+Road Debris,Concrete,Clear,1565.5,1.07,37.29,0.257,11.2,0.545
+Surface Crack,Gravel,Clear,2051.0,2.6,52.44,0.467,1.0,0.375
+Normal Clear,Asphalt,Clear,182.1,0.67,10.18,0.113,0.0,0.02
+Pothole,Gravel,Rainy,3965.9,0.57,83.35,0.479,8.6,0.415
+Pothole,Asphalt,Clear,6164.4,0.96,74.18,0.382,16.5,0.825
+Normal Clear,Asphalt,Clear,174.1,1.02,11.62,0.052,0.0,0.02
+Pothole,Concrete,Night / Low Light,6674.6,0.76,72.95,0.45,13.4,0.83
+Road Debris,Asphalt,Clear,2632.7,1.95,51.1,0.299,9.3,0.583
+Pothole,Asphalt,Clear,3220.3,1.08,52.34,0.45,10.4,0.547
+Pothole,Asphalt,Clear,4045.4,0.94,46.64,0.357,4.0,0.322
+Pothole,Concrete,Night / Low Light,4286.0,1.28,73.07,0.415,15.6,0.79
+Pothole,Concrete,Clear,3317.4,1.48,80.83,0.399,6.5,0.472
+Normal Clear,Asphalt,Rainy,256.2,0.9,9.3,0.085,0.0,0.02
+Surface Crack,Asphalt,Rainy,1518.9,2.93,41.13,0.793,1.0,0.528
+Normal Clear,Asphalt,Night / Low Light,91.2,1.16,11.63,0.108,0.0,0.02
+Road Debris,Asphalt,Rainy,1366.0,1.4,46.02,0.25,7.9,0.574
+Surface Crack,Asphalt,Overcast,3013.7,4.1,41.7,0.62,1.1,0.41
+Road Debris,Concrete,Clear,3795.3,1.71,53.69,0.235,4.7,0.458
+Road Debris,Asphalt,Clear,2493.0,0.86,56.43,0.188,8.7,0.573
+Normal Clear,Asphalt,Clear,198.0,0.94,11.12,0.038,0.0,0.02
+Surface Crack,Asphalt,Clear,1918.1,3.86,38.15,0.765,1.4,0.405
+Surface Crack,Asphalt,Clear,1808.4,3.03,59.38,0.708,2.0,0.385
+Normal Clear,Gravel,Clear,135.7,0.91,11.28,0.087,0.0,0.02
+Normal Clear,Asphalt,Rainy,139.5,1.28,13.74,0.095,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,173.1,0.74,12.81,0.087,0.0,0.02
+Surface Crack,Asphalt,Clear,1125.4,4.77,28.7,0.902,0.6,0.358
+Normal Clear,Asphalt,Night / Low Light,177.3,0.78,13.43,0.081,0.0,0.02
+Surface Crack,Asphalt,Clear,1617.8,5.09,37.77,0.677,1.7,0.503
+Surface Crack,Asphalt,Clear,2649.0,2.35,44.49,0.587,3.0,0.638
+Pothole,Asphalt,Rainy,2622.1,1.61,54.76,0.616,13.1,0.728
+Road Debris,Asphalt,Clear,2047.9,1.85,50.06,0.238,10.3,0.622
+Pothole,Asphalt,Clear,2929.4,1.18,70.68,0.382,16.1,0.78
+Surface Crack,Asphalt,Clear,2453.2,4.82,41.76,0.692,0.6,0.435
+Normal Clear,Gravel,Overcast,218.7,1.04,14.11,0.071,0.0,0.02
+Pothole,Asphalt,Night / Low Light,4405.8,1.19,71.52,0.396,9.8,0.579
+Pothole,Asphalt,Clear,6213.8,1.62,66.94,0.527,5.4,0.46
+Pothole,Asphalt,Overcast,6185.7,1.48,65.62,0.443,12.5,0.65
+Normal Clear,Asphalt,Night / Low Light,93.4,1.1,14.69,0.114,0.0,0.02
+Road Debris,Concrete,Rainy,2135.9,1.58,47.99,0.382,6.3,0.429
+Surface Crack,Asphalt,Overcast,1866.7,5.15,44.09,0.657,2.3,0.635
+Normal Clear,Concrete,Clear,199.5,1.1,12.96,0.06,0.0,0.02
+Normal Clear,Asphalt,Clear,183.7,0.99,12.23,0.107,0.0,0.02
+Surface Crack,Asphalt,Rainy,1970.7,3.82,56.49,0.568,3.4,0.558
+Normal Clear,Concrete,Rainy,167.9,0.73,8.9,0.111,0.0,0.02
+Normal Clear,Asphalt,Rainy,150.0,1.07,9.81,0.081,0.0,0.02
+Normal Clear,Asphalt,Rainy,34.9,1.17,19.23,0.048,0.0,0.02
+Pothole,Asphalt,Overcast,3371.6,1.33,85.69,0.42,10.2,0.516
+Normal Clear,Concrete,Overcast,104.9,0.92,10.83,0.102,0.0,0.02
+Road Debris,Asphalt,Overcast,513.5,1.57,48.03,0.268,2.2,0.575
+Surface Crack,Concrete,Overcast,1929.0,2.23,48.17,0.612,2.8,0.618
+Surface Crack,Asphalt,Overcast,2143.1,4.59,37.95,0.787,0.9,0.327
+Pothole,Concrete,Clear,4274.9,0.89,78.81,0.371,10.6,0.688
+Pothole,Asphalt,Clear,4344.4,0.78,52.33,0.482,4.2,0.385
+Normal Clear,Concrete,Rainy,131.3,0.91,6.67,0.052,0.0,0.02
+Pothole,Asphalt,Overcast,5677.4,1.35,71.28,0.313,9.1,0.718
+Surface Crack,Gravel,Rainy,1868.3,3.76,45.35,0.672,1.7,0.432
+Road Debris,Asphalt,Night / Low Light,883.5,1.71,60.55,0.226,4.4,0.156
+Pothole,Asphalt,Clear,3098.2,1.62,65.34,0.435,15.1,0.713
+Normal Clear,Asphalt,Clear,99.3,0.89,8.28,0.043,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3787.6,1.22,61.13,0.394,7.6,0.476
+Surface Crack,Asphalt,Clear,2459.8,4.31,42.3,0.713,3.0,0.642
+Surface Crack,Gravel,Clear,1817.2,6.43,34.72,0.591,2.2,0.528
+Pothole,Gravel,Clear,5597.9,1.13,75.88,0.502,13.4,0.828
+Pothole,Asphalt,Clear,3047.7,1.39,67.48,0.371,10.0,0.579
+Normal Clear,Gravel,Night / Low Light,119.8,1.08,12.96,0.117,0.0,0.02
+Normal Clear,Asphalt,Clear,49.0,1.07,13.35,0.054,0.0,0.02
+Pothole,Asphalt,Rainy,5652.3,0.78,80.77,0.248,16.8,0.85
+Normal Clear,Concrete,Clear,171.5,0.7,17.6,0.044,0.0,0.02
+Normal Clear,Concrete,Overcast,188.7,1.02,11.24,0.072,0.0,0.02
+Normal Clear,Gravel,Clear,118.1,1.26,12.05,0.042,0.0,0.02
+Surface Crack,Asphalt,Rainy,1569.6,3.94,52.18,0.59,2.1,0.448
+Surface Crack,Concrete,Night / Low Light,2123.4,4.37,52.66,0.735,1.7,0.465
+Surface Crack,Asphalt,Clear,2231.3,2.5,30.24,0.732,1.5,0.374
+Normal Clear,Asphalt,Overcast,111.6,1.19,17.26,0.018,0.0,0.02
+Normal Clear,Asphalt,Rainy,89.7,0.72,8.53,0.073,0.0,0.02
+Pothole,Gravel,Clear,4023.1,1.35,44.88,0.378,17.2,0.911
+Surface Crack,Concrete,Clear,1973.7,4.83,37.03,0.676,2.7,0.575
+Normal Clear,Concrete,Overcast,276.4,0.89,19.33,0.01,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,178.6,1.13,13.49,0.093,0.0,0.02
+Normal Clear,Asphalt,Clear,176.2,1.11,10.68,0.072,0.0,0.02
+Normal Clear,Asphalt,Clear,82.0,1.15,17.21,0.132,0.0,0.02
+Surface Crack,Asphalt,Overcast,1307.4,1.9,48.01,0.534,2.6,0.587
+Road Debris,Asphalt,Night / Low Light,2506.7,1.47,38.82,0.251,7.2,0.53
+Normal Clear,Concrete,Night / Low Light,154.7,1.1,15.21,0.01,0.0,0.02
+Pothole,Asphalt,Clear,3934.6,1.17,64.46,0.392,10.5,0.628
+Road Debris,Asphalt,Night / Low Light,1657.2,1.12,56.59,0.263,6.5,0.598
+Normal Clear,Asphalt,Clear,260.6,1.13,15.05,0.08,0.0,0.02
+Pothole,Asphalt,Clear,6375.7,1.37,65.71,0.568,4.1,0.368
+Normal Clear,Asphalt,Rainy,173.0,1.34,1.31,0.064,0.0,0.02
+Road Debris,Gravel,Overcast,1378.8,1.53,51.74,0.264,9.1,0.443
+Normal Clear,Asphalt,Clear,277.5,1.33,19.99,0.062,0.0,0.02
+Pothole,Concrete,Rainy,4150.7,1.27,78.42,0.393,14.6,0.839
+Pothole,Asphalt,Night / Low Light,3768.5,1.23,64.03,0.473,5.9,0.404
+Road Debris,Asphalt,Rainy,2086.8,1.92,65.68,0.286,7.6,0.566
+Surface Crack,Asphalt,Overcast,1926.3,3.86,46.7,0.641,0.9,0.427
+Normal Clear,Concrete,Night / Low Light,214.8,1.34,18.07,0.078,0.0,0.02
+Normal Clear,Concrete,Clear,195.1,0.94,11.78,0.094,0.0,0.02
+Pothole,Asphalt,Overcast,2761.9,1.31,59.7,0.325,15.4,0.756
+Road Debris,Asphalt,Night / Low Light,1547.7,1.28,74.54,0.317,6.9,0.38
+Road Debris,Asphalt,Overcast,3783.5,2.33,47.14,0.32,7.3,0.37
+Surface Crack,Asphalt,Night / Low Light,1539.8,3.41,38.83,0.763,1.2,0.468
+Normal Clear,Gravel,Overcast,194.9,1.13,10.46,0.048,0.0,0.02
+Normal Clear,Asphalt,Clear,215.6,1.33,9.9,0.075,0.0,0.02
+Normal Clear,Asphalt,Clear,76.6,1.11,20.3,0.108,0.0,0.02
+Normal Clear,Asphalt,Overcast,260.6,0.92,6.77,0.125,0.0,0.02
+Surface Crack,Asphalt,Clear,1903.1,2.82,59.98,0.589,1.2,0.363
+Normal Clear,Asphalt,Clear,129.2,1.02,9.77,0.054,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,188.0,1.07,9.84,0.095,0.0,0.02
+Normal Clear,Concrete,Overcast,127.3,1.01,15.9,0.062,0.0,0.02
+Normal Clear,Concrete,Clear,91.4,0.97,6.55,0.072,0.0,0.02
+Pothole,Asphalt,Overcast,4163.2,0.46,74.37,0.405,11.9,0.664
+Normal Clear,Concrete,Night / Low Light,180.7,0.99,20.51,0.055,0.0,0.02
+Pothole,Asphalt,Rainy,4119.5,1.7,63.32,0.411,11.6,0.648
+Surface Crack,Asphalt,Overcast,1542.4,4.8,41.5,0.578,3.2,0.596
+Surface Crack,Asphalt,Clear,1240.8,5.11,44.03,0.638,3.3,0.664
+Normal Clear,Asphalt,Clear,136.4,0.95,12.06,0.1,0.0,0.02
+Normal Clear,Asphalt,Clear,147.4,0.73,14.3,0.095,0.0,0.02
+Normal Clear,Asphalt,Rainy,160.3,1.22,12.12,0.113,0.0,0.02
+Normal Clear,Asphalt,Rainy,220.4,1.12,9.01,0.076,0.0,0.02
+Road Debris,Gravel,Overcast,3615.0,0.9,51.08,0.279,4.9,0.443
+Normal Clear,Asphalt,Night / Low Light,131.8,1.17,13.93,0.076,0.0,0.02
+Surface Crack,Asphalt,Rainy,2136.5,3.68,46.65,0.583,0.8,0.343
+Surface Crack,Asphalt,Night / Low Light,2061.6,4.83,41.11,0.704,1.7,0.511
+Pothole,Asphalt,Clear,4898.0,1.49,73.51,0.564,17.7,0.888
+Normal Clear,Asphalt,Clear,259.9,1.07,11.07,0.109,0.0,0.02
+Normal Clear,Concrete,Overcast,192.1,0.5,11.99,0.068,0.0,0.02
+Surface Crack,Asphalt,Clear,2038.0,3.59,44.32,0.564,3.3,0.649
+Pothole,Asphalt,Clear,5205.4,0.72,75.83,0.361,15.0,0.795
+Normal Clear,Asphalt,Night / Low Light,208.5,0.75,9.85,0.016,0.0,0.02
+Pothole,Asphalt,Clear,6150.0,1.28,62.44,0.314,5.8,0.499
+Normal Clear,Asphalt,Overcast,114.4,1.02,15.79,0.078,0.0,0.02
+Normal Clear,Asphalt,Clear,98.1,1.23,17.56,0.091,0.0,0.02
+Surface Crack,Asphalt,Clear,1210.9,2.83,26.05,0.591,0.9,0.447
+Pothole,Asphalt,Clear,4145.2,1.32,80.48,0.337,13.6,0.679
+Normal Clear,Asphalt,Rainy,175.5,0.83,10.63,0.025,0.0,0.02
+Normal Clear,Gravel,Clear,168.0,0.98,9.31,0.077,0.0,0.02
+Road Debris,Asphalt,Rainy,2306.5,1.17,58.99,0.282,6.7,0.487
+Normal Clear,Concrete,Overcast,61.6,0.79,18.55,0.087,0.0,0.02
+Pothole,Concrete,Overcast,4754.8,1.12,67.38,0.386,12.2,0.684
+Road Debris,Asphalt,Clear,2993.1,1.53,42.68,0.271,4.0,0.256
+Normal Clear,Asphalt,Rainy,90.3,1.0,14.31,0.125,0.0,0.02
+Normal Clear,Asphalt,Rainy,72.9,1.2,12.52,0.066,0.0,0.02
+Pothole,Concrete,Overcast,5411.8,1.13,76.61,0.341,16.2,0.849
+Normal Clear,Asphalt,Overcast,131.9,0.99,4.38,0.079,0.0,0.02
+Road Debris,Concrete,Clear,3837.2,1.41,54.67,0.239,9.6,0.519
+Surface Crack,Gravel,Night / Low Light,2303.3,2.52,54.89,0.805,1.3,0.462
+Pothole,Concrete,Clear,4001.9,1.56,72.97,0.53,11.8,0.567
+Normal Clear,Asphalt,Clear,158.5,0.88,12.2,0.075,0.0,0.02
+Pothole,Asphalt,Clear,4336.1,1.19,56.82,0.443,9.3,0.509
+Surface Crack,Concrete,Rainy,1000.7,1.33,44.07,0.495,2.4,0.556
+Surface Crack,Asphalt,Rainy,1557.0,4.37,62.59,0.662,2.2,0.59
+Normal Clear,Asphalt,Clear,83.5,0.98,10.87,0.068,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,151.4,1.43,12.43,0.067,0.0,0.02
+Normal Clear,Asphalt,Clear,164.9,0.74,9.14,0.11,0.0,0.02
+Pothole,Gravel,Rainy,4726.0,1.83,71.21,0.32,8.0,0.435
+Road Debris,Concrete,Clear,1651.4,2.05,50.09,0.23,10.5,0.416
+Road Debris,Asphalt,Clear,3591.3,1.92,71.67,0.381,9.6,0.606
+Normal Clear,Gravel,Clear,176.0,0.75,14.53,0.083,0.0,0.02
+Normal Clear,Asphalt,Clear,213.2,1.16,14.2,0.029,0.0,0.02
+Pothole,Asphalt,Rainy,4393.2,1.03,71.03,0.387,16.6,0.87
+Normal Clear,Asphalt,Clear,81.3,0.98,10.12,0.051,0.0,0.02
+Pothole,Asphalt,Rainy,3600.6,0.93,72.2,0.452,14.0,0.741
+Road Debris,Asphalt,Clear,2258.6,2.7,67.43,0.243,7.4,0.389
+Surface Crack,Asphalt,Night / Low Light,1111.9,1.3,33.87,0.635,2.0,0.468
+Surface Crack,Asphalt,Night / Low Light,1810.2,2.98,56.22,0.944,1.4,0.432
+Surface Crack,Asphalt,Clear,1795.7,3.16,43.36,0.69,2.2,0.602
+Road Debris,Concrete,Rainy,3278.8,1.27,61.78,0.316,4.3,0.701
+Surface Crack,Concrete,Clear,3104.0,2.4,42.58,0.67,0.8,0.412
+Normal Clear,Asphalt,Rainy,62.5,1.16,7.78,0.018,0.0,0.02
+Surface Crack,Asphalt,Clear,2893.1,2.86,39.22,0.763,3.3,0.625
+Pothole,Asphalt,Rainy,4177.6,0.72,75.77,0.488,12.4,0.605
+Normal Clear,Asphalt,Rainy,96.0,1.28,9.16,0.09,0.0,0.02
+Surface Crack,Concrete,Overcast,1037.1,3.67,44.11,0.618,1.0,0.467
+Surface Crack,Concrete,Rainy,2462.9,3.72,27.75,0.689,2.7,0.586
+Normal Clear,Asphalt,Rainy,191.5,0.81,8.89,0.059,0.0,0.02
+Surface Crack,Asphalt,Clear,2957.2,4.36,48.71,0.687,2.3,0.589
+Pothole,Asphalt,Overcast,4213.7,1.37,87.3,0.339,9.9,0.534
+Surface Crack,Asphalt,Night / Low Light,1227.7,2.41,34.75,0.656,2.9,0.589
+Normal Clear,Asphalt,Clear,91.6,0.98,18.72,0.068,0.0,0.02
+Road Debris,Gravel,Overcast,508.4,1.99,60.42,0.306,9.5,0.557
+Normal Clear,Concrete,Clear,58.1,1.02,13.19,0.112,0.0,0.02
+Road Debris,Asphalt,Overcast,4137.7,1.86,59.4,0.341,4.1,0.539
+Pothole,Asphalt,Overcast,4467.8,1.41,69.04,0.464,8.9,0.589
+Surface Crack,Gravel,Clear,2403.2,2.29,55.93,0.619,2.8,0.635
+Normal Clear,Asphalt,Night / Low Light,97.7,0.59,11.75,0.107,0.0,0.02
+Pothole,Asphalt,Clear,4262.9,0.79,57.14,0.326,11.6,0.604
+Pothole,Asphalt,Clear,4868.0,1.1,73.93,0.309,5.8,0.43
+Pothole,Concrete,Clear,4975.2,1.36,75.72,0.486,5.4,0.451
+Surface Crack,Asphalt,Night / Low Light,1105.5,4.77,33.6,0.513,0.9,0.375
+Normal Clear,Concrete,Clear,109.3,1.0,12.63,0.064,0.0,0.02
+Pothole,Concrete,Clear,7247.6,1.3,69.42,0.366,10.9,0.741
+Road Debris,Concrete,Night / Low Light,1693.5,1.59,44.33,0.234,5.9,0.448
+Pothole,Gravel,Clear,5752.7,0.94,63.72,0.454,6.0,0.452
+Normal Clear,Asphalt,Clear,109.4,0.87,9.53,0.074,0.0,0.02
+Pothole,Asphalt,Clear,6626.9,0.79,83.55,0.479,11.3,0.838
+Surface Crack,Concrete,Clear,1908.8,2.71,55.5,0.53,2.1,0.47
+Normal Clear,Concrete,Rainy,180.8,0.57,16.61,0.07,0.0,0.02
+Normal Clear,Asphalt,Clear,156.3,0.85,4.41,0.117,0.0,0.02
+Surface Crack,Asphalt,Overcast,2601.4,3.41,50.3,0.611,3.2,0.679
+Surface Crack,Concrete,Night / Low Light,2198.7,4.38,63.89,0.602,2.3,0.495
+Surface Crack,Concrete,Clear,2463.5,3.49,38.45,0.54,0.7,0.364
+Pothole,Asphalt,Clear,2459.6,1.16,74.75,0.341,4.7,0.382
+Pothole,Asphalt,Clear,3597.8,1.2,71.83,0.459,9.3,0.475
+Surface Crack,Asphalt,Rainy,1978.9,4.77,49.43,0.594,1.3,0.471
+Pothole,Asphalt,Clear,5114.0,1.21,65.36,0.473,14.9,0.791
+Surface Crack,Asphalt,Clear,1985.7,3.21,51.06,0.54,2.0,0.473
+Normal Clear,Asphalt,Overcast,155.0,1.24,10.59,0.064,0.0,0.02
+Normal Clear,Asphalt,Clear,249.9,1.3,8.94,0.084,0.0,0.02
+Road Debris,Asphalt,Clear,2795.8,1.58,73.15,0.305,11.1,0.638
+Pothole,Concrete,Overcast,5857.1,0.91,78.65,0.512,8.1,0.582
+Pothole,Concrete,Night / Low Light,4800.5,1.45,90.65,0.326,9.6,0.577
+Normal Clear,Asphalt,Clear,212.4,1.0,15.75,0.093,0.0,0.02
+Surface Crack,Asphalt,Night / Low Light,1398.4,3.95,43.86,0.714,3.1,0.617
+Pothole,Concrete,Clear,5037.7,1.94,66.66,0.412,11.9,0.707
+Road Debris,Asphalt,Night / Low Light,3053.5,1.56,55.16,0.224,3.3,0.372
+Road Debris,Gravel,Rainy,3527.4,2.04,54.23,0.244,8.7,0.705
+Road Debris,Concrete,Overcast,2431.4,1.73,64.6,0.362,11.0,0.534
+Pothole,Asphalt,Overcast,3116.6,1.08,61.66,0.467,17.0,0.865
+Pothole,Gravel,Overcast,5048.9,0.98,57.61,0.577,13.6,0.722
+Normal Clear,Asphalt,Overcast,168.0,1.16,18.97,0.095,0.0,0.02
+Pothole,Asphalt,Rainy,3624.4,1.37,67.55,0.232,12.6,0.641
+Normal Clear,Asphalt,Clear,164.4,1.04,18.37,0.096,0.0,0.02
+Normal Clear,Asphalt,Rainy,84.5,0.87,12.04,0.111,0.0,0.02
+Road Debris,Gravel,Night / Low Light,1131.6,1.7,62.31,0.353,5.0,0.492
+Surface Crack,Asphalt,Overcast,1699.8,5.59,45.69,0.662,3.2,0.653
+Pothole,Asphalt,Clear,3174.2,1.47,78.45,0.396,7.7,0.434
+Road Debris,Asphalt,Overcast,3285.7,1.32,41.2,0.275,10.6,0.425
+Normal Clear,Concrete,Overcast,213.8,0.8,14.25,0.035,0.0,0.02
+Normal Clear,Asphalt,Overcast,78.2,1.1,10.66,0.045,0.0,0.02
+Pothole,Asphalt,Overcast,5639.9,1.31,42.47,0.497,9.8,0.568
+Pothole,Concrete,Clear,4991.8,1.15,60.31,0.3,9.4,0.54
+Normal Clear,Asphalt,Clear,115.1,1.15,10.35,0.102,0.0,0.02
+Normal Clear,Concrete,Clear,204.8,1.11,1.0,0.071,0.0,0.02
+Normal Clear,Asphalt,Clear,141.7,0.99,3.67,0.057,0.0,0.02
+Pothole,Concrete,Rainy,2865.3,0.92,64.9,0.361,4.9,0.273
+Road Debris,Concrete,Overcast,2029.7,1.42,46.46,0.391,5.3,0.467
+Normal Clear,Asphalt,Overcast,127.6,0.72,14.71,0.089,0.0,0.02
+Normal Clear,Asphalt,Rainy,120.0,0.97,7.71,0.106,0.0,0.02
+Surface Crack,Concrete,Clear,3041.4,3.09,54.79,0.564,1.9,0.466
+Pothole,Asphalt,Clear,3787.4,1.53,69.18,0.491,10.5,0.56
+Road Debris,Gravel,Clear,2640.5,1.21,62.8,0.342,11.0,0.344
+Pothole,Asphalt,Clear,6715.9,1.49,59.23,0.487,15.6,0.832
+Surface Crack,Asphalt,Rainy,1613.5,2.42,39.09,0.575,1.0,0.357
+Normal Clear,Asphalt,Clear,192.8,1.36,6.68,0.118,0.0,0.02
+Surface Crack,Gravel,Clear,1513.4,4.18,31.77,0.702,2.1,0.561
+Normal Clear,Asphalt,Clear,117.8,1.06,13.95,0.063,0.0,0.02
+Pothole,Concrete,Rainy,3542.1,1.16,77.64,0.408,17.3,0.856
+Normal Clear,Concrete,Rainy,160.8,1.11,10.41,0.043,0.0,0.02
+Normal Clear,Asphalt,Rainy,163.8,1.24,13.2,0.09,0.0,0.02
+Pothole,Asphalt,Clear,4449.4,1.42,65.77,0.384,8.9,0.568
+Pothole,Concrete,Overcast,5457.3,1.19,68.57,0.374,5.1,0.442
+Surface Crack,Asphalt,Clear,1816.3,3.58,41.03,0.664,1.4,0.418
+Pothole,Concrete,Rainy,2806.7,1.06,76.09,0.345,13.5,0.632
+Normal Clear,Asphalt,Night / Low Light,183.4,0.73,9.84,0.04,0.0,0.02
+Normal Clear,Asphalt,Rainy,171.7,1.13,13.35,0.047,0.0,0.02
+Surface Crack,Concrete,Overcast,1352.5,4.06,31.5,0.626,1.9,0.462
+Pothole,Asphalt,Clear,5040.7,1.09,60.79,0.416,7.6,0.498
+Surface Crack,Asphalt,Rainy,1421.6,6.15,58.33,0.723,3.0,0.681
+Normal Clear,Asphalt,Clear,108.4,0.88,4.86,0.055,0.0,0.02
+Pothole,Asphalt,Rainy,6221.2,1.29,59.28,0.431,10.1,0.657
+Road Debris,Asphalt,Clear,4138.8,1.21,53.57,0.394,4.1,0.428
+Road Debris,Concrete,Clear,3480.0,1.68,43.95,0.307,3.5,0.496
+Road Debris,Asphalt,Rainy,1743.3,1.47,34.44,0.309,5.4,0.395
+Pothole,Asphalt,Rainy,5006.7,1.33,85.53,0.402,17.8,0.94
+Normal Clear,Concrete,Clear,170.2,1.01,17.31,0.09,0.0,0.02
+Pothole,Asphalt,Night / Low Light,3653.5,1.23,63.57,0.433,15.4,0.798
+Pothole,Asphalt,Rainy,2837.9,1.09,56.23,0.41,8.5,0.515
+Normal Clear,Gravel,Clear,68.7,1.08,5.3,0.05,0.0,0.02
+Normal Clear,Concrete,Rainy,131.9,1.31,7.71,0.08,0.0,0.02
+Pothole,Asphalt,Night / Low Light,5196.0,1.65,77.33,0.508,7.7,0.551
+Pothole,Asphalt,Rainy,4766.7,1.27,73.05,0.317,6.6,0.516
+Pothole,Asphalt,Clear,3536.2,1.43,67.17,0.394,10.8,0.599
+Pothole,Asphalt,Clear,3301.9,1.23,58.16,0.393,9.5,0.491
+Pothole,Asphalt,Rainy,2907.3,0.85,65.52,0.43,16.0,0.777
+Pothole,Asphalt,Overcast,5301.9,1.48,61.45,0.404,4.6,0.399
+Surface Crack,Asphalt,Night / Low Light,1701.5,4.21,43.29,0.689,3.2,0.678
+Normal Clear,Asphalt,Clear,149.4,0.97,13.36,0.129,0.0,0.02
+Road Debris,Asphalt,Rainy,1955.3,1.92,46.82,0.303,3.2,0.421
+Normal Clear,Gravel,Overcast,98.9,0.82,10.39,0.093,0.0,0.02
+Pothole,Asphalt,Clear,5162.2,1.37,48.94,0.419,7.2,0.488
+Normal Clear,Asphalt,Overcast,149.1,1.12,12.17,0.087,0.0,0.02
+Normal Clear,Asphalt,Overcast,92.3,1.06,13.31,0.1,0.0,0.02
+Normal Clear,Asphalt,Clear,133.6,1.0,14.83,0.048,0.0,0.02
+Normal Clear,Concrete,Overcast,60.3,0.78,9.44,0.112,0.0,0.02
+Normal Clear,Asphalt,Clear,251.5,0.82,11.66,0.064,0.0,0.02
+Road Debris,Asphalt,Overcast,2933.1,1.61,46.23,0.263,5.6,0.486
+Pothole,Asphalt,Clear,5180.1,1.6,54.25,0.379,12.8,0.737
+Road Debris,Concrete,Clear,3230.5,1.54,68.63,0.333,9.7,0.531
+Normal Clear,Asphalt,Rainy,142.9,1.17,12.95,0.104,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,197.2,1.09,14.01,0.05,0.0,0.02
+Road Debris,Asphalt,Clear,2004.7,1.84,69.24,0.184,7.2,0.472
+Pothole,Asphalt,Rainy,3943.7,1.45,57.67,0.54,5.0,0.383
+Surface Crack,Asphalt,Clear,580.9,3.61,48.71,0.728,3.1,0.675
+Normal Clear,Asphalt,Clear,157.9,1.62,14.22,0.084,0.0,0.02
+Road Debris,Concrete,Clear,2149.9,1.85,51.33,0.254,8.4,0.453
+Road Debris,Concrete,Rainy,1656.9,1.49,61.6,0.412,10.6,0.629
+Pothole,Asphalt,Clear,6794.1,0.75,39.5,0.579,10.1,0.648
+Surface Crack,Asphalt,Clear,1206.6,2.69,39.38,0.53,3.1,0.531
+Normal Clear,Asphalt,Clear,151.6,0.83,11.0,0.074,0.0,0.02
+Normal Clear,Gravel,Clear,192.3,0.9,14.79,0.032,0.0,0.02
+Normal Clear,Asphalt,Rainy,194.9,1.26,11.08,0.055,0.0,0.02
+Surface Crack,Concrete,Overcast,1153.4,3.77,54.73,0.607,1.7,0.525
+Road Debris,Asphalt,Clear,3596.4,1.35,42.86,0.164,10.3,0.448
+Pothole,Asphalt,Overcast,3779.5,1.51,60.02,0.303,18.0,0.796
+Normal Clear,Asphalt,Night / Low Light,80.4,0.87,16.84,0.095,0.0,0.02
+Surface Crack,Asphalt,Rainy,1907.5,3.09,45.24,0.596,1.3,0.411
+Surface Crack,Gravel,Rainy,655.6,4.01,48.17,0.668,0.5,0.377
+Road Debris,Gravel,Overcast,2896.8,1.4,50.18,0.251,5.6,0.384
+Normal Clear,Asphalt,Clear,109.4,1.4,8.79,0.064,0.0,0.02
+Pothole,Asphalt,Rainy,4218.8,1.09,89.78,0.282,16.5,0.93
+Normal Clear,Gravel,Night / Low Light,189.3,1.02,4.51,0.083,0.0,0.02
+Surface Crack,Concrete,Rainy,2001.3,1.39,60.55,0.681,1.2,0.475
+Surface Crack,Asphalt,Overcast,2196.1,3.57,61.2,0.719,1.0,0.357
+Pothole,Asphalt,Clear,3493.2,1.12,75.39,0.364,14.8,0.744
+Surface Crack,Asphalt,Night / Low Light,2016.8,4.95,43.19,0.411,2.7,0.671
+Road Debris,Asphalt,Rainy,3080.5,1.24,44.67,0.288,3.2,0.404
+Pothole,Asphalt,Clear,3647.1,1.05,74.65,0.438,16.6,0.829
+Surface Crack,Asphalt,Clear,2910.7,4.38,53.91,0.69,3.0,0.689
+Normal Clear,Asphalt,Rainy,209.9,1.1,6.42,0.029,0.0,0.02
+Pothole,Asphalt,Overcast,5235.2,1.4,59.33,0.448,15.3,0.772
+Normal Clear,Asphalt,Rainy,183.8,1.18,11.04,0.09,0.0,0.02
+Surface Crack,Concrete,Overcast,1951.3,2.86,47.52,0.774,3.4,0.671
+Normal Clear,Concrete,Clear,197.9,0.87,14.37,0.073,0.0,0.02
+Pothole,Asphalt,Clear,4876.6,1.45,50.58,0.333,18.0,0.875
+Pothole,Gravel,Clear,3375.9,1.71,70.02,0.362,13.0,0.621
+Pothole,Gravel,Clear,5542.7,1.19,72.12,0.342,11.3,0.61
+Pothole,Asphalt,Clear,4602.1,1.25,53.8,0.442,6.1,0.523
+Pothole,Asphalt,Clear,4520.4,0.96,76.83,0.401,16.9,0.808
+Normal Clear,Concrete,Night / Low Light,53.5,1.1,8.75,0.068,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,222.9,0.97,12.01,0.095,0.0,0.02
+Normal Clear,Gravel,Clear,175.3,0.82,11.76,0.081,0.0,0.02
+Normal Clear,Concrete,Clear,163.6,1.06,22.35,0.045,0.0,0.02
+Pothole,Asphalt,Clear,5676.1,1.56,73.91,0.368,10.2,0.714
+Surface Crack,Asphalt,Rainy,1952.0,5.15,38.75,0.443,1.5,0.401
+Surface Crack,Asphalt,Clear,1481.0,4.26,43.22,0.601,2.4,0.464
+Pothole,Asphalt,Clear,5414.8,0.77,64.75,0.422,8.9,0.544
+Road Debris,Asphalt,Overcast,3090.4,1.53,54.29,0.252,9.1,0.483
+Road Debris,Asphalt,Overcast,4924.2,0.96,44.55,0.384,3.7,0.344
+Surface Crack,Asphalt,Clear,2043.0,5.41,45.07,0.474,3.4,0.742
+Surface Crack,Concrete,Clear,1337.1,4.75,47.62,0.747,1.6,0.438
+Normal Clear,Asphalt,Clear,167.2,0.96,12.85,0.079,0.0,0.02
+Normal Clear,Asphalt,Night / Low Light,229.8,1.05,11.99,0.073,0.0,0.02
+Surface Crack,Asphalt,Rainy,2305.9,4.58,42.81,0.534,1.8,0.469
+Normal Clear,Asphalt,Clear,103.4,0.88,15.74,0.096,0.0,0.02
+Normal Clear,Concrete,Night / Low Light,146.2,1.02,10.3,0.105,0.0,0.02
+Surface Crack,Concrete,Clear,2275.5,4.89,52.56,0.655,2.8,0.55
+Surface Crack,Gravel,Clear,2152.5,4.76,50.14,0.637,2.8,0.662
+Road Debris,Asphalt,Clear,2391.9,1.91,60.6,0.27,4.3,0.541
+Normal Clear,Asphalt,Rainy,189.0,0.89,11.92,0.121,0.0,0.02
+Normal Clear,Asphalt,Clear,211.0,1.06,10.82,0.076,0.0,0.02
+Pothole,Asphalt,Clear,5541.2,1.19,61.3,0.517,4.9,0.481
+Surface Crack,Concrete,Clear,2059.0,2.88,59.68,0.559,2.9,0.558
