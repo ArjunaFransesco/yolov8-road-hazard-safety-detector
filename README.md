@@ -130,3 +130,6 @@ jupyter notebook notebooks/road_hazard_detection_cv.ipynb
 - **Portfolio Website**: [https://arjunafransesco.github.io/arjuna-portfolio/](https://arjunafransesco.github.io/arjuna-portfolio/)
 - **LinkedIn**: [https://www.linkedin.com/in/arjunafransesco](https://www.linkedin.com/in/arjunafransesco)
 
+
+
+<!-- Last Maintenance Audit: 2026-08-25 -->
